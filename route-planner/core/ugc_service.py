@@ -15,12 +15,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 # ================================================================
-# 【落地版】调用大众点评UGC真实接口
+# 【落地版】调用如大众点评UGC真实接口
 # 实际部署时取消注释，注释掉下方Mock版本
 # ================================================================
 # import httpx
 #
-# DIANPING_REVIEW_API = "https://api.dianping.com/v1/reviews"
+# DIANPING_REVIEW_API = "接口"
 # DIANPING_API_KEY = "YOUR_API_KEY"
 #
 # async def fetch_reviews_from_api(poi_id: str) -> dict:
