@@ -1,6 +1,5 @@
 # ================================================================
 # HTTP路由
-# 负责人：后端
 #
 # 职责：
 # - 接收前端请求
@@ -11,11 +10,20 @@
 
 from fastapi import APIRouter
 from models.schemas import PlanRequest, PlanResponse
+from agent import planner_agent
 
 router = APIRouter()
 
 
 @router.post("/api/plan", response_model=PlanResponse)
 async def plan_route(request: PlanRequest) -> PlanResponse:
-    # TODO: 调用 planner_agent.run(request.user_input)
-    pass
+    try:
+        result = await planner_agent.run(request.user_input)
+        return result
+    except Exception as e:
+        return PlanResponse(
+            status="error",
+            user_input=request.user_input,
+            routes=[],
+            error_msg=str(e)
+        )

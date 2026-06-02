@@ -1,1 +1,72 @@
-[]
+[
+    {
+    "id": "sh001", "name": "外滩", "city": "上海",
+    "category": ["景点", "网红"], "cost": 0, "duration": 90,
+    "location": {"lat": 31.2397, "lng": 121.4901},
+    "score": 4.8, "tags": ["免费", "拍照圣地", "夜景"],
+    "open_time": "00:00-24:00", "suitable_for": ["亲子", "情侣", "朋友", "独行"]
+    },
+    {
+    "id": "sh002", "name": "豫园", "city": "上海",
+    "category": ["景点", "文化", "美食"], "cost": 40, "duration": 120,
+    "location": {"lat": 31.2269, "lng": 121.4927},
+    "score": 4.5, "tags": ["历史文化", "江南园林", "小吃"],
+    "open_time": "08:30-17:00", "suitable_for": ["亲子", "老人", "情侣"]
+    },
+    {
+    "id": "sh003", "name": "上海迪士尼乐园", "city": "上海",
+    "category": ["景点", "亲子"], "cost": 719, "duration": 480,
+    "location": {"lat": 31.1440, "lng": 121.6570},
+    "score": 4.9, "tags": ["亲子必去", "刺激", "排队长"],
+    "open_time": "08:00-21:00", "suitable_for": ["亲子", "情侣", "朋友"]
+    },
+    {
+    "id": "sh004", "name": "上海自然博物馆", "city": "上海",
+    "category": ["景点", "亲子", "文化"], "cost": 30, "duration": 150,
+    "location": {"lat": 31.2290, "lng": 121.4560},
+    "score": 4.7, "tags": ["亲子友好", "室内", "科普"],
+    "open_time": "09:00-17:15", "suitable_for": ["亲子", "老人", "独行"]
+    },
+    {
+    "id": "sh005", "name": "新天地", "city": "上海",
+    "category": ["购物", "美食", "网红"], "cost": 0, "duration": 120,
+    "location": {"lat": 31.2198, "lng": 121.4730},
+    "score": 4.4, "tags": ["石库门", "网红打卡", "餐厅多"],
+    "open_time": "10:00-23:00", "suitable_for": ["情侣", "朋友", "独行"]
+    },
+    {
+    "id": "sh006", "name": "田子坊", "city": "上海",
+    "category": ["购物", "文化", "网红"], "cost": 0, "duration": 90,
+    "location": {"lat": 31.2100, "lng": 121.4670},
+    "score": 4.3, "tags": ["文艺", "小店", "拍照"],
+    "open_time": "10:00-22:00", "suitable_for": ["情侣", "朋友", "独行"]
+    },
+    {
+    "id": "sh007", "name": "上海海洋水族馆", "city": "上海",
+    "category": ["景点", "亲子"], "cost": 190, "duration": 120,
+    "location": {"lat": 31.2390, "lng": 121.4997},
+    "score": 4.6, "tags": ["亲子必去", "室内", "海洋生物"],
+    "open_time": "09:00-18:00", "suitable_for": ["亲子", "情侣"]
+    },
+    {
+    "id": "sh008", "name": "朱家角古镇", "city": "上海",
+    "category": ["景点", "文化", "自然"], "cost": 0, "duration": 180,
+    "location": {"lat": 31.1134, "lng": 121.0669},
+    "score": 4.5, "tags": ["江南水乡", "古镇", "小众"],
+    "open_time": "07:00-18:00", "suitable_for": ["亲子", "老人", "情侣", "朋友"]
+    },
+    {
+    "id": "sh009", "name": "静安寺", "city": "上海",
+    "category": ["景点", "文化"], "cost": 50, "duration": 60,
+    "location": {"lat": 31.2247, "lng": 121.4479},
+    "score": 4.4, "tags": ["寺庙", "闹中取静", "历史"],
+    "open_time": "07:30-17:00", "suitable_for": ["老人", "独行", "情侣"]
+    },
+    {
+    "id": "sh010", "name": "上海博物馆", "city": "上海",
+    "category": ["景点", "文化"], "cost": 0, "duration": 150,
+    "location": {"lat": 31.2296, "lng": 121.4737},
+    "score": 4.7, "tags": ["免费", "文物", "室内", "需预约"],
+    "open_time": "09:00-17:00", "suitable_for": ["老人", "独行", "亲子"]
+    }
+]

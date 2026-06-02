@@ -1,5 +1,5 @@
 # ================================================================
-# 数据结构定义
+# 数据结构定义（契约文件）
 #
 # 职责：
 # - 定义所有模块之间传递的数据结构
@@ -60,7 +60,7 @@ class Stop(BaseModel):
 
 class Route(BaseModel):
     """单条路线方案"""
-    style: str
+    style: str                             # 省时版/省钱版/网红版
     description: str
     total_cost: int
     total_duration_minutes: int
@@ -89,3 +89,4 @@ class AgentContext(BaseModel):
     start_time: str = "09:00"
     candidate_pois: list[POI] = []
     routes: list[Route] = []
+    
