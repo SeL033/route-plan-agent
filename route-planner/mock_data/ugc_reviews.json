@@ -1,52 +1,22 @@
 {
-    "sh001": {
-        "poi_name": "外滩", "crowd_level": "高", "avg_wait_minutes": 0,
-        "best_time": "工作日早晨或傍晚", "avoid_time": "节假日全天",
-        "reviews": ["夜景太美了，强烈推荐晚上来", "免费景点性价比超高，周末人很多", "带孩子来玩很开心，沿江步道很宽"]
-    },
-    "sh002": {
-        "poi_name": "豫园", "crowd_level": "高", "avg_wait_minutes": 40,
-        "best_time": "工作日上午", "avoid_time": "周末及节假日",
-        "reviews": ["里面小笼包真好吃，排队40分钟但值得", "园林很漂亮适合老人小孩", "周末排队进门要1小时建议网上买票"]
-    },
-    "sh003": {
-        "poi_name": "上海迪士尼乐园", "crowd_level": "高", "avg_wait_minutes": 120,
-        "best_time": "工作日，避开寒暑假", "avoid_time": "寒暑假、节假日",
-        "reviews": ["热门项目要排2-3小时，建议开门就冲创极速", "带小朋友来玩超级开心", "建议买闪电通行证省很多时间"]
-    },
-    "sh004": {
-        "poi_name": "上海自然博物馆", "crowd_level": "中", "avg_wait_minutes": 10,
-        "best_time": "工作日全天", "avoid_time": "周末下午",
-        "reviews": ["室内景点下雨天来超级合适", "带娃来太棒了孩子看恐龙化石看了好久", "需提前网上预约现场不卖票"]
-    },
-    "sh005": {
-        "poi_name": "新天地", "crowd_level": "中", "avg_wait_minutes": 0,
-        "best_time": "傍晚至夜间", "avoid_time": null,
-        "reviews": ["逛街吃饭很方便餐厅选择多", "消费偏高随便吃个饭人均200+", "免费逛不买东西不花钱"]
-    },
-    "sh006": {
-        "poi_name": "田子坊", "crowd_level": "中", "avg_wait_minutes": 0,
-        "best_time": "工作日下午", "avoid_time": "周末全天",
-        "reviews": ["文艺小店很多适合逛", "里面有很多特色纪念品", "拍照很好看但周末人挤人"]
-    },
-    "sh007": {
-        "poi_name": "上海海洋水族馆", "crowd_level": "中", "avg_wait_minutes": 15,
-        "best_time": "工作日", "avoid_time": "周末上午",
-        "reviews": ["孩子超喜欢鲨鱼隧道很震撼", "室内景点夏天避暑好地方", "门票有点贵但带娃来值得"]
-    },
-    "sh008": {
-        "poi_name": "朱家角古镇", "crowd_level": "低", "avg_wait_minutes": 0,
-        "best_time": "工作日全天", "avoid_time": "节假日",
-        "reviews": ["比较小众人不多很清静", "离市区有点远打车要1小时", "江南水乡风格很适合拍照"]
-    },
-    "sh009": {
-        "poi_name": "静安寺", "crowd_level": "低", "avg_wait_minutes": 5,
-        "best_time": "工作日清晨", "avoid_time": null,
-        "reviews": ["闹中取静很有禅意", "带父母来很合适老人喜欢", "门票50元感觉还行"]
-    },
-    "sh010": {
-        "poi_name": "上海博物馆", "crowd_level": "低", "avg_wait_minutes": 5,
-        "best_time": "工作日全天", "avoid_time": "周末下午",
-        "reviews": ["免费参观性价比极高", "文物很多需要预约", "全程室内适合老人小孩"]
-    }
+    "sh001": {"poi_name": "外滩", "crowd_level": "高", "avg_wait_minutes": 0, "best_time": "工作日早晨或傍晚", "avoid_time": "节假日全天", "reviews": ["夜景太美了，强烈推荐晚上来", "免费景点性价比超高，周末人很多", "带孩子来玩很开心，沿江步道很宽"]},
+    "sh002": {"poi_name": "豫园", "crowd_level": "高", "avg_wait_minutes": 40, "best_time": "工作日上午", "avoid_time": "周末及节假日", "reviews": ["里面小笼包真好吃，排队40分钟但值得", "园林很漂亮适合老人小孩", "周末排队进门要1小时建议网上买票"]},
+    "sh003": {"poi_name": "上海迪士尼乐园", "crowd_level": "高", "avg_wait_minutes": 120, "best_time": "工作日，避开寒暑假", "avoid_time": "寒暑假、节假日", "reviews": ["热门项目要排2-3小时，建议开门就冲创极速", "带小朋友来玩超级开心", "建议买闪电通行证省很多时间"]},
+    "sh004": {"poi_name": "上海自然博物馆", "crowd_level": "中", "avg_wait_minutes": 10, "best_time": "工作日全天", "avoid_time": "周末下午", "reviews": ["室内景点下雨天来超级合适", "带娃来太棒了孩子看恐龙化石看了好久", "需提前网上预约现场不卖票"]},
+    "sh005": {"poi_name": "新天地", "crowd_level": "中", "avg_wait_minutes": 0, "best_time": "傍晚至夜间", "avoid_time": null, "reviews": ["逛街吃饭很方便餐厅选择多", "消费偏高随便吃个饭人均200+", "免费逛不买东西不花钱"]},
+    "sh007": {"poi_name": "上海海洋水族馆", "crowd_level": "中", "avg_wait_minutes": 15, "best_time": "工作日", "avoid_time": "周末上午", "reviews": ["孩子超喜欢鲨鱼隧道很震撼", "室内景点夏天避暑好地方", "门票有点贵但带娃来值得"]},
+    "sh008": {"poi_name": "朱家角古镇", "crowd_level": "低", "avg_wait_minutes": 0, "best_time": "工作日全天", "avoid_time": "节假日", "reviews": ["比较小众人不多很清静", "离市区有点远打车要1小时", "江南水乡风格很适合拍照"]},
+    "sh010": {"poi_name": "上海博物馆", "crowd_level": "低", "avg_wait_minutes": 5, "best_time": "工作日全天", "avoid_time": "周末下午", "reviews": ["免费参观性价比极高", "文物很多需要预约", "全程室内适合老人小孩"]},
+    "bj001": {"poi_name": "故宫博物院", "crowd_level": "高", "avg_wait_minutes": 30, "best_time": "工作日上午开门", "avoid_time": "节假日全天", "reviews": ["必须提前网上预约，现场买不到票", "建议留3-4小时慢慢逛", "人很多但值得，历史感很强"]},
+    "bj002": {"poi_name": "天安门广场", "crowd_level": "高", "avg_wait_minutes": 20, "best_time": "早晨看升旗", "avoid_time": "节假日", "reviews": ["看升旗仪式要早上5点多去排队", "免费参观广场，进城楼要单独买票", "广场很大走路多老人注意体力"]},
+    "bj003": {"poi_name": "颐和园", "crowd_level": "中", "avg_wait_minutes": 10, "best_time": "工作日上午", "avoid_time": "周末下午", "reviews": ["园子很大建议半天时间", "湖边风景很美适合散步", "老人走路多建议租电瓶车"]},
+    "bj004": {"poi_name": "南锣鼓巷", "crowd_level": "高", "avg_wait_minutes": 0, "best_time": "工作日下午", "avoid_time": "周末全天", "reviews": ["周末人挤人走路都难", "小吃很多但有点贵", "胡同文化很有特色适合拍照"]},
+    "bj005": {"poi_name": "北京国家博物馆", "crowd_level": "中", "avg_wait_minutes": 15, "best_time": "工作日全天", "avoid_time": "周末", "reviews": ["免费但需要提前预约", "馆藏非常丰富建议留3小时", "室内参观适合所有人群"]},
+    "bj007": {"poi_name": "天坛公园", "crowd_level": "低", "avg_wait_minutes": 0, "best_time": "早晨", "avoid_time": null, "reviews": ["早晨老人来锻炼很多很有氛围", "公园很大空气好适合散步", "门票便宜性价比高"]},
+    "cd001": {"poi_name": "宽窄巷子", "crowd_level": "高", "avg_wait_minutes": 0, "best_time": "工作日上午", "avoid_time": "周末及节假日", "reviews": ["免费进入小吃很多", "周末人特别多建议工作日来", "很有成都特色适合拍照"]},
+    "cd002": {"poi_name": "成都大熊猫繁育研究基地", "crowd_level": "高", "avg_wait_minutes": 30, "best_time": "早上8点开门时", "avoid_time": "下午，熊猫睡觉", "reviews": ["早上来能看到熊猫吃早饭超可爱", "下午熊猫基本都在睡觉", "必须提前网上预约"]},
+    "cd003": {"poi_name": "锦里古街", "crowd_level": "中", "avg_wait_minutes": 0, "best_time": "傍晚夜景好", "avoid_time": null, "reviews": ["免费进入小吃很多", "晚上夜景很漂亮", "紧邻武侯祠可以连着逛"]},
+    "cd004": {"poi_name": "武侯祠", "crowd_level": "中", "avg_wait_minutes": 10, "best_time": "工作日上午", "avoid_time": "节假日", "reviews": ["三国文化很浓厚", "和锦里连着逛很方便", "老人走路不多适合参观"]},
+    "cd006": {"poi_name": "太古里", "crowd_level": "中", "avg_wait_minutes": 0, "best_time": "傍晚", "avoid_time": null, "reviews": ["购物餐饮选择多", "网红打卡地拍照好看", "消费偏高"]},
+    "cd008": {"poi_name": "成都博物馆", "crowd_level": "低", "avg_wait_minutes": 5, "best_time": "工作日全天", "avoid_time": "周末", "reviews": ["免费参观需要预约", "室内展览很丰富", "紧邻宽窄巷子可以连着逛"]}
 }

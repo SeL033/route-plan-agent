@@ -15,6 +15,7 @@ class PlanRequest(BaseModel):
     """前端 → 后端：用户请求"""
     user_input: str
     user_id: Optional[str] = None
+    start_location: Optional[str] = None   # 出发地，如"上海虹桥火车站"
 
 
 class Location(BaseModel):
@@ -56,11 +57,12 @@ class Stop(BaseModel):
     leave_time: str
     cost: int
     reason: str
+    location: Location             # 真实坐标，供地图使用
 
 
 class Route(BaseModel):
     """单条路线方案"""
-    style: str                             # 省时版/省钱版/网红版
+    style: str
     description: str
     total_cost: int
     total_duration_minutes: int
@@ -87,6 +89,7 @@ class AgentContext(BaseModel):
     avoid: list[str] = []
     prefer: list[str] = []
     start_time: str = "09:00"
+    start_location: Optional[str] = None
     candidate_pois: list[POI] = []
     routes: list[Route] = []
     

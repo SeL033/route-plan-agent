@@ -18,7 +18,10 @@ router = APIRouter()
 @router.post("/api/plan", response_model=PlanResponse)
 async def plan_route(request: PlanRequest) -> PlanResponse:
     try:
-        result = await planner_agent.run(request.user_input)
+        result = await planner_agent.run(
+            request.user_input,
+            start_location=request.start_location
+        )
         return result
     except Exception as e:
         return PlanResponse(
