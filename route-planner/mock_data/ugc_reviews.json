@@ -1,1 +1,5715 @@
-{}
+{
+    "sh001": {
+        "poi_name": "外滩",
+        "crowd_level": "高",
+        "avg_wait_minutes": 0,
+        "best_time": "工作日早晨或傍晚",
+        "avoid_time": "节假日全天",
+        "reviews": [
+        "夜景太美了，强烈推荐晚上来",
+        "免费景点性价比超高，周末人很多",
+        "带孩子来玩很开心，沿江步道很宽"
+        ]
+    },
+    "sh002": {
+        "poi_name": "豫园",
+        "crowd_level": "高",
+        "avg_wait_minutes": 40,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "里面小笼包真好吃，排队40分钟但值得",
+        "园林很漂亮适合老人小孩",
+        "周末排队进门要1小时建议网上买票"
+        ]
+    },
+    "sh003": {
+        "poi_name": "上海迪士尼乐园",
+        "crowd_level": "高",
+        "avg_wait_minutes": 120,
+        "best_time": "工作日，避开寒暑假",
+        "avoid_time": "寒暑假、节假日",
+        "reviews": [
+        "热门项目要排2-3小时，建议开门就冲创极速",
+        "带小朋友来玩超级开心",
+        "建议买闪电通行证省很多时间"
+        ]
+    },
+    "sh004": {
+        "poi_name": "上海自然博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "工作日全天",
+        "avoid_time": "周末下午",
+        "reviews": [
+        "室内景点下雨天来超级合适",
+        "带娃来太棒了孩子看恐龙化石看了好久",
+        "需提前网上预约现场不卖票"
+        ]
+    },
+    "sh005": {
+        "poi_name": "新天地",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "傍晚至夜间",
+        "avoid_time": null,
+        "reviews": [
+        "逛街吃饭很方便餐厅选择多",
+        "消费偏高随便吃个饭人均200+",
+        "免费逛不买东西不花钱"
+        ]
+    },
+    "sh007": {
+        "poi_name": "上海海洋水族馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "best_time": "工作日",
+        "avoid_time": "周末上午",
+        "reviews": [
+        "孩子超喜欢鲨鱼隧道很震撼",
+        "室内景点夏天避暑好地方",
+        "门票有点贵但带娃来值得"
+        ]
+    },
+    "sh008": {
+        "poi_name": "朱家角古镇",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "比较小众人不多很清静",
+        "离市区有点远打车要1小时",
+        "江南水乡风格很适合拍照"
+        ]
+    },
+    "sh010": {
+        "poi_name": "上海博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 5,
+        "best_time": "工作日全天",
+        "avoid_time": "周末下午",
+        "reviews": [
+        "免费参观性价比极高",
+        "文物很多需要预约",
+        "全程室内适合老人小孩"
+        ]
+    },
+    "bj001": {
+        "poi_name": "故宫博物院",
+        "crowd_level": "高",
+        "avg_wait_minutes": 30,
+        "best_time": "工作日上午开门",
+        "avoid_time": "节假日全天",
+        "reviews": [
+        "必须提前网上预约，现场买不到票",
+        "建议留3-4小时慢慢逛",
+        "人很多但值得，历史感很强"
+        ]
+    },
+    "bj002": {
+        "poi_name": "天安门广场",
+        "crowd_level": "高",
+        "avg_wait_minutes": 20,
+        "best_time": "早晨看升旗",
+        "avoid_time": "节假日",
+        "reviews": [
+        "看升旗仪式要早上5点多去排队",
+        "免费参观广场，进城楼要单独买票",
+        "广场很大走路多老人注意体力"
+        ]
+    },
+    "bj003": {
+        "poi_name": "颐和园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "工作日上午",
+        "avoid_time": "周末下午",
+        "reviews": [
+        "园子很大建议半天时间",
+        "湖边风景很美适合散步",
+        "老人走路多建议租电瓶车"
+        ]
+    },
+    "bj004": {
+        "poi_name": "南锣鼓巷",
+        "crowd_level": "高",
+        "avg_wait_minutes": 0,
+        "best_time": "工作日下午",
+        "avoid_time": "周末全天",
+        "reviews": [
+        "周末人挤人走路都难",
+        "小吃很多但有点贵",
+        "胡同文化很有特色适合拍照"
+        ]
+    },
+    "bj005": {
+        "poi_name": "北京国家博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "best_time": "工作日全天",
+        "avoid_time": "周末",
+        "reviews": [
+        "免费但需要提前预约",
+        "馆藏非常丰富建议留3小时",
+        "室内参观适合所有人群"
+        ]
+    },
+    "bj007": {
+        "poi_name": "天坛公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "best_time": "早晨",
+        "avoid_time": null,
+        "reviews": [
+        "早晨老人来锻炼很多很有氛围",
+        "公园很大空气好适合散步",
+        "门票便宜性价比高"
+        ]
+    },
+    "cd001": {
+        "poi_name": "宽窄巷子",
+        "crowd_level": "高",
+        "avg_wait_minutes": 0,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "免费进入小吃很多",
+        "周末人特别多建议工作日来",
+        "很有成都特色适合拍照"
+        ]
+    },
+    "cd002": {
+        "poi_name": "成都大熊猫繁育研究基地",
+        "crowd_level": "高",
+        "avg_wait_minutes": 30,
+        "best_time": "早上8点开门时",
+        "avoid_time": "下午，熊猫睡觉",
+        "reviews": [
+        "早上来能看到熊猫吃早饭超可爱",
+        "下午熊猫基本都在睡觉",
+        "必须提前网上预约"
+        ]
+    },
+    "cd003": {
+        "poi_name": "锦里古街",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "傍晚夜景好",
+        "avoid_time": null,
+        "reviews": [
+        "免费进入小吃很多",
+        "晚上夜景很漂亮",
+        "紧邻武侯祠可以连着逛"
+        ]
+    },
+    "cd004": {
+        "poi_name": "武侯祠",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "工作日上午",
+        "avoid_time": "节假日",
+        "reviews": [
+        "三国文化很浓厚",
+        "和锦里连着逛很方便",
+        "老人走路不多适合参观"
+        ]
+    },
+    "cd006": {
+        "poi_name": "太古里",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "傍晚",
+        "avoid_time": null,
+        "reviews": [
+        "购物餐饮选择多",
+        "网红打卡地拍照好看",
+        "消费偏高"
+        ]
+    },
+    "cd008": {
+        "poi_name": "成都博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 5,
+        "best_time": "工作日全天",
+        "avoid_time": "周末",
+        "reviews": [
+        "免费参观需要预约",
+        "室内展览很丰富",
+        "紧邻宽窄巷子可以连着逛"
+        ]
+    },
+    "per001": {
+        "poi_name": "国王公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "傍晚看日落",
+        "avoid_time": "周末停车高峰",
+        "reviews": [
+        "看珀斯城市天际线很漂亮",
+        "免费又开阔，适合散步",
+        "日落时间人会多一些"
+        ]
+    },
+    "per002": {
+        "poi_name": "伊丽莎白码头",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": null,
+        "reviews": [
+        "码头边拍照很好看",
+        "附近餐厅多但价格偏高",
+        "晚上灯光氛围不错"
+        ]
+    },
+    "per003": {
+        "poi_name": "科特斯洛海滩",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "下午到日落",
+        "avoid_time": "大风天气",
+        "reviews": [
+        "海水和沙滩都很漂亮",
+        "日落非常值得看",
+        "公共交通过去要预留时间"
+        ]
+    },
+    "per004": {
+        "poi_name": "弗里曼特尔市场",
+        "crowd_level": "高",
+        "avg_wait_minutes": 20,
+        "best_time": "刚开门时",
+        "avoid_time": "周末午餐时段",
+        "reviews": [
+        "小吃很多很热闹",
+        "周末人多排队明显",
+        "适合和弗里曼特尔街区一起逛"
+        ]
+    },
+    "per005": {
+        "poi_name": "珀斯铸币厂",
+        "crowd_level": "低",
+        "avg_wait_minutes": 5,
+        "best_time": "工作日上午",
+        "avoid_time": null,
+        "reviews": [
+        "室内参观比较轻松",
+        "讲解有意思",
+        "适合对历史和金币感兴趣的人"
+        ]
+    },
+    "mel001": {
+        "poi_name": "联邦广场",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "上午或傍晚",
+        "avoid_time": "大型活动散场",
+        "reviews": [
+        "市中心集合点很方便",
+        "拍照和换乘都顺路",
+        "活动日人会比较多"
+        ]
+    },
+    "mel002": {
+        "poi_name": "维多利亚国家美术馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "工作日上午",
+        "avoid_time": "热门展览周末",
+        "reviews": [
+        "免费展区很值得看",
+        "雨天室内安排很好",
+        "热门特展需要提前预约"
+        ]
+    },
+    "mel003": {
+        "poi_name": "皇家拱廊",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "best_time": "上午",
+        "avoid_time": null,
+        "reviews": [
+        "建筑很复古适合拍照",
+        "顺路喝咖啡不错",
+        "停留时间不用太长"
+        ]
+    },
+    "mel004": {
+        "poi_name": "维多利亚女王市场",
+        "crowd_level": "高",
+        "avg_wait_minutes": 15,
+        "best_time": "早上",
+        "avoid_time": "周末午餐前后",
+        "reviews": [
+        "吃的选择很多",
+        "市场很有本地生活气息",
+        "午餐时段排队会变长"
+        ]
+    },
+    "mel005": {
+        "poi_name": "圣基尔达海滩",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "傍晚",
+        "avoid_time": "大风和降雨天气",
+        "reviews": [
+        "海边散步舒服",
+        "看日落氛围很好",
+        "离市中心有一定距离"
+        ]
+    },
+    "syd001": {
+        "poi_name": "悉尼歌剧院",
+        "crowd_level": "高",
+        "avg_wait_minutes": 10,
+        "best_time": "清晨或傍晚",
+        "avoid_time": "节假日中午",
+        "reviews": [
+        "地标必打卡",
+        "从皇家植物园方向拍照很好看",
+        "人很多但周边很开阔"
+        ]
+    },
+    "syd002": {
+        "poi_name": "海港大桥",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "傍晚",
+        "avoid_time": "正午暴晒",
+        "reviews": [
+        "步行视角很好",
+        "和歌剧院可以连着走",
+        "风大时注意保暖"
+        ]
+    },
+    "syd003": {
+        "poi_name": "岩石区",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "下午到晚餐前",
+        "avoid_time": "周末市集高峰",
+        "reviews": [
+        "餐厅和酒吧很多",
+        "历史街区很适合慢慢逛",
+        "周末更热闹但人多"
+        ]
+    },
+    "syd004": {
+        "poi_name": "邦迪海滩",
+        "crowd_level": "高",
+        "avg_wait_minutes": 0,
+        "best_time": "上午或日落前",
+        "avoid_time": "周末正午",
+        "reviews": [
+        "海滩很漂亮适合拍照",
+        "天气好时人非常多",
+        "从市中心过去要留交通时间"
+        ]
+    },
+    "syd005": {
+        "poi_name": "皇家植物园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "best_time": "上午",
+        "avoid_time": null,
+        "reviews": [
+        "免费又舒服",
+        "能拍到歌剧院和海港",
+        "适合放慢节奏散步"
+        ]
+    },
+    "gz001": {
+        "poi_name": "广州塔",
+        "crowd_level": "高",
+        "avg_wait_minutes": 30,
+        "best_time": "工作日傍晚",
+        "avoid_time": "节假日夜间",
+        "reviews": [
+        "夜景很漂亮",
+        "上塔排队时间较长",
+        "江边拍照也很好看"
+        ]
+    },
+    "gz002": {
+        "poi_name": "沙面岛",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "上午或傍晚",
+        "avoid_time": "周末下午",
+        "reviews": [
+        "建筑很有特色",
+        "适合散步和拍照",
+        "周末拍婚纱的人比较多"
+        ]
+    },
+    "gz003": {
+        "poi_name": "陈家祠",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "工作日上午",
+        "avoid_time": "团队客高峰",
+        "reviews": [
+        "岭南建筑细节很美",
+        "室内外结合不太累",
+        "门票便宜性价比高"
+        ]
+    },
+    "gz004": {
+        "poi_name": "北京路步行街",
+        "crowd_level": "高",
+        "avg_wait_minutes": 10,
+        "best_time": "下午非饭点",
+        "avoid_time": "周末晚餐时段",
+        "reviews": [
+        "吃的很多",
+        "晚上很热闹",
+        "热门店要排队"
+        ]
+    },
+    "gz005": {
+        "poi_name": "永庆坊",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "best_time": "傍晚",
+        "avoid_time": "周末下午",
+        "reviews": [
+        "西关风情很适合拍照",
+        "小店和咖啡馆不少",
+        "和沙面可以连着安排"
+        ]
+    },
+    "sz001": {
+        "poi_name": "深圳湾公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "傍晚",
+        "avoid_time": "周末骑行高峰",
+        "reviews": [
+        "海边散步很舒服",
+        "适合看日落",
+        "节假日人会多"
+        ]
+    },
+    "sz002": {
+        "poi_name": "世界之窗",
+        "crowd_level": "高",
+        "avg_wait_minutes": 40,
+        "best_time": "工作日或夜场前",
+        "avoid_time": "节假日全天",
+        "reviews": [
+        "拍照点很多",
+        "夜场表演不错",
+        "热门项目要排队"
+        ]
+    },
+    "sz003": {
+        "poi_name": "欢乐海岸",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "周末晚餐时段",
+        "reviews": [
+        "餐厅选择多",
+        "晚上氛围好",
+        "停车和排队会影响体验"
+        ]
+    },
+    "sz004": {
+        "poi_name": "莲花山公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "best_time": "上午或傍晚",
+        "avoid_time": "正午暴晒",
+        "reviews": [
+        "城市景观很好",
+        "爬坡不算太累",
+        "适合轻松散步"
+        ]
+    },
+    "sz005": {
+        "poi_name": "大芬油画村",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "best_time": "下午",
+        "avoid_time": null,
+        "reviews": [
+        "小众艺术街区",
+        "可以逛画店",
+        "适合不想去大热门的人"
+        ]
+    },
+    "hz001": {
+        "poi_name": "西湖",
+        "crowd_level": "高",
+        "avg_wait_minutes": 0,
+        "best_time": "清晨或傍晚",
+        "avoid_time": "节假日白天",
+        "reviews": [
+        "湖边景色经典",
+        "免费但节假日人多",
+        "适合慢慢走不要赶"
+        ]
+    },
+    "hz002": {
+        "poi_name": "灵隐寺",
+        "crowd_level": "高",
+        "avg_wait_minutes": 30,
+        "best_time": "早上开门后",
+        "avoid_time": "周末上午",
+        "reviews": [
+        "香火很旺",
+        "建议早点去",
+        "周边山林环境很好"
+        ]
+    },
+    "hz003": {
+        "poi_name": "河坊街",
+        "crowd_level": "高",
+        "avg_wait_minutes": 10,
+        "best_time": "下午非饭点",
+        "avoid_time": "周末夜间",
+        "reviews": [
+        "小吃和伴手礼很多",
+        "商业化较明显",
+        "适合顺路短暂停留"
+        ]
+    },
+    "hz004": {
+        "poi_name": "中国丝绸博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "免费室内展览",
+        "内容比想象中丰富",
+        "适合避雨或休息"
+        ]
+    },
+    "hz005": {
+        "poi_name": "良渚古城遗址公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "上午",
+        "avoid_time": "雨天",
+        "reviews": [
+        "空间很开阔",
+        "历史感强",
+        "离市区有点远要安排交通"
+        ]
+    },
+    "nj001": {
+        "poi_name": "夫子庙秦淮风光带",
+        "crowd_level": "高",
+        "avg_wait_minutes": 15,
+        "best_time": "傍晚",
+        "avoid_time": "节假日夜间",
+        "reviews": [
+        "夜景好看但人很多",
+        "小吃选择多",
+        "适合和老门东连着逛"
+        ]
+    },
+    "nj002": {
+        "poi_name": "中山陵",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "上午",
+        "avoid_time": "正午暴晒",
+        "reviews": [
+        "历史感很强",
+        "台阶比较多老人要量力",
+        "免费但需要提前规划时间"
+        ]
+    },
+    "nj003": {
+        "poi_name": "南京博物院",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "best_time": "工作日上午",
+        "avoid_time": "周末下午",
+        "reviews": [
+        "展品很丰富",
+        "免费但要预约",
+        "室内路线适合雨天"
+        ]
+    },
+    "nj004": {
+        "poi_name": "老门东",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "下午非饭点",
+        "avoid_time": "周末晚餐",
+        "reviews": [
+        "建筑和小吃都不错",
+        "拍照好看",
+        "热门小吃需要排队"
+        ]
+    },
+    "nj005": {
+        "poi_name": "玄武湖公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "best_time": "清晨或傍晚",
+        "avoid_time": null,
+        "reviews": [
+        "湖边散步舒服",
+        "免费开阔",
+        "适合放慢节奏"
+        ]
+    },
+    "xa001": {
+        "poi_name": "西安城墙",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "傍晚",
+        "avoid_time": "夏天正午",
+        "reviews": [
+        "骑车很有感觉",
+        "夜景不错",
+        "城墙一圈时间较长"
+        ]
+    },
+    "xa002": {
+        "poi_name": "秦始皇兵马俑博物馆",
+        "crowd_level": "高",
+        "avg_wait_minutes": 40,
+        "best_time": "早上开门",
+        "avoid_time": "节假日全天",
+        "reviews": [
+        "非常震撼",
+        "离市区远要预留交通",
+        "一定要请讲解或听导览"
+        ]
+    },
+    "xa003": {
+        "poi_name": "大唐不夜城",
+        "crowd_level": "高",
+        "avg_wait_minutes": 0,
+        "best_time": "晚上",
+        "avoid_time": "节假日晚间",
+        "reviews": [
+        "灯光和表演很热闹",
+        "免费但人非常多",
+        "适合拍照"
+        ]
+    },
+    "xa004": {
+        "poi_name": "陕西历史博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "best_time": "工作日上午",
+        "avoid_time": "周末",
+        "reviews": [
+        "文物很精彩",
+        "预约比较重要",
+        "室内参观不累"
+        ]
+    },
+    "xa005": {
+        "poi_name": "回民街",
+        "crowd_level": "高",
+        "avg_wait_minutes": 10,
+        "best_time": "下午非饭点",
+        "avoid_time": "晚餐高峰",
+        "reviews": [
+        "小吃很多",
+        "商业化比较明显",
+        "建议顺路短停"
+        ]
+    },
+    "cq001": {
+        "poi_name": "洪崖洞",
+        "crowd_level": "高",
+        "avg_wait_minutes": 20,
+        "best_time": "夜景亮灯后",
+        "avoid_time": "节假日晚间",
+        "reviews": [
+        "夜景很出片",
+        "人流非常密集",
+        "拍照点要找好机位"
+        ]
+    },
+    "cq002": {
+        "poi_name": "解放碑",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "下午到晚上",
+        "avoid_time": "周末晚餐",
+        "reviews": [
+        "商圈方便",
+        "吃饭选择多",
+        "和洪崖洞距离近"
+        ]
+    },
+    "cq003": {
+        "poi_name": "磁器口古镇",
+        "crowd_level": "高",
+        "avg_wait_minutes": 10,
+        "best_time": "上午",
+        "avoid_time": "周末下午",
+        "reviews": [
+        "小吃很多",
+        "游客较多",
+        "古镇氛围还不错"
+        ]
+    },
+    "cq004": {
+        "poi_name": "李子坝轻轨站",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "上午或下午",
+        "avoid_time": "团队客高峰",
+        "reviews": [
+        "拍轻轨穿楼很有意思",
+        "停留半小时足够",
+        "免费顺路打卡"
+        ]
+    },
+    "cq005": {
+        "poi_name": "鹅岭二厂",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "best_time": "下午",
+        "avoid_time": "周末傍晚",
+        "reviews": [
+        "文创氛围强",
+        "拍照和咖啡都不错",
+        "坡路较多注意体力"
+        ]
+    },
+    "sg001": {
+        "poi_name": "滨海湾花园",
+        "crowd_level": "高",
+        "avg_wait_minutes": 20,
+        "best_time": "傍晚到灯光秀",
+        "avoid_time": "节假日晚间",
+        "reviews": [
+        "灯光秀很值得",
+        "花园很大适合慢走",
+        "热门区域人多"
+        ]
+    },
+    "sg002": {
+        "poi_name": "鱼尾狮公园",
+        "crowd_level": "高",
+        "avg_wait_minutes": 5,
+        "best_time": "清晨",
+        "avoid_time": "旅行团高峰",
+        "reviews": [
+        "地标打卡",
+        "拍照需要等机位",
+        "和滨海湾路线很顺"
+        ]
+    },
+    "sg003": {
+        "poi_name": "牛车水",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "下午",
+        "avoid_time": "晚餐高峰",
+        "reviews": [
+        "吃的很多",
+        "街区色彩丰富",
+        "适合顺路用餐"
+        ]
+    },
+    "sg004": {
+        "poi_name": "小印度",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "best_time": "上午",
+        "avoid_time": "正午暴晒",
+        "reviews": [
+        "建筑颜色很好看",
+        "香料和餐厅很有特色",
+        "街区不大适合短逛"
+        ]
+    },
+    "sg005": {
+        "poi_name": "圣淘沙海滩",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "下午",
+        "avoid_time": "节假日",
+        "reviews": [
+        "海滩度假感强",
+        "亲子项目多",
+        "离市中心要留交通时间"
+        ]
+    },
+    "tk001": {
+        "poi_name": "浅草寺",
+        "crowd_level": "高",
+        "avg_wait_minutes": 20,
+        "best_time": "早晨",
+        "avoid_time": "周末下午",
+        "reviews": [
+        "老东京氛围很强",
+        "仲见世商店街小吃多",
+        "人多但值得"
+        ]
+    },
+    "tk002": {
+        "poi_name": "涩谷十字路口",
+        "crowd_level": "高",
+        "avg_wait_minutes": 0,
+        "best_time": "傍晚",
+        "avoid_time": "周末夜间",
+        "reviews": [
+        "很有东京城市感",
+        "拍照点多",
+        "周边购物餐饮方便"
+        ]
+    },
+    "tk003": {
+        "poi_name": "上野公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "上午",
+        "avoid_time": "樱花季周末",
+        "reviews": [
+        "散步舒服",
+        "博物馆很多",
+        "适合亲子和慢节奏"
+        ]
+    },
+    "tk004": {
+        "poi_name": "东京塔",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "best_time": "晚上",
+        "avoid_time": "节假日晚间",
+        "reviews": [
+        "夜景漂亮",
+        "地标感强",
+        "可以和芝公园一起安排"
+        ]
+    },
+    "tk005": {
+        "poi_name": "筑地场外市场",
+        "crowd_level": "高",
+        "avg_wait_minutes": 25,
+        "best_time": "早上",
+        "avoid_time": "接近午餐时",
+        "reviews": [
+        "海鲜和小吃很多",
+        "早去体验最好",
+        "热门摊位排队明显"
+        ]
+    },
+    "se001": {
+        "poi_name": "景福宫",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "best_time": "上午",
+        "avoid_time": "周末下午",
+        "reviews": [
+        "穿韩服拍照很好看",
+        "历史建筑很有氛围",
+        "换岗仪式值得看"
+        ]
+    },
+    "se002": {
+        "poi_name": "北村韩屋村",
+        "crowd_level": "中",
+        "avg_wait_minutes": 0,
+        "best_time": "上午",
+        "avoid_time": "周末午后",
+        "reviews": [
+        "韩屋街巷很漂亮",
+        "居民区需要安静",
+        "坡路较多"
+        ]
+    },
+    "se003": {
+        "poi_name": "明洞",
+        "crowd_level": "高",
+        "avg_wait_minutes": 10,
+        "best_time": "下午",
+        "avoid_time": "晚餐和夜间",
+        "reviews": [
+        "购物和小吃方便",
+        "晚上很热闹",
+        "热门店会排队"
+        ]
+    },
+    "se004": {
+        "poi_name": "南山首尔塔",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "best_time": "傍晚",
+        "avoid_time": "节假日晚间",
+        "reviews": [
+        "夜景好看",
+        "情侣很多",
+        "上山交通要提前看"
+        ]
+    },
+    "se005": {
+        "poi_name": "弘大",
+        "crowd_level": "高",
+        "avg_wait_minutes": 10,
+        "best_time": "傍晚",
+        "avoid_time": "周末夜间",
+        "reviews": [
+        "年轻氛围强",
+        "咖啡店和小店多",
+        "街头表演很热闹"
+        ]
+    },
+    "sh006": {
+        "poi_name": "田子坊",
+        "crowd_level": "中",
+        "avg_wait_minutes": 21,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "田子坊还不错，没让人失望",
+        "拍照效果很好，出片率高"
+        ]
+    },
+    "sh009": {
+        "poi_name": "静安寺",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "静安寺推荐，值得来"
+        ]
+    },
+    "sh011": {
+        "poi_name": "上海科技馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "上海科技馆不错，风景很好"
+        ]
+    },
+    "sh012": {
+        "poi_name": "M50创意园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 1,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "M50创意园凑合，体验不错",
+        "人不多，可以慢慢逛",
+        "免费的，良心景点"
+        ]
+    },
+    "sh013": {
+        "poi_name": "上海野生动物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "上海野生动物园不错，值得来"
+        ]
+    },
+    "sh014": {
+        "poi_name": "东方明珠塔",
+        "crowd_level": "高",
+        "avg_wait_minutes": 80,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "东方明珠塔挺好的，值得来",
+        "人比较多，建议工作日来",
+        "拍照效果很好，随手一拍都好看"
+        ]
+    },
+    "sh015": {
+        "poi_name": "上海城隍庙",
+        "crowd_level": "高",
+        "avg_wait_minutes": 35,
+        "sentiment_score": 0.4,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "上海城隍庙一般般，值得来",
+        "人比较多，建议工作日来"
+        ]
+    },
+    "sh016": {
+        "poi_name": "复兴公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 4,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "复兴公园凑合，风景很好",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "sh017": {
+        "poi_name": "武康路",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "武康路不错，值得来",
+        "拍照效果很好，很上镜"
+        ]
+    },
+    "sh018": {
+        "poi_name": "衡山路",
+        "crowd_level": "中",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "衡山路挺好的，体验不错"
+        ]
+    },
+    "sh019": {
+        "poi_name": "上海植物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.5,
+        "best_time": "春季花期",
+        "avoid_time": null,
+        "reviews": [
+        "上海植物园值得一去，没让人失望"
+        ]
+    },
+    "sh020": {
+        "poi_name": "龙华寺",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "龙华寺值得一去，风景很好",
+        "人不多，很舒适"
+        ]
+    },
+    "sh021": {
+        "poi_name": "南京路步行街",
+        "crowd_level": "高",
+        "avg_wait_minutes": 32,
+        "sentiment_score": 0.3,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "南京路步行街没太大惊喜，值得来",
+        "人比较多，建议早点去"
+        ]
+    },
+    "sh022": {
+        "poi_name": "淮海路",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "淮海路凑合，体验不错"
+        ]
+    },
+    "sh023": {
+        "poi_name": "上海当代艺术博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "上海当代艺术博物馆推荐，值得来"
+        ]
+    },
+    "sh024": {
+        "poi_name": "陆家嘴金融区",
+        "crowd_level": "中",
+        "avg_wait_minutes": 22,
+        "sentiment_score": 0.4,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "陆家嘴金融区一般般，值得来"
+        ]
+    },
+    "sh025": {
+        "poi_name": "1933老场坊",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "1933老场坊挺好的，没让人失望",
+        "拍照效果很好，随手一拍都好看"
+        ]
+    },
+    "sh026": {
+        "poi_name": "上海生煎",
+        "crowd_level": "高",
+        "avg_wait_minutes": 52,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "上海生煎的味道挺好的，份量足",
+        "排队大概52分钟，有点久但能接受",
+        "在上海吃了很多家，上海生煎算是很有特色"
+        ]
+    },
+    "sh027": {
+        "poi_name": "小杨生煎",
+        "crowd_level": "高",
+        "avg_wait_minutes": 26,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "小杨生煎的味道不错，很正宗",
+        "排队大概26分钟，但很值得",
+        "在上海吃了很多家，小杨生煎算是很有特色"
+        ]
+    },
+    "sh028": {
+        "poi_name": "南翔馒头店",
+        "crowd_level": "高",
+        "avg_wait_minutes": 42,
+        "sentiment_score": 0.6,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "南翔馒头店的味道还不错，性价比高",
+        "排队大概42分钟，有点久但能接受",
+        "在上海吃了很多家，南翔馒头店算是最正宗的"
+        ]
+    },
+    "sh029": {
+        "poi_name": "沧浪亭",
+        "crowd_level": "高",
+        "avg_wait_minutes": 48,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "沧浪亭的味道不错，性价比高",
+        "排队大概48分钟，建议提前来",
+        "在上海吃了很多家，沧浪亭算是最正宗的"
+        ]
+    },
+    "sh030": {
+        "poi_name": "光明邨大酒家",
+        "crowd_level": "高",
+        "avg_wait_minutes": 56,
+        "sentiment_score": 0.6,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "光明邨大酒家的味道推荐，口感很好",
+        "排队大概56分钟，建议提前来",
+        "在上海吃了很多家，光明邨大酒家算是很有特色"
+        ]
+    },
+    "sh031": {
+        "poi_name": "上海老饭店",
+        "crowd_level": "中",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "上海老饭店的味道还不错，份量足",
+        "排队大概30分钟，建议提前来",
+        "在上海吃了很多家，上海老饭店算是最正宗的"
+        ]
+    },
+    "sh032": {
+        "poi_name": "鹿角巷",
+        "crowd_level": "高",
+        "avg_wait_minutes": 38,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "鹿角巷的味道没太大惊喜，性价比高",
+        "排队大概38分钟，建议提前来",
+        "在上海吃了很多家，鹿角巷算是最好吃的之一"
+        ]
+    },
+    "sh033": {
+        "poi_name": "震旦博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "震旦博物馆不错，值得来",
+        "人不多，氛围很好"
+        ]
+    },
+    "sh034": {
+        "poi_name": "上海图书馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 3,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "上海图书馆推荐，风景很好",
+        "人不多，很舒适",
+        "免费的，强烈推荐"
+        ]
+    },
+    "sh035": {
+        "poi_name": "苏州河",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "苏州河还行，风景很好"
+        ]
+    },
+    "sh036": {
+        "poi_name": "上海欢乐谷",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "上海欢乐谷还不错，风景很好"
+        ]
+    },
+    "sh037": {
+        "poi_name": "世博公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "世博公园没太大惊喜，值得来",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "sh038": {
+        "poi_name": "虹桥艺术中心",
+        "crowd_level": "低",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "虹桥艺术中心还行，值得来",
+        "人不多，可以慢慢逛",
+        "免费的，性价比极高"
+        ]
+    },
+    "sh039": {
+        "poi_name": "上海马戏城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "上海马戏城凑合，风景很好"
+        ]
+    },
+    "sh040": {
+        "poi_name": "多伦路",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "多伦路没太大惊喜，没让人失望"
+        ]
+    },
+    "sh041": {
+        "poi_name": "外白渡桥",
+        "crowd_level": "低",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "外白渡桥凑合，没让人失望",
+        "人不多，很舒适",
+        "免费的，性价比极高"
+        ]
+    },
+    "sh042": {
+        "poi_name": "上海老街",
+        "crowd_level": "高",
+        "avg_wait_minutes": 32,
+        "sentiment_score": 0.3,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "上海老街凑合，值得来",
+        "人比较多，建议工作日来"
+        ]
+    },
+    "sh043": {
+        "poi_name": "大境阁",
+        "crowd_level": "低",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "大境阁凑合，风景很好",
+        "人不多，可以慢慢逛"
+        ]
+    },
+    "sh044": {
+        "poi_name": "上海人民广场",
+        "crowd_level": "高",
+        "avg_wait_minutes": 86,
+        "sentiment_score": 0.3,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "上海人民广场一般般，体验不错",
+        "人比较多，建议工作日来",
+        "免费的，良心景点"
+        ]
+    },
+    "sh045": {
+        "poi_name": "静安区图书馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "静安区图书馆还行，体验不错",
+        "人不多，氛围很好",
+        "免费的，良心景点"
+        ]
+    },
+    "sh046": {
+        "poi_name": "上海影城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "上海影城还行，没让人失望"
+        ]
+    },
+    "sh047": {
+        "poi_name": "愚园路",
+        "crowd_level": "中",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "愚园路值得一去，风景很好",
+        "拍照效果很好，随手一拍都好看"
+        ]
+    },
+    "sh048": {
+        "poi_name": "上海天文台",
+        "crowd_level": "低",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "上海天文台凑合，值得来",
+        "人不多，氛围很好"
+        ]
+    },
+    "sh049": {
+        "poi_name": "上海动漫博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 11,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "上海动漫博物馆凑合，体验不错"
+        ]
+    },
+    "sh050": {
+        "poi_name": "黄浦江游船",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.7,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "黄浦江游船推荐，风景很好"
+        ]
+    },
+    "bj006": {
+        "poi_name": "三里屯",
+        "crowd_level": "中",
+        "avg_wait_minutes": 12,
+        "sentiment_score": 0.5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "三里屯还行，风景很好"
+        ]
+    },
+    "bj008": {
+        "poi_name": "王府井步行街",
+        "crowd_level": "高",
+        "avg_wait_minutes": 67,
+        "sentiment_score": 0.4,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "王府井步行街凑合，体验不错",
+        "人比较多，建议早点去"
+        ]
+    },
+    "bj009": {
+        "poi_name": "圆明园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 21,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "圆明园挺好的，体验不错"
+        ]
+    },
+    "bj010": {
+        "poi_name": "北京动物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 12,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "北京动物园还不错，没让人失望"
+        ]
+    },
+    "bj011": {
+        "poi_name": "798艺术区",
+        "crowd_level": "低",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "798艺术区挺好的，没让人失望",
+        "人不多，可以慢慢逛",
+        "免费的，性价比极高"
+        ]
+    },
+    "bj012": {
+        "poi_name": "北京国家大剧院",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "北京国家大剧院不错，风景很好"
+        ]
+    },
+    "bj013": {
+        "poi_name": "鼓楼",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "鼓楼还不错，体验不错"
+        ]
+    },
+    "bj014": {
+        "poi_name": "景山公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 11,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "景山公园不错，值得来"
+        ]
+    },
+    "bj015": {
+        "poi_name": "北海公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "北海公园值得一去，值得来"
+        ]
+    },
+    "bj016": {
+        "poi_name": "什刹海",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "什刹海不错，值得来"
+        ]
+    },
+    "bj017": {
+        "poi_name": "后海",
+        "crowd_level": "中",
+        "avg_wait_minutes": 11,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "后海推荐，值得来"
+        ]
+    },
+    "bj018": {
+        "poi_name": "五道口",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "五道口没太大惊喜，风景很好"
+        ]
+    },
+    "bj019": {
+        "poi_name": "北京大学",
+        "crowd_level": "低",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "北京大学还不错，体验不错",
+        "人不多，很舒适",
+        "免费的，强烈推荐"
+        ]
+    },
+    "bj020": {
+        "poi_name": "清华大学",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "清华大学挺好的，值得来",
+        "人不多，很舒适",
+        "免费的，强烈推荐"
+        ]
+    },
+    "bj021": {
+        "poi_name": "北京植物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.5,
+        "best_time": "春季花期",
+        "avoid_time": null,
+        "reviews": [
+        "北京植物园不错，体验不错"
+        ]
+    },
+    "bj022": {
+        "poi_name": "香山公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.7,
+        "best_time": "秋季赏叶期",
+        "avoid_time": null,
+        "reviews": [
+        "香山公园挺好的，值得来"
+        ]
+    },
+    "bj023": {
+        "poi_name": "国家林业局博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "国家林业局博物馆一般般，风景很好",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "bj024": {
+        "poi_name": "北京天文馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 12,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "北京天文馆还不错，风景很好"
+        ]
+    },
+    "bj025": {
+        "poi_name": "雍和宫",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "雍和宫不错，风景很好"
+        ]
+    },
+    "bj026": {
+        "poi_name": "国子监",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "国子监值得一去，没让人失望",
+        "人不多，可以慢慢逛"
+        ]
+    },
+    "bj027": {
+        "poi_name": "前门大街",
+        "crowd_level": "中",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "前门大街没太大惊喜，值得来"
+        ]
+    },
+    "bj028": {
+        "poi_name": "大栅栏",
+        "crowd_level": "中",
+        "avg_wait_minutes": 21,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "大栅栏还行，风景很好"
+        ]
+    },
+    "bj029": {
+        "poi_name": "隆福寺",
+        "crowd_level": "中",
+        "avg_wait_minutes": 22,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "隆福寺还行，值得来"
+        ]
+    },
+    "bj030": {
+        "poi_name": "簋街",
+        "crowd_level": "高",
+        "avg_wait_minutes": 88,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "簋街的味道不错，很正宗",
+        "排队大概88分钟，有点久但能接受",
+        "在北京吃了很多家，簋街算是最好吃的之一"
+        ]
+    },
+    "bj031": {
+        "poi_name": "全聚德烤鸭",
+        "crowd_level": "高",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.6,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "全聚德烤鸭的味道不错，份量足",
+        "排队大概30分钟，但很值得",
+        "在北京吃了很多家，全聚德烤鸭算是很有特色"
+        ]
+    },
+    "bj032": {
+        "poi_name": "东来顺涮肉",
+        "crowd_level": "高",
+        "avg_wait_minutes": 34,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "东来顺涮肉的味道挺好的，性价比高",
+        "排队大概34分钟，有点久但能接受",
+        "在北京吃了很多家，东来顺涮肉算是最正宗的"
+        ]
+    },
+    "bj033": {
+        "poi_name": "护国寺小吃",
+        "crowd_level": "中",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "护国寺小吃的味道没太大惊喜，口感很好",
+        "基本不用等，效率很高",
+        "在北京吃了很多家，护国寺小吃算是最正宗的"
+        ]
+    },
+    "bj034": {
+        "poi_name": "秦唐御点",
+        "crowd_level": "中",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "秦唐御点的味道凑合，很正宗",
+        "基本不用等，效率很高",
+        "在北京吃了很多家，秦唐御点算是很有特色"
+        ]
+    },
+    "bj035": {
+        "poi_name": "北京烤鸭张",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "北京烤鸭张的味道没太大惊喜，性价比高",
+        "排队大概25分钟，有点久但能接受",
+        "在北京吃了很多家，北京烤鸭张算是最好吃的之一"
+        ]
+    },
+    "bj036": {
+        "poi_name": "中国美术馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 3,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "中国美术馆值得一去，值得来",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "bj037": {
+        "poi_name": "北京自然博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "北京自然博物馆挺好的，值得来"
+        ]
+    },
+    "bj038": {
+        "poi_name": "中国科学技术馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "中国科学技术馆挺好的，值得来"
+        ]
+    },
+    "bj039": {
+        "poi_name": "奥林匹克公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "sentiment_score": 0.5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "奥林匹克公园值得一去，体验不错",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "bj040": {
+        "poi_name": "鸟巢",
+        "crowd_level": "高",
+        "avg_wait_minutes": 77,
+        "sentiment_score": 0.5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "鸟巢凑合，值得来",
+        "人比较多，建议早点去"
+        ]
+    },
+    "bj041": {
+        "poi_name": "水立方",
+        "crowd_level": "中",
+        "avg_wait_minutes": 19,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "水立方挺好的，没让人失望"
+        ]
+    },
+    "bj042": {
+        "poi_name": "北京工人体育场",
+        "crowd_level": "高",
+        "avg_wait_minutes": 61,
+        "sentiment_score": 0.3,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "北京工人体育场没太大惊喜，没让人失望",
+        "人比较多，建议避开节假日"
+        ]
+    },
+    "bj043": {
+        "poi_name": "崇文门",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "崇文门还行，风景很好"
+        ]
+    },
+    "bj044": {
+        "poi_name": "东单",
+        "crowd_level": "中",
+        "avg_wait_minutes": 22,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "东单没太大惊喜，没让人失望"
+        ]
+    },
+    "bj045": {
+        "poi_name": "西单",
+        "crowd_level": "中",
+        "avg_wait_minutes": 14,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "西单没太大惊喜，值得来"
+        ]
+    },
+    "bj046": {
+        "poi_name": "方家胡同",
+        "crowd_level": "中",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "方家胡同还行，体验不错"
+        ]
+    },
+    "bj047": {
+        "poi_name": "北京故宫角楼",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "sentiment_score": 0.7,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "北京故宫角楼不错，值得来",
+        "人不多，很舒适",
+        "免费的，性价比极高"
+        ]
+    },
+    "bj048": {
+        "poi_name": "恭王府",
+        "crowd_level": "中",
+        "avg_wait_minutes": 13,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "恭王府不错，体验不错"
+        ]
+    },
+    "bj049": {
+        "poi_name": "北京古代建筑博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "北京古代建筑博物馆凑合，体验不错",
+        "人不多，氛围很好"
+        ]
+    },
+    "bj050": {
+        "poi_name": "中轴线",
+        "crowd_level": "中",
+        "avg_wait_minutes": 11,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "中轴线非常值得，值得来"
+        ]
+    },
+    "cd005": {
+        "poi_name": "都江堰景区",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "都江堰景区来对了，体验不错"
+        ]
+    },
+    "cd007": {
+        "poi_name": "青城山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "青城山还不错，体验不错"
+        ]
+    },
+    "cd009": {
+        "poi_name": "文殊院",
+        "crowd_level": "低",
+        "avg_wait_minutes": 3,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "文殊院挺好的，体验不错",
+        "人不多，可以慢慢逛",
+        "免费的，良心景点"
+        ]
+    },
+    "cd010": {
+        "poi_name": "天府广场",
+        "crowd_level": "高",
+        "avg_wait_minutes": 56,
+        "sentiment_score": 0.3,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "天府广场还行，没让人失望",
+        "人比较多，建议早点去",
+        "免费的，性价比极高"
+        ]
+    },
+    "cd011": {
+        "poi_name": "人民公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 4,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "人民公园还不错，体验不错",
+        "人不多，氛围很好",
+        "免费的，良心景点"
+        ]
+    },
+    "cd012": {
+        "poi_name": "春熙路",
+        "crowd_level": "高",
+        "avg_wait_minutes": 82,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "春熙路一般般，值得来",
+        "人比较多，建议工作日来"
+        ]
+    },
+    "cd013": {
+        "poi_name": "四川大学",
+        "crowd_level": "低",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "四川大学还不错，没让人失望",
+        "人不多，很舒适",
+        "免费的，性价比极高"
+        ]
+    },
+    "cd014": {
+        "poi_name": "成都动物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "成都动物园一般般，体验不错"
+        ]
+    },
+    "cd015": {
+        "poi_name": "望江楼公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "望江楼公园一般般，风景很好"
+        ]
+    },
+    "cd016": {
+        "poi_name": "杜甫草堂",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "杜甫草堂值得一去，体验不错"
+        ]
+    },
+    "cd017": {
+        "poi_name": "金沙遗址博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 26,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "金沙遗址博物馆推荐，值得来"
+        ]
+    },
+    "cd018": {
+        "poi_name": "成都IFS",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "成都IFS不错，值得来",
+        "拍照效果很好，随手一拍都好看"
+        ]
+    },
+    "cd019": {
+        "poi_name": "成都339电视塔",
+        "crowd_level": "高",
+        "avg_wait_minutes": 40,
+        "sentiment_score": 0.4,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "成都339电视塔凑合，值得来",
+        "人比较多，建议早点去"
+        ]
+    },
+    "cd020": {
+        "poi_name": "猛追湾",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "猛追湾挺好的，值得来",
+        "拍照效果很好，很上镜"
+        ]
+    },
+    "cd021": {
+        "poi_name": "麓湖公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "麓湖公园推荐，风景很好"
+        ]
+    },
+    "cd022": {
+        "poi_name": "东郊记忆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "东郊记忆没太大惊喜，值得来"
+        ]
+    },
+    "cd023": {
+        "poi_name": "成都方所",
+        "crowd_level": "中",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "成都方所推荐，风景很好"
+        ]
+    },
+    "cd024": {
+        "poi_name": "九眼桥酒吧街",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.4,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "九眼桥酒吧街一般般，没让人失望"
+        ]
+    },
+    "cd025": {
+        "poi_name": "成都海昌海洋公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 11,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "成都海昌海洋公园凑合，风景很好"
+        ]
+    },
+    "cd026": {
+        "poi_name": "龙泉驿桃花沟",
+        "crowd_level": "中",
+        "avg_wait_minutes": 17,
+        "sentiment_score": 0.5,
+        "best_time": "春季花期",
+        "avoid_time": null,
+        "reviews": [
+        "龙泉驿桃花沟挺好的，风景很好"
+        ]
+    },
+    "cd027": {
+        "poi_name": "西岭雪山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "西岭雪山值得一去，体验不错"
+        ]
+    },
+    "cd028": {
+        "poi_name": "成都科幻馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 12,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "成都科幻馆推荐，体验不错"
+        ]
+    },
+    "cd029": {
+        "poi_name": "夫妻肺片总店",
+        "crowd_level": "高",
+        "avg_wait_minutes": 31,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "夫妻肺片总店的味道挺好的，口感很好",
+        "排队大概31分钟，但很值得",
+        "在成都吃了很多家，夫妻肺片总店算是最好吃的之一"
+        ]
+    },
+    "cd030": {
+        "poi_name": "龙抄手",
+        "crowd_level": "高",
+        "avg_wait_minutes": 33,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "龙抄手的味道推荐，口感很好",
+        "排队大概33分钟，但很值得",
+        "在成都吃了很多家，龙抄手算是最好吃的之一"
+        ]
+    },
+    "cd031": {
+        "poi_name": "钟水饺",
+        "crowd_level": "高",
+        "avg_wait_minutes": 56,
+        "sentiment_score": 0.6,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "钟水饺的味道还不错，口感很好",
+        "排队大概56分钟，有点久但能接受",
+        "在成都吃了很多家，钟水饺算是最正宗的"
+        ]
+    },
+    "cd032": {
+        "poi_name": "廖记棒棒鸡",
+        "crowd_level": "中",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "廖记棒棒鸡的味道还行，很正宗",
+        "基本不用等，效率很高",
+        "在成都吃了很多家，廖记棒棒鸡算是最好吃的之一"
+        ]
+    },
+    "cd033": {
+        "poi_name": "成都担担面",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "成都担担面的味道凑合，很正宗",
+        "基本不用等，效率很高",
+        "在成都吃了很多家，成都担担面算是最好吃的之一"
+        ]
+    },
+    "cd034": {
+        "poi_name": "皇城坝老妈火锅",
+        "crowd_level": "高",
+        "avg_wait_minutes": 21,
+        "sentiment_score": 0.6,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "皇城坝老妈火锅的味道值得一去，口感很好",
+        "排队大概21分钟，有点久但能接受",
+        "在成都吃了很多家，皇城坝老妈火锅算是很有特色"
+        ]
+    },
+    "cd035": {
+        "poi_name": "蜀九香火锅",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "蜀九香火锅的味道推荐，份量足",
+        "排队大概29分钟，有点久但能接受",
+        "在成都吃了很多家，蜀九香火锅算是最好吃的之一"
+        ]
+    },
+    "cd036": {
+        "poi_name": "三大炮",
+        "crowd_level": "中",
+        "avg_wait_minutes": 22,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "三大炮的味道凑合，很正宗",
+        "排队大概22分钟，有点久但能接受",
+        "在成都吃了很多家，三大炮算是最好吃的之一"
+        ]
+    },
+    "cd037": {
+        "poi_name": "肥肠粉",
+        "crowd_level": "中",
+        "avg_wait_minutes": 26,
+        "sentiment_score": 0.3,
+        "best_time": "早上7-9点",
+        "avoid_time": null,
+        "reviews": [
+        "肥肠粉的味道还行，性价比高",
+        "排队大概26分钟，建议提前来",
+        "在成都吃了很多家，肥肠粉算是很有特色"
+        ]
+    },
+    "cd038": {
+        "poi_name": "成都奎星楼街",
+        "crowd_level": "中",
+        "avg_wait_minutes": 14,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "成都奎星楼街的味道挺好的，很正宗",
+        "基本不用等，上菜很快",
+        "在成都吃了很多家，成都奎星楼街算是很有特色"
+        ]
+    },
+    "cd039": {
+        "poi_name": "耍都",
+        "crowd_level": "中",
+        "avg_wait_minutes": 16,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "耍都还行，值得来"
+        ]
+    },
+    "cd040": {
+        "poi_name": "崇州街子古镇",
+        "crowd_level": "低",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "崇州街子古镇值得一去，值得来",
+        "人不多，可以慢慢逛"
+        ]
+    },
+    "cd041": {
+        "poi_name": "新津天府农业博览园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "新津天府农业博览园一般般，体验不错"
+        ]
+    },
+    "cd042": {
+        "poi_name": "成都非遗博览园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "成都非遗博览园凑合，值得来",
+        "人不多，很舒适",
+        "免费的，性价比极高"
+        ]
+    },
+    "cd043": {
+        "poi_name": "青羊宫",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "青羊宫凑合，体验不错",
+        "人不多，可以慢慢逛"
+        ]
+    },
+    "cd044": {
+        "poi_name": "成都明宇豪雅",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "成都明宇豪雅没太大惊喜，值得来"
+        ]
+    },
+    "cd045": {
+        "poi_name": "建设路小吃街",
+        "crowd_level": "高",
+        "avg_wait_minutes": 74,
+        "sentiment_score": 0.4,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "建设路小吃街的味道没太大惊喜，份量足",
+        "排队大概74分钟，建议提前来",
+        "在成都吃了很多家，建设路小吃街算是最正宗的"
+        ]
+    },
+    "cd046": {
+        "poi_name": "成都凤凰山体育公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "成都凤凰山体育公园没太大惊喜，风景很好",
+        "人不多，可以慢慢逛",
+        "免费的，性价比极高"
+        ]
+    },
+    "cd047": {
+        "poi_name": "青白江欧洲产业城",
+        "crowd_level": "低",
+        "avg_wait_minutes": 4,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "青白江欧洲产业城凑合，没让人失望",
+        "人不多，可以慢慢逛"
+        ]
+    },
+    "cd048": {
+        "poi_name": "崇州鸡冠山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "崇州鸡冠山还不错，体验不错"
+        ]
+    },
+    "cd049": {
+        "poi_name": "成都画院",
+        "crowd_level": "低",
+        "avg_wait_minutes": 4,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "成都画院凑合，值得来",
+        "人不多，氛围很好",
+        "免费的，良心景点"
+        ]
+    },
+    "cd050": {
+        "poi_name": "成都融创雪世界",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "成都融创雪世界一般般，风景很好"
+        ]
+    },
+    "hz006": {
+        "poi_name": "断桥",
+        "crowd_level": "低",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "断桥还不错，风景很好",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "hz007": {
+        "poi_name": "苏堤",
+        "crowd_level": "低",
+        "avg_wait_minutes": 3,
+        "sentiment_score": 0.8,
+        "best_time": "春季花期",
+        "avoid_time": null,
+        "reviews": [
+        "苏堤强烈推荐，体验不错",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "hz008": {
+        "poi_name": "河坊街",
+        "crowd_level": "中",
+        "avg_wait_minutes": 19,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "河坊街还行，没让人失望"
+        ]
+    },
+    "hz009": {
+        "poi_name": "龙井村",
+        "crowd_level": "中",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "龙井村挺好的，体验不错"
+        ]
+    },
+    "hz010": {
+        "poi_name": "中国美院",
+        "crowd_level": "低",
+        "avg_wait_minutes": 4,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "中国美院挺好的，没让人失望",
+        "人不多，可以慢慢逛",
+        "免费的，良心景点"
+        ]
+    },
+    "hz011": {
+        "poi_name": "千岛湖",
+        "crowd_level": "中",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.9,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "千岛湖来对了，没让人失望"
+        ]
+    },
+    "hz012": {
+        "poi_name": "乌镇",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.8,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "乌镇强烈推荐，风景很好"
+        ]
+    },
+    "hz013": {
+        "poi_name": "西塘古镇",
+        "crowd_level": "中",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "西塘古镇挺好的，风景很好"
+        ]
+    },
+    "hz014": {
+        "poi_name": "良渚博物院",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "良渚博物院还不错，值得来"
+        ]
+    },
+    "hz015": {
+        "poi_name": "浙江省博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "浙江省博物馆挺好的，风景很好",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "hz016": {
+        "poi_name": "钱塘江大桥",
+        "crowd_level": "低",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "钱塘江大桥一般般，体验不错",
+        "人不多，很舒适",
+        "免费的，良心景点"
+        ]
+    },
+    "hz017": {
+        "poi_name": "太子湾公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 14,
+        "sentiment_score": 0.7,
+        "best_time": "春季花期",
+        "avoid_time": null,
+        "reviews": [
+        "太子湾公园挺好的，风景很好"
+        ]
+    },
+    "hz018": {
+        "poi_name": "九溪烟树",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "九溪烟树推荐，体验不错"
+        ]
+    },
+    "hz019": {
+        "poi_name": "岳飞庙",
+        "crowd_level": "中",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "岳飞庙值得一去，值得来"
+        ]
+    },
+    "hz020": {
+        "poi_name": "湖滨步行街",
+        "crowd_level": "高",
+        "avg_wait_minutes": 69,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "湖滨步行街还不错，体验不错",
+        "人比较多，建议工作日来"
+        ]
+    },
+    "hz021": {
+        "poi_name": "知味观",
+        "crowd_level": "高",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.6,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "知味观的味道值得一去，很正宗",
+        "排队大概29分钟，建议提前来",
+        "在杭州吃了很多家，知味观算是很有特色"
+        ]
+    },
+    "hz022": {
+        "poi_name": "楼外楼",
+        "crowd_level": "高",
+        "avg_wait_minutes": 22,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "楼外楼的味道不错，口感很好",
+        "排队大概22分钟，建议提前来",
+        "在杭州吃了很多家，楼外楼算是最好吃的之一"
+        ]
+    },
+    "hz023": {
+        "poi_name": "奎元馆",
+        "crowd_level": "高",
+        "avg_wait_minutes": 57,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "奎元馆的味道不错，性价比高",
+        "排队大概57分钟，建议提前来",
+        "在杭州吃了很多家，奎元馆算是最好吃的之一"
+        ]
+    },
+    "hz024": {
+        "poi_name": "新丰小吃",
+        "crowd_level": "中",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.4,
+        "best_time": "早上7-9点",
+        "avoid_time": null,
+        "reviews": [
+        "新丰小吃的味道一般般，口感很好",
+        "基本不用等，上菜很快",
+        "在杭州吃了很多家，新丰小吃算是最正宗的"
+        ]
+    },
+    "hz025": {
+        "poi_name": "杭州小笼馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "杭州小笼馆的味道没太大惊喜，很正宗",
+        "基本不用等，上菜很快",
+        "在杭州吃了很多家，杭州小笼馆算是很有特色"
+        ]
+    },
+    "hz026": {
+        "poi_name": "南宋御街",
+        "crowd_level": "中",
+        "avg_wait_minutes": 18,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "南宋御街没太大惊喜，值得来"
+        ]
+    },
+    "hz027": {
+        "poi_name": "满觉陇",
+        "crowd_level": "中",
+        "avg_wait_minutes": 12,
+        "sentiment_score": 0.6,
+        "best_time": "秋季赏叶期",
+        "avoid_time": null,
+        "reviews": [
+        "满觉陇推荐，体验不错"
+        ]
+    },
+    "hz028": {
+        "poi_name": "三潭印月",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "三潭印月推荐，没让人失望"
+        ]
+    },
+    "hz029": {
+        "poi_name": "柳浪闻莺",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "柳浪闻莺值得一去，风景很好",
+        "人不多，很舒适",
+        "免费的，性价比极高"
+        ]
+    },
+    "hz030": {
+        "poi_name": "花港观鱼",
+        "crowd_level": "低",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "花港观鱼值得一去，风景很好",
+        "人不多，可以慢慢逛",
+        "免费的，性价比极高"
+        ]
+    },
+    "hz031": {
+        "poi_name": "浙大紫金港校区",
+        "crowd_level": "低",
+        "avg_wait_minutes": 1,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "浙大紫金港校区不错，风景很好",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "hz032": {
+        "poi_name": "杭州图书馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "杭州图书馆挺好的，没让人失望",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "hz033": {
+        "poi_name": "杭州植物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.5,
+        "best_time": "春季花期",
+        "avoid_time": null,
+        "reviews": [
+        "杭州植物园还不错，没让人失望"
+        ]
+    },
+    "hz034": {
+        "poi_name": "临安天目山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "临安天目山推荐，没让人失望"
+        ]
+    },
+    "hz035": {
+        "poi_name": "富阳东梓关村",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "富阳东梓关村推荐，没让人失望"
+        ]
+    },
+    "hz036": {
+        "poi_name": "杭州丝绸博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "杭州丝绸博物馆值得一去，没让人失望"
+        ]
+    },
+    "hz037": {
+        "poi_name": "杭州工艺美术博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "杭州工艺美术博物馆一般般，体验不错"
+        ]
+    },
+    "hz038": {
+        "poi_name": "四眼井",
+        "crowd_level": "低",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "四眼井还行，风景很好",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "hz039": {
+        "poi_name": "高银街",
+        "crowd_level": "高",
+        "avg_wait_minutes": 82,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "高银街的味道没太大惊喜，份量足",
+        "排队大概82分钟，有点久但能接受",
+        "在杭州吃了很多家，高银街算是很有特色"
+        ]
+    },
+    "hz040": {
+        "poi_name": "杭州老头儿油爆虾",
+        "crowd_level": "高",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "杭州老头儿油爆虾的味道不错，性价比高",
+        "排队大概23分钟，建议提前来",
+        "在杭州吃了很多家，杭州老头儿油爆虾算是很有特色"
+        ]
+    },
+    "hz041": {
+        "poi_name": "绿茶餐厅",
+        "crowd_level": "高",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "绿茶餐厅的味道一般般，口感很好",
+        "排队大概28分钟，建议提前来",
+        "在杭州吃了很多家，绿茶餐厅算是最正宗的"
+        ]
+    },
+    "hz042": {
+        "poi_name": "外婆家",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "外婆家的味道凑合，性价比高",
+        "排队大概29分钟，但很值得",
+        "在杭州吃了很多家，外婆家算是很有特色"
+        ]
+    },
+    "hz043": {
+        "poi_name": "震远同",
+        "crowd_level": "高",
+        "avg_wait_minutes": 48,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "震远同的味道值得一去，很正宗",
+        "排队大概48分钟，有点久但能接受",
+        "在杭州吃了很多家，震远同算是最正宗的"
+        ]
+    },
+    "hz044": {
+        "poi_name": "猫的天空之城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 22,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "猫的天空之城没太大惊喜，风景很好"
+        ]
+    },
+    "hz045": {
+        "poi_name": "杭州大厦",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "杭州大厦还行，风景很好"
+        ]
+    },
+    "hz046": {
+        "poi_name": "万象城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 14,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "万象城还行，风景很好"
+        ]
+    },
+    "hz047": {
+        "poi_name": "杭州国家版本馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 18,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "杭州国家版本馆强烈推荐，体验不错"
+        ]
+    },
+    "hz048": {
+        "poi_name": "南屏晚钟",
+        "crowd_level": "低",
+        "avg_wait_minutes": 1,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "南屏晚钟还不错，体验不错",
+        "人不多，可以慢慢逛",
+        "免费的，强烈推荐"
+        ]
+    },
+    "hz049": {
+        "poi_name": "慈云岭造像",
+        "crowd_level": "低",
+        "avg_wait_minutes": 4,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "慈云岭造像没太大惊喜，没让人失望",
+        "人不多，很舒适"
+        ]
+    },
+    "hz050": {
+        "poi_name": "凤凰山",
+        "crowd_level": "低",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "凤凰山凑合，体验不错",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "gz006": {
+        "poi_name": "沙面",
+        "crowd_level": "中",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "沙面推荐，没让人失望",
+        "拍照效果很好，随手一拍都好看"
+        ]
+    },
+    "gz007": {
+        "poi_name": "广州博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "广州博物馆值得一去，没让人失望",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "gz008": {
+        "poi_name": "珠江夜游",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.7,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "珠江夜游不错，值得来"
+        ]
+    },
+    "gz009": {
+        "poi_name": "广州国际灯光节",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.7,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "广州国际灯光节推荐，体验不错"
+        ]
+    },
+    "gz010": {
+        "poi_name": "荔枝湾",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "荔枝湾还不错，风景很好"
+        ]
+    },
+    "gz011": {
+        "poi_name": "番禺宝墨园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "番禺宝墨园还不错，风景很好"
+        ]
+    },
+    "gz012": {
+        "poi_name": "广州动物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "广州动物园凑合，风景很好"
+        ]
+    },
+    "gz013": {
+        "poi_name": "天河城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "天河城凑合，没让人失望"
+        ]
+    },
+    "gz014": {
+        "poi_name": "太古汇",
+        "crowd_level": "中",
+        "avg_wait_minutes": 16,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "太古汇挺好的，风景很好"
+        ]
+    },
+    "gz015": {
+        "poi_name": "广州花城广场",
+        "crowd_level": "低",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "广州花城广场还不错，体验不错",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "gz016": {
+        "poi_name": "早茶",
+        "crowd_level": "高",
+        "avg_wait_minutes": 31,
+        "sentiment_score": 0.8,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "早茶的味道必去打卡，性价比高",
+        "排队大概31分钟，有点久但能接受",
+        "在广州吃了很多家，早茶算是最正宗的"
+        ]
+    },
+    "gz017": {
+        "poi_name": "泮溪酒家",
+        "crowd_level": "高",
+        "avg_wait_minutes": 42,
+        "sentiment_score": 0.6,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "泮溪酒家的味道值得一去，很正宗",
+        "排队大概42分钟，但很值得",
+        "在广州吃了很多家，泮溪酒家算是最好吃的之一"
+        ]
+    },
+    "gz018": {
+        "poi_name": "陶陶居",
+        "crowd_level": "高",
+        "avg_wait_minutes": 44,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "陶陶居的味道值得一去，口感很好",
+        "排队大概44分钟，建议提前来",
+        "在广州吃了很多家，陶陶居算是最正宗的"
+        ]
+    },
+    "gz019": {
+        "poi_name": "白天鹅宾馆云轩",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "白天鹅宾馆云轩的味道挺好的，份量足",
+        "基本不用等，效率很高",
+        "在广州吃了很多家，白天鹅宾馆云轩算是最好吃的之一"
+        ]
+    },
+    "gz020": {
+        "poi_name": "西关烧鹅",
+        "crowd_level": "高",
+        "avg_wait_minutes": 54,
+        "sentiment_score": 0.6,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "西关烧鹅的味道还不错，很正宗",
+        "排队大概54分钟，但很值得",
+        "在广州吃了很多家，西关烧鹅算是很有特色"
+        ]
+    },
+    "gz021": {
+        "poi_name": "广州十三行",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "广州十三行还行，值得来"
+        ]
+    },
+    "gz022": {
+        "poi_name": "黄埔古港",
+        "crowd_level": "低",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "黄埔古港还行，风景很好",
+        "人不多，很舒适"
+        ]
+    },
+    "gz023": {
+        "poi_name": "珠江新城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "珠江新城凑合，体验不错"
+        ]
+    },
+    "gz024": {
+        "poi_name": "广州海心沙",
+        "crowd_level": "低",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "广州海心沙没太大惊喜，风景很好",
+        "人不多，可以慢慢逛",
+        "免费的，性价比极高"
+        ]
+    },
+    "gz025": {
+        "poi_name": "越秀公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "越秀公园还不错，风景很好"
+        ]
+    },
+    "gz026": {
+        "poi_name": "从化温泉",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "从化温泉不错，体验不错"
+        ]
+    },
+    "gz027": {
+        "poi_name": "长隆欢乐世界",
+        "crowd_level": "中",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "长隆欢乐世界必去打卡，风景很好"
+        ]
+    },
+    "gz028": {
+        "poi_name": "广州科学中心",
+        "crowd_level": "中",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "广州科学中心挺好的，体验不错"
+        ]
+    },
+    "gz029": {
+        "poi_name": "广州南沙湿地",
+        "crowd_level": "中",
+        "avg_wait_minutes": 11,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "广州南沙湿地值得一去，风景很好"
+        ]
+    },
+    "gz030": {
+        "poi_name": "广州美术馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "广州美术馆还行，体验不错",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "cq006": {
+        "poi_name": "重庆火锅",
+        "crowd_level": "高",
+        "avg_wait_minutes": 31,
+        "sentiment_score": 0.9,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "重庆火锅的味道超级棒，份量足",
+        "排队大概31分钟，有点久但能接受",
+        "在重庆吃了很多家，重庆火锅算是最好吃的之一"
+        ]
+    },
+    "cq007": {
+        "poi_name": "长江索道",
+        "crowd_level": "中",
+        "avg_wait_minutes": 17,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "长江索道不错，没让人失望"
+        ]
+    },
+    "cq008": {
+        "poi_name": "重庆中国三峡博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 4,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "重庆中国三峡博物馆值得一去，风景很好",
+        "人不多，很舒适",
+        "免费的，良心景点"
+        ]
+    },
+    "cq009": {
+        "poi_name": "鹅岭公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "鹅岭公园不错，没让人失望",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "cq010": {
+        "poi_name": "重庆钢铁厂",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆钢铁厂没太大惊喜，体验不错"
+        ]
+    },
+    "cq011": {
+        "poi_name": "重庆龙门阵",
+        "crowd_level": "中",
+        "avg_wait_minutes": 26,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆龙门阵还行，没让人失望"
+        ]
+    },
+    "cq012": {
+        "poi_name": "巫山小三峡",
+        "crowd_level": "中",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "巫山小三峡非常值得，没让人失望"
+        ]
+    },
+    "cq013": {
+        "poi_name": "重庆欢乐谷",
+        "crowd_level": "中",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆欢乐谷还行，风景很好"
+        ]
+    },
+    "cq014": {
+        "poi_name": "南滨路",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.6,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "南滨路还不错，风景很好"
+        ]
+    },
+    "cq015": {
+        "poi_name": "重庆大学",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆大学不错，体验不错"
+        ]
+    },
+    "cq016": {
+        "poi_name": "四面山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 11,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "四面山还不错，没让人失望"
+        ]
+    },
+    "cq017": {
+        "poi_name": "重庆自然博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆自然博物馆挺好的，风景很好"
+        ]
+    },
+    "cq018": {
+        "poi_name": "重庆涪陵白鹤梁",
+        "crowd_level": "中",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆涪陵白鹤梁挺好的，值得来"
+        ]
+    },
+    "cq019": {
+        "poi_name": "重庆小面",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.7,
+        "best_time": "早上7-9点",
+        "avoid_time": null,
+        "reviews": [
+        "重庆小面的味道推荐，很正宗",
+        "基本不用等，效率很高",
+        "在重庆吃了很多家，重庆小面算是很有特色"
+        ]
+    },
+    "cq020": {
+        "poi_name": "秦妈火锅",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "秦妈火锅的味道不错，份量足",
+        "基本不用等，很方便",
+        "在重庆吃了很多家，秦妈火锅算是最好吃的之一"
+        ]
+    },
+    "cq021": {
+        "poi_name": "重庆酸辣粉",
+        "crowd_level": "中",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆酸辣粉的味道不错，性价比高",
+        "基本不用等，很方便",
+        "在重庆吃了很多家，重庆酸辣粉算是最正宗的"
+        ]
+    },
+    "cq022": {
+        "poi_name": "重庆万象城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 19,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆万象城没太大惊喜，风景很好"
+        ]
+    },
+    "cq023": {
+        "poi_name": "重庆奥陶纪",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆奥陶纪不错，体验不错",
+        "拍照效果很好，很上镜"
+        ]
+    },
+    "cq024": {
+        "poi_name": "重庆万盛黑山谷",
+        "crowd_level": "中",
+        "avg_wait_minutes": 11,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆万盛黑山谷推荐，体验不错"
+        ]
+    },
+    "cq025": {
+        "poi_name": "重庆来福士广场",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "重庆来福士广场值得一去，风景很好"
+        ]
+    },
+    "cq026": {
+        "poi_name": "佛图关公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "佛图关公园没太大惊喜，值得来",
+        "人不多，可以慢慢逛",
+        "免费的，良心景点"
+        ]
+    },
+    "cq027": {
+        "poi_name": "重庆市规划展览馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "重庆市规划展览馆一般般，风景很好",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "cq028": {
+        "poi_name": "重庆巴南区圣灯山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆巴南区圣灯山不错，风景很好"
+        ]
+    },
+    "cq029": {
+        "poi_name": "重庆崽崽火锅",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆崽崽火锅的味道值得一去，很正宗",
+        "排队大概27分钟，但很值得",
+        "在重庆吃了很多家，重庆崽崽火锅算是最正宗的"
+        ]
+    },
+    "cq030": {
+        "poi_name": "重庆江湖菜",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "重庆江湖菜的味道还行，性价比高",
+        "排队大概24分钟，有点久但能接受",
+        "在重庆吃了很多家，重庆江湖菜算是很有特色"
+        ]
+    },
+    "nj006": {
+        "poi_name": "南京博物院",
+        "crowd_level": "低",
+        "avg_wait_minutes": 4,
+        "sentiment_score": 0.9,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "南京博物院非常值得，值得来",
+        "人不多，氛围很好",
+        "免费的，良心景点"
+        ]
+    },
+    "nj007": {
+        "poi_name": "朝天宫",
+        "crowd_level": "低",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "朝天宫挺好的，值得来",
+        "人不多，很舒适"
+        ]
+    },
+    "nj008": {
+        "poi_name": "总统府",
+        "crowd_level": "高",
+        "avg_wait_minutes": 74,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "总统府推荐，值得来",
+        "人比较多，建议避开节假日"
+        ]
+    },
+    "nj009": {
+        "poi_name": "鸡鸣寺",
+        "crowd_level": "中",
+        "avg_wait_minutes": 21,
+        "sentiment_score": 0.6,
+        "best_time": "春季花期",
+        "avoid_time": null,
+        "reviews": [
+        "鸡鸣寺值得一去，体验不错"
+        ]
+    },
+    "nj010": {
+        "poi_name": "秦淮河",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.7,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "秦淮河值得一去，体验不错"
+        ]
+    },
+    "nj011": {
+        "poi_name": "老门东",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "老门东还不错，体验不错"
+        ]
+    },
+    "nj012": {
+        "poi_name": "南京城墙",
+        "crowd_level": "中",
+        "avg_wait_minutes": 26,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "南京城墙不错，没让人失望"
+        ]
+    },
+    "nj013": {
+        "poi_name": "南京大屠杀纪念馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 3,
+        "sentiment_score": 0.9,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "南京大屠杀纪念馆来对了，没让人失望",
+        "人不多，氛围很好",
+        "免费的，良心景点"
+        ]
+    },
+    "nj014": {
+        "poi_name": "牛首山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "牛首山值得一去，体验不错"
+        ]
+    },
+    "nj015": {
+        "poi_name": "先锋书店",
+        "crowd_level": "中",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "先锋书店不错，没让人失望"
+        ]
+    },
+    "nj016": {
+        "poi_name": "鸭血粉丝汤",
+        "crowd_level": "高",
+        "avg_wait_minutes": 60,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "鸭血粉丝汤的味道还不错，份量足",
+        "排队大概60分钟，建议提前来",
+        "在南京吃了很多家，鸭血粉丝汤算是最好吃的之一"
+        ]
+    },
+    "nj017": {
+        "poi_name": "盐水鸭",
+        "crowd_level": "高",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "盐水鸭的味道值得一去，很正宗",
+        "基本不用等，上菜很快",
+        "在南京吃了很多家，盐水鸭算是最正宗的"
+        ]
+    },
+    "nj018": {
+        "poi_name": "金陵饭店",
+        "crowd_level": "高",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "金陵饭店的味道不错，份量足",
+        "排队大概24分钟，建议提前来",
+        "在南京吃了很多家，金陵饭店算是最好吃的之一"
+        ]
+    },
+    "nj019": {
+        "poi_name": "回味鸭血粉丝",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "回味鸭血粉丝的味道推荐，很正宗",
+        "排队大概23分钟，但很值得",
+        "在南京吃了很多家，回味鸭血粉丝算是很有特色"
+        ]
+    },
+    "nj020": {
+        "poi_name": "南京大牌档",
+        "crowd_level": "中",
+        "avg_wait_minutes": 12,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "南京大牌档的味道凑合，口感很好",
+        "基本不用等，效率很高",
+        "在南京吃了很多家，南京大牌档算是最正宗的"
+        ]
+    },
+    "nj021": {
+        "poi_name": "新街口",
+        "crowd_level": "高",
+        "avg_wait_minutes": 73,
+        "sentiment_score": 0.4,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "新街口还行，体验不错",
+        "人比较多，建议避开节假日"
+        ]
+    },
+    "nj022": {
+        "poi_name": "德基广场",
+        "crowd_level": "中",
+        "avg_wait_minutes": 21,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "德基广场不错，没让人失望"
+        ]
+    },
+    "nj023": {
+        "poi_name": "南京眼",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "南京眼推荐，值得来",
+        "人不多，很舒适",
+        "免费的，强烈推荐"
+        ]
+    },
+    "nj024": {
+        "poi_name": "河西万达",
+        "crowd_level": "中",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "河西万达没太大惊喜，没让人失望"
+        ]
+    },
+    "nj025": {
+        "poi_name": "南京奥体中心",
+        "crowd_level": "低",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "南京奥体中心没太大惊喜，风景很好",
+        "人不多，可以慢慢逛",
+        "免费的，良心景点"
+        ]
+    },
+    "nj026": {
+        "poi_name": "求雨山公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "求雨山公园凑合，风景很好",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "nj027": {
+        "poi_name": "燕子矶公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 17,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "燕子矶公园还行，体验不错"
+        ]
+    },
+    "nj028": {
+        "poi_name": "南京天文台",
+        "crowd_level": "中",
+        "avg_wait_minutes": 12,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "南京天文台没太大惊喜，体验不错"
+        ]
+    },
+    "nj029": {
+        "poi_name": "梅花山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 22,
+        "sentiment_score": 0.7,
+        "best_time": "春季花期",
+        "avoid_time": null,
+        "reviews": [
+        "梅花山挺好的，没让人失望"
+        ]
+    },
+    "nj030": {
+        "poi_name": "南京古文化街",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "南京古文化街一般般，风景很好"
+        ]
+    },
+    "xa006": {
+        "poi_name": "华清池",
+        "crowd_level": "中",
+        "avg_wait_minutes": 14,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "华清池挺好的，没让人失望"
+        ]
+    },
+    "xa007": {
+        "poi_name": "陕西历史博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "sentiment_score": 0.9,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "陕西历史博物馆必去打卡，体验不错",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "xa008": {
+        "poi_name": "钟鼓楼",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.6,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "钟鼓楼还不错，体验不错"
+        ]
+    },
+    "xa009": {
+        "poi_name": "小雁塔",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "小雁塔挺好的，风景很好"
+        ]
+    },
+    "xa010": {
+        "poi_name": "骊山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "骊山值得一去，没让人失望"
+        ]
+    },
+    "xa011": {
+        "poi_name": "肉夹馍",
+        "crowd_level": "高",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "肉夹馍的味道不错，份量足",
+        "基本不用等，上菜很快",
+        "在西安吃了很多家，肉夹馍算是最正宗的"
+        ]
+    },
+    "xa012": {
+        "poi_name": "羊肉泡馍",
+        "crowd_level": "高",
+        "avg_wait_minutes": 38,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "羊肉泡馍的味道不错，份量足",
+        "排队大概38分钟，建议提前来",
+        "在西安吃了很多家，羊肉泡馍算是最好吃的之一"
+        ]
+    },
+    "xa013": {
+        "poi_name": "凉皮",
+        "crowd_level": "中",
+        "avg_wait_minutes": 21,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "凉皮的味道不错，很正宗",
+        "排队大概21分钟，有点久但能接受",
+        "在西安吃了很多家，凉皮算是最正宗的"
+        ]
+    },
+    "xa014": {
+        "poi_name": "老孙家羊肉泡馍",
+        "crowd_level": "高",
+        "avg_wait_minutes": 48,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "老孙家羊肉泡馍的味道不错，性价比高",
+        "排队大概48分钟，但很值得",
+        "在西安吃了很多家，老孙家羊肉泡馍算是最好吃的之一"
+        ]
+    },
+    "xa015": {
+        "poi_name": "德发长饺子馆",
+        "crowd_level": "高",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "德发长饺子馆的味道不错，口感很好",
+        "排队大概30分钟，有点久但能接受",
+        "在西安吃了很多家，德发长饺子馆算是最好吃的之一"
+        ]
+    },
+    "xa016": {
+        "poi_name": "大唐不夜城",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "大唐不夜城值得一去，风景很好",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "xa017": {
+        "poi_name": "西安博物院",
+        "crowd_level": "低",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "西安博物院挺好的，体验不错",
+        "人不多，可以慢慢逛",
+        "免费的，良心景点"
+        ]
+    },
+    "xa018": {
+        "poi_name": "半坡博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "半坡博物馆推荐，没让人失望"
+        ]
+    },
+    "xa019": {
+        "poi_name": "秦始皇帝陵",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "秦始皇帝陵推荐，风景很好"
+        ]
+    },
+    "xa020": {
+        "poi_name": "阿房宫遗址",
+        "crowd_level": "低",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "阿房宫遗址没太大惊喜，值得来",
+        "人不多，可以慢慢逛",
+        "免费的，性价比极高"
+        ]
+    },
+    "xa021": {
+        "poi_name": "乾陵",
+        "crowd_level": "中",
+        "avg_wait_minutes": 19,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "乾陵值得一去，没让人失望"
+        ]
+    },
+    "xa022": {
+        "poi_name": "法门寺",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "法门寺还不错，值得来"
+        ]
+    },
+    "xa023": {
+        "poi_name": "西安音乐厅",
+        "crowd_level": "中",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "西安音乐厅推荐，没让人失望"
+        ]
+    },
+    "xa024": {
+        "poi_name": "永兴坊",
+        "crowd_level": "高",
+        "avg_wait_minutes": 41,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "永兴坊的味道凑合，份量足",
+        "排队大概41分钟，建议提前来",
+        "在西安吃了很多家，永兴坊算是最正宗的"
+        ]
+    },
+    "xa025": {
+        "poi_name": "易俗社",
+        "crowd_level": "中",
+        "avg_wait_minutes": 20,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "易俗社推荐，体验不错"
+        ]
+    },
+    "xa026": {
+        "poi_name": "大明宫遗址",
+        "crowd_level": "低",
+        "avg_wait_minutes": 3,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "大明宫遗址没太大惊喜，没让人失望",
+        "人不多，很舒适",
+        "免费的，良心景点"
+        ]
+    },
+    "xa027": {
+        "poi_name": "西安关中民俗博物院",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "西安关中民俗博物院不错，风景很好"
+        ]
+    },
+    "xa028": {
+        "poi_name": "曲江池遗址公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "曲江池遗址公园凑合，值得来",
+        "人不多，可以慢慢逛",
+        "免费的，强烈推荐"
+        ]
+    },
+    "xa029": {
+        "poi_name": "西安世博园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "西安世博园一般般，没让人失望"
+        ]
+    },
+    "xa030": {
+        "poi_name": "鼓楼小吃街",
+        "crowd_level": "高",
+        "avg_wait_minutes": 66,
+        "sentiment_score": 0.5,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "鼓楼小吃街的味道凑合，份量足",
+        "排队大概66分钟，但很值得",
+        "在西安吃了很多家，鼓楼小吃街算是最好吃的之一"
+        ]
+    },
+    "sz006": {
+        "poi_name": "海上世界",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "海上世界推荐，值得来"
+        ]
+    },
+    "sz007": {
+        "poi_name": "深圳博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "深圳博物馆还不错，体验不错",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "sz008": {
+        "poi_name": "大芬油画村",
+        "crowd_level": "低",
+        "avg_wait_minutes": 1,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "大芬油画村一般般，风景很好",
+        "人不多，氛围很好"
+        ]
+    },
+    "sz009": {
+        "poi_name": "锦绣中华",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "锦绣中华凑合，体验不错"
+        ]
+    },
+    "sz010": {
+        "poi_name": "深圳欢乐港湾",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "深圳欢乐港湾值得一去，没让人失望",
+        "拍照效果很好，出片率高"
+        ]
+    },
+    "sz011": {
+        "poi_name": "南山科技园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "南山科技园一般般，风景很好"
+        ]
+    },
+    "sz012": {
+        "poi_name": "深圳野生动物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "深圳野生动物园不错，体验不错"
+        ]
+    },
+    "sz013": {
+        "poi_name": "西冲海滩",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "西冲海滩不错，没让人失望"
+        ]
+    },
+    "sz014": {
+        "poi_name": "深圳中心书城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "深圳中心书城挺好的，没让人失望"
+        ]
+    },
+    "sz015": {
+        "poi_name": "粤海城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "粤海城没太大惊喜，风景很好"
+        ]
+    },
+    "sz016": {
+        "poi_name": "深圳湾体育中心",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "深圳湾体育中心还行，风景很好"
+        ]
+    },
+    "sz017": {
+        "poi_name": "光明科学城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "光明科学城一般般，没让人失望"
+        ]
+    },
+    "sz018": {
+        "poi_name": "深圳美食",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "深圳美食的味道推荐，份量足",
+        "排队大概24分钟，有点久但能接受",
+        "在深圳吃了很多家，深圳美食算是最正宗的"
+        ]
+    },
+    "sz019": {
+        "poi_name": "南头古城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "南头古城挺好的，值得来"
+        ]
+    },
+    "sz020": {
+        "poi_name": "较场尾海滩",
+        "crowd_level": "中",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "较场尾海滩值得一去，体验不错"
+        ]
+    },
+    "sz021": {
+        "poi_name": "深圳仙湖植物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "深圳仙湖植物园挺好的，风景很好"
+        ]
+    },
+    "sz022": {
+        "poi_name": "盐田海鲜街",
+        "crowd_level": "中",
+        "avg_wait_minutes": 22,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "盐田海鲜街的味道不错，性价比高",
+        "排队大概22分钟，但很值得",
+        "在深圳吃了很多家，盐田海鲜街算是很有特色"
+        ]
+    },
+    "sz023": {
+        "poi_name": "平安金融中心观光层",
+        "crowd_level": "中",
+        "avg_wait_minutes": 16,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "平安金融中心观光层不错，体验不错"
+        ]
+    },
+    "sz024": {
+        "poi_name": "华强北",
+        "crowd_level": "中",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "华强北没太大惊喜，体验不错"
+        ]
+    },
+    "sz025": {
+        "poi_name": "深圳人才公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "深圳人才公园挺好的，没让人失望",
+        "人不多，可以慢慢逛",
+        "免费的，强烈推荐"
+        ]
+    },
+    "sz026": {
+        "poi_name": "梧桐山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 19,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "梧桐山值得一去，没让人失望"
+        ]
+    },
+    "sz027": {
+        "poi_name": "深圳欢乐海岸",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "深圳欢乐海岸还行，风景很好"
+        ]
+    },
+    "sz028": {
+        "poi_name": "大鹏古城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "大鹏古城不错，没让人失望"
+        ]
+    },
+    "sz029": {
+        "poi_name": "龙岗客家围屋",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "龙岗客家围屋一般般，没让人失望"
+        ]
+    },
+    "sz030": {
+        "poi_name": "深圳京基100",
+        "crowd_level": "高",
+        "avg_wait_minutes": 61,
+        "sentiment_score": 0.4,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "深圳京基100一般般，没让人失望",
+        "人比较多，建议早点去"
+        ]
+    },
+    "tk006": {
+        "poi_name": "秋叶原",
+        "crowd_level": "中",
+        "avg_wait_minutes": 11,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "秋叶原值得一去，没让人失望"
+        ]
+    },
+    "tk007": {
+        "poi_name": "原宿",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "原宿值得一去，风景很好"
+        ]
+    },
+    "tk008": {
+        "poi_name": "东京迪士尼",
+        "crowd_level": "中",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.9,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "东京迪士尼超级棒，体验不错"
+        ]
+    },
+    "tk009": {
+        "poi_name": "皇居外苑",
+        "crowd_level": "低",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "皇居外苑不错，体验不错",
+        "人不多，可以慢慢逛",
+        "免费的，良心景点"
+        ]
+    },
+    "tk010": {
+        "poi_name": "银座",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "银座值得一去，体验不错"
+        ]
+    },
+    "tk011": {
+        "poi_name": "明治神宫",
+        "crowd_level": "低",
+        "avg_wait_minutes": 4,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "明治神宫不错，风景很好",
+        "人不多，可以慢慢逛",
+        "免费的，性价比极高"
+        ]
+    },
+    "tk012": {
+        "poi_name": "新宿御苑",
+        "crowd_level": "中",
+        "avg_wait_minutes": 14,
+        "sentiment_score": 0.8,
+        "best_time": "春季花期",
+        "avoid_time": null,
+        "reviews": [
+        "新宿御苑超级棒，风景很好"
+        ]
+    },
+    "tk013": {
+        "poi_name": "拉面博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 16,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "拉面博物馆的味道不错，份量足",
+        "基本不用等，效率很高",
+        "在东京吃了很多家，拉面博物馆算是很有特色"
+        ]
+    },
+    "tk014": {
+        "poi_name": "筑地市场",
+        "crowd_level": "中",
+        "avg_wait_minutes": 19,
+        "sentiment_score": 0.7,
+        "best_time": "早上7-9点",
+        "avoid_time": null,
+        "reviews": [
+        "筑地市场的味道值得一去，性价比高",
+        "基本不用等，很方便",
+        "在东京吃了很多家，筑地市场算是很有特色"
+        ]
+    },
+    "tk015": {
+        "poi_name": "六本木",
+        "crowd_level": "中",
+        "avg_wait_minutes": 12,
+        "sentiment_score": 0.5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "六本木凑合，风景很好"
+        ]
+    },
+    "tk016": {
+        "poi_name": "东京国立博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "东京国立博物馆必去打卡，体验不错"
+        ]
+    },
+    "tk017": {
+        "poi_name": "台场",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "台场挺好的，体验不错"
+        ]
+    },
+    "tk018": {
+        "poi_name": "中目黑",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.7,
+        "best_time": "春季花期",
+        "avoid_time": null,
+        "reviews": [
+        "中目黑值得一去，没让人失望"
+        ]
+    },
+    "tk019": {
+        "poi_name": "吉祥寺",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "吉祥寺推荐，没让人失望"
+        ]
+    },
+    "tk020": {
+        "poi_name": "浅草拉面",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "浅草拉面的味道值得一去，性价比高",
+        "基本不用等，很方便",
+        "在东京吃了很多家，浅草拉面算是最好吃的之一"
+        ]
+    },
+    "tk021": {
+        "poi_name": "富士山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 24,
+        "sentiment_score": 0.9,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "富士山非常值得，没让人失望"
+        ]
+    },
+    "tk022": {
+        "poi_name": "镰仓",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "镰仓强烈推荐，没让人失望"
+        ]
+    },
+    "tk023": {
+        "poi_name": "箱根",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "箱根强烈推荐，没让人失望"
+        ]
+    },
+    "tk024": {
+        "poi_name": "日光",
+        "crowd_level": "中",
+        "avg_wait_minutes": 14,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "日光超级棒，体验不错"
+        ]
+    },
+    "tk025": {
+        "poi_name": "表参道",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "表参道还不错，没让人失望"
+        ]
+    },
+    "tk026": {
+        "poi_name": "东京铁塔",
+        "crowd_level": "高",
+        "avg_wait_minutes": 67,
+        "sentiment_score": 0.6,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "东京铁塔值得一去，体验不错",
+        "人比较多，建议工作日来"
+        ]
+    },
+    "tk027": {
+        "poi_name": "代官山",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "代官山值得一去，体验不错"
+        ]
+    },
+    "tk028": {
+        "poi_name": "浅草花屋敷",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "浅草花屋敷一般般，风景很好"
+        ]
+    },
+    "tk029": {
+        "poi_name": "寿司大",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "寿司大的味道值得一去，很正宗",
+        "排队大概29分钟，但很值得",
+        "在东京吃了很多家，寿司大算是最正宗的"
+        ]
+    },
+    "tk030": {
+        "poi_name": "东京迪士尼海洋",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.9,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "东京迪士尼海洋非常值得，风景很好"
+        ]
+    },
+    "se006": {
+        "poi_name": "仁사동",
+        "crowd_level": "中",
+        "avg_wait_minutes": 22,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "仁사동挺好的，没让人失望"
+        ]
+    },
+    "se007": {
+        "poi_name": "东大门",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "东大门值得一去，没让人失望"
+        ]
+    },
+    "se008": {
+        "poi_name": "汉江公园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 4,
+        "sentiment_score": 0.6,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "汉江公园挺好的，体验不错",
+        "人不多，可以慢慢逛",
+        "免费的，良心景点"
+        ]
+    },
+    "se009": {
+        "poi_name": "南大门市场",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "南大门市场凑合，值得来"
+        ]
+    },
+    "se010": {
+        "poi_name": "乐天世界",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "乐天世界还不错，体验不错"
+        ]
+    },
+    "se011": {
+        "poi_name": "三清洞",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "三清洞还不错，没让人失望"
+        ]
+    },
+    "se012": {
+        "poi_name": "西村",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "西村推荐，没让人失望"
+        ]
+    },
+    "se013": {
+        "poi_name": "烤肉",
+        "crowd_level": "高",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "烤肉的味道推荐，口感很好",
+        "排队大概29分钟，有点久但能接受",
+        "在首尔吃了很多家，烤肉算是最好吃的之一"
+        ]
+    },
+    "se014": {
+        "poi_name": "参鸡汤",
+        "crowd_level": "高",
+        "avg_wait_minutes": 49,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "参鸡汤的味道值得一去，性价比高",
+        "排队大概49分钟，建议提前来",
+        "在首尔吃了很多家，参鸡汤算是最正宗的"
+        ]
+    },
+    "se015": {
+        "poi_name": "昌德宫",
+        "crowd_level": "中",
+        "avg_wait_minutes": 26,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "昌德宫不错，没让人失望"
+        ]
+    },
+    "se016": {
+        "poi_name": "梨泰院",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "梨泰院没太大惊喜，体验不错"
+        ]
+    },
+    "se017": {
+        "poi_name": "江南",
+        "crowd_level": "中",
+        "avg_wait_minutes": 26,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "江南不错，没让人失望"
+        ]
+    },
+    "se018": {
+        "poi_name": "战争纪念馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "战争纪念馆推荐，值得来",
+        "人不多，氛围很好",
+        "免费的，良心景点"
+        ]
+    },
+    "se019": {
+        "poi_name": "益善洞",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "益善洞挺好的，风景很好"
+        ]
+    },
+    "se020": {
+        "poi_name": "炸鸡啤酒",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "炸鸡啤酒的味道不错，性价比高",
+        "排队大概27分钟，有点久但能接受",
+        "在首尔吃了很多家，炸鸡啤酒算是很有特色"
+        ]
+    },
+    "mel006": {
+        "poi_name": "巷弄涂鸦区",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "巷弄涂鸦区还不错，值得来",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "mel007": {
+        "poi_name": "圣基尔达海滩",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "圣基尔达海滩不错，风景很好",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "mel008": {
+        "poi_name": "墨尔本博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 25,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "墨尔本博物馆值得一去，体验不错"
+        ]
+    },
+    "mel009": {
+        "poi_name": "亚拉河",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "亚拉河挺好的，风景很好",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "mel010": {
+        "poi_name": "卡尔顿花园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 4,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "卡尔顿花园不错，值得来",
+        "人不多，氛围很好",
+        "免费的，良心景点"
+        ]
+    },
+    "mel011": {
+        "poi_name": "咖啡",
+        "crowd_level": "中",
+        "avg_wait_minutes": 10,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "咖啡的味道必去打卡，很正宗",
+        "基本不用等，上菜很快",
+        "在墨尔本吃了很多家，咖啡算是最正宗的"
+        ]
+    },
+    "mel012": {
+        "poi_name": "弗林德斯街车站",
+        "crowd_level": "高",
+        "avg_wait_minutes": 57,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "弗林德斯街车站不错，体验不错",
+        "人比较多，建议工作日来",
+        "免费的，性价比极高"
+        ]
+    },
+    "mel013": {
+        "poi_name": "南岸",
+        "crowd_level": "中",
+        "avg_wait_minutes": 26,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "南岸值得一去，没让人失望"
+        ]
+    },
+    "mel014": {
+        "poi_name": "Collins街",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "Collins街一般般，体验不错"
+        ]
+    },
+    "mel015": {
+        "poi_name": "Fitzroy",
+        "crowd_level": "中",
+        "avg_wait_minutes": 19,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "Fitzroy挺好的，风景很好"
+        ]
+    },
+    "mel016": {
+        "poi_name": "维多利亚艺术中心",
+        "crowd_level": "中",
+        "avg_wait_minutes": 26,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "维多利亚艺术中心挺好的，风景很好"
+        ]
+    },
+    "mel017": {
+        "poi_name": "海德堡动物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "海德堡动物园挺好的，体验不错"
+        ]
+    },
+    "mel018": {
+        "poi_name": "早午餐",
+        "crowd_level": "高",
+        "avg_wait_minutes": 36,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "早午餐的味道不错，份量足",
+        "排队大概36分钟，建议提前来",
+        "在墨尔本吃了很多家，早午餐算是最好吃的之一"
+        ]
+    },
+    "mel019": {
+        "poi_name": "但丁尼国家公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 14,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "但丁尼国家公园超级棒，体验不错"
+        ]
+    },
+    "mel020": {
+        "poi_name": "格兰坪国家公园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 29,
+        "sentiment_score": 0.9,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "格兰坪国家公园超级棒，风景很好"
+        ]
+    },
+    "syd006": {
+        "poi_name": "塔龙加动物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 26,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "塔龙加动物园必去打卡，没让人失望"
+        ]
+    },
+    "syd007": {
+        "poi_name": "皇家植物园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "皇家植物园推荐，风景很好",
+        "人不多，很舒适",
+        "免费的，强烈推荐"
+        ]
+    },
+    "syd008": {
+        "poi_name": "曼利海滩",
+        "crowd_level": "低",
+        "avg_wait_minutes": 3,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "曼利海滩挺好的，风景很好",
+        "人不多，很舒适",
+        "免费的，强烈推荐"
+        ]
+    },
+    "syd009": {
+        "poi_name": "达令港",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "达令港推荐，没让人失望"
+        ]
+    },
+    "syd010": {
+        "poi_name": "悉尼水族馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 13,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "悉尼水族馆还不错，体验不错"
+        ]
+    },
+    "syd011": {
+        "poi_name": "皮卡迪利市场",
+        "crowd_level": "中",
+        "avg_wait_minutes": 13,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "皮卡迪利市场的味道还不错，很正宗",
+        "基本不用等，上菜很快",
+        "在悉尼吃了很多家，皮卡迪利市场算是很有特色"
+        ]
+    },
+    "syd012": {
+        "poi_name": "悉尼海鲜市场",
+        "crowd_level": "高",
+        "avg_wait_minutes": 44,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "悉尼海鲜市场的味道推荐，性价比高",
+        "排队大概44分钟，但很值得",
+        "在悉尼吃了很多家，悉尼海鲜市场算是最好吃的之一"
+        ]
+    },
+    "syd013": {
+        "poi_name": "维多利亚女王大厦",
+        "crowd_level": "中",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "维多利亚女王大厦值得一去，值得来"
+        ]
+    },
+    "syd014": {
+        "poi_name": "中国城",
+        "crowd_level": "中",
+        "avg_wait_minutes": 30,
+        "sentiment_score": 0.4,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "中国城的味道凑合，性价比高",
+        "排队大概30分钟，但很值得",
+        "在悉尼吃了很多家，中国城算是很有特色"
+        ]
+    },
+    "syd015": {
+        "poi_name": "悉尼天文台",
+        "crowd_level": "中",
+        "avg_wait_minutes": 16,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "悉尼天文台值得一去，值得来"
+        ]
+    },
+    "syd016": {
+        "poi_name": "科吉海滩",
+        "crowd_level": "低",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "科吉海滩值得一去，值得来",
+        "人不多，可以慢慢逛",
+        "免费的，性价比极高"
+        ]
+    },
+    "syd017": {
+        "poi_name": "帕丁顿",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "帕丁顿还不错，风景很好"
+        ]
+    },
+    "syd018": {
+        "poi_name": "纽卡斯尔日游",
+        "crowd_level": "中",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "纽卡斯尔日游推荐，没让人失望"
+        ]
+    },
+    "syd019": {
+        "poi_name": "悉尼现代艺术博物馆",
+        "crowd_level": "低",
+        "avg_wait_minutes": 1,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "悉尼现代艺术博物馆不错，没让人失望",
+        "人不多，很舒适",
+        "免费的，良心景点"
+        ]
+    },
+    "syd020": {
+        "poi_name": "麦考利角",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "麦考利角不错，没让人失望",
+        "人不多，氛围很好",
+        "免费的，良心景点"
+        ]
+    },
+    "per006": {
+        "poi_name": "科斯特罗海滩",
+        "crowd_level": "低",
+        "avg_wait_minutes": 6,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "科斯特罗海滩推荐，风景很好",
+        "人不多，可以慢慢逛",
+        "免费的，良心景点"
+        ]
+    },
+    "per007": {
+        "poi_name": "波浪岩",
+        "crowd_level": "中",
+        "avg_wait_minutes": 17,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "波浪岩不错，值得来"
+        ]
+    },
+    "per008": {
+        "poi_name": "珀斯薄荷",
+        "crowd_level": "低",
+        "avg_wait_minutes": 3,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "珀斯薄荷挺好的，值得来",
+        "人不多，氛围很好",
+        "免费的，性价比极高"
+        ]
+    },
+    "per009": {
+        "poi_name": "伦敦法院",
+        "crowd_level": "低",
+        "avg_wait_minutes": 7,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "伦敦法院值得一去，体验不错",
+        "人不多，氛围很好",
+        "免费的，强烈推荐"
+        ]
+    },
+    "per010": {
+        "poi_name": "珀斯动物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "珀斯动物园还不错，风景很好"
+        ]
+    },
+    "per011": {
+        "poi_name": "海鲜早午餐",
+        "crowd_level": "高",
+        "avg_wait_minutes": 47,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "海鲜早午餐的味道挺好的，很正宗",
+        "排队大概47分钟，有点久但能接受",
+        "在珀斯吃了很多家，海鲜早午餐算是最好吃的之一"
+        ]
+    },
+    "per012": {
+        "poi_name": "诺兰达",
+        "crowd_level": "低",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "诺兰达挺好的，值得来",
+        "人不多，很舒适",
+        "免费的，良心景点"
+        ]
+    },
+    "per013": {
+        "poi_name": "皮纳克尔斯",
+        "crowd_level": "中",
+        "avg_wait_minutes": 22,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "皮纳克尔斯来对了，体验不错"
+        ]
+    },
+    "per014": {
+        "poi_name": "弗里曼特尔市场",
+        "crowd_level": "中",
+        "avg_wait_minutes": 17,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "弗里曼特尔市场的味道值得一去，口感很好",
+        "基本不用等，很方便",
+        "在珀斯吃了很多家，弗里曼特尔市场算是最正宗的"
+        ]
+    },
+    "per015": {
+        "poi_name": "印度洋海湾",
+        "crowd_level": "中",
+        "avg_wait_minutes": 12,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "印度洋海湾推荐，体验不错"
+        ]
+    },
+    "per016": {
+        "poi_name": "约克镇",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "约克镇挺好的，体验不错"
+        ]
+    },
+    "per017": {
+        "poi_name": "珀斯薄荷海滩",
+        "crowd_level": "低",
+        "avg_wait_minutes": 1,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "珀斯薄荷海滩值得一去，没让人失望",
+        "人不多，很舒适",
+        "免费的，良心景点"
+        ]
+    },
+    "per018": {
+        "poi_name": "麦格尔葡萄酒",
+        "crowd_level": "中",
+        "avg_wait_minutes": 22,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "麦格尔葡萄酒的味道不错，性价比高",
+        "排队大概22分钟，但很值得",
+        "在珀斯吃了很多家，麦格尔葡萄酒算是很有特色"
+        ]
+    },
+    "per019": {
+        "poi_name": "科廷大学",
+        "crowd_level": "低",
+        "avg_wait_minutes": 2,
+        "sentiment_score": 0.3,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "科廷大学凑合，没让人失望",
+        "人不多，可以慢慢逛",
+        "免费的，良心景点"
+        ]
+    },
+    "per020": {
+        "poi_name": "珀斯文化中心",
+        "crowd_level": "低",
+        "avg_wait_minutes": 9,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "珀斯文化中心还行，没让人失望",
+        "人不多，很舒适",
+        "免费的，强烈推荐"
+        ]
+    },
+    "sg006": {
+        "poi_name": "小印度",
+        "crowd_level": "中",
+        "avg_wait_minutes": 14,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "小印度值得一去，风景很好"
+        ]
+    },
+    "sg007": {
+        "poi_name": "海南鸡饭",
+        "crowd_level": "高",
+        "avg_wait_minutes": 44,
+        "sentiment_score": 0.8,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "海南鸡饭的味道来对了，很正宗",
+        "排队大概44分钟，但很值得",
+        "在新加坡吃了很多家，海南鸡饭算是很有特色"
+        ]
+    },
+    "sg008": {
+        "poi_name": "新加坡动物园",
+        "crowd_level": "中",
+        "avg_wait_minutes": 17,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "新加坡动物园非常值得，值得来"
+        ]
+    },
+    "sg009": {
+        "poi_name": "国家博物馆",
+        "crowd_level": "中",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "国家博物馆还不错，没让人失望"
+        ]
+    },
+    "sg010": {
+        "poi_name": "阿拉伯街",
+        "crowd_level": "中",
+        "avg_wait_minutes": 23,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "阿拉伯街推荐，没让人失望"
+        ]
+    },
+    "sg011": {
+        "poi_name": "肉骨茶",
+        "crowd_level": "高",
+        "avg_wait_minutes": 58,
+        "sentiment_score": 0.7,
+        "best_time": "早上7-9点",
+        "avoid_time": null,
+        "reviews": [
+        "肉骨茶的味道推荐，性价比高",
+        "排队大概58分钟，建议提前来",
+        "在新加坡吃了很多家，肉骨茶算是最好吃的之一"
+        ]
+    },
+    "sg012": {
+        "poi_name": "马里纳海湾沙滩",
+        "crowd_level": "高",
+        "avg_wait_minutes": 55,
+        "sentiment_score": 0.8,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "马里纳海湾沙滩非常值得，风景很好",
+        "人比较多，建议避开节假日"
+        ]
+    },
+    "sg013": {
+        "poi_name": "新加坡植物园",
+        "crowd_level": "低",
+        "avg_wait_minutes": 0,
+        "sentiment_score": 0.8,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "新加坡植物园非常值得，没让人失望",
+        "人不多，很舒适",
+        "免费的，强烈推荐"
+        ]
+    },
+    "sg014": {
+        "poi_name": "虎豹别墅",
+        "crowd_level": "低",
+        "avg_wait_minutes": 5,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "虎豹别墅一般般，没让人失望",
+        "人不多，很舒适",
+        "免费的，强烈推荐"
+        ]
+    },
+    "sg015": {
+        "poi_name": "叻沙",
+        "crowd_level": "高",
+        "avg_wait_minutes": 37,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "叻沙的味道还不错，份量足",
+        "排队大概37分钟，但很值得",
+        "在新加坡吃了很多家，叻沙算是很有特色"
+        ]
+    },
+    "sg016": {
+        "poi_name": "麦士威熟食中心",
+        "crowd_level": "高",
+        "avg_wait_minutes": 47,
+        "sentiment_score": 0.7,
+        "best_time": "工作日上午",
+        "avoid_time": "周末及节假日",
+        "reviews": [
+        "麦士威熟食中心的味道还不错，份量足",
+        "排队大概47分钟，但很值得",
+        "在新加坡吃了很多家，麦士威熟食中心算是最正宗的"
+        ]
+    },
+    "sg017": {
+        "poi_name": "圣约翰岛",
+        "crowd_level": "低",
+        "avg_wait_minutes": 8,
+        "sentiment_score": 0.6,
+        "best_time": "工作日全天",
+        "avoid_time": null,
+        "reviews": [
+        "圣约翰岛挺好的，体验不错",
+        "人不多，氛围很好"
+        ]
+    },
+    "sg018": {
+        "poi_name": "甘榜格南",
+        "crowd_level": "中",
+        "avg_wait_minutes": 28,
+        "sentiment_score": 0.5,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "甘榜格南值得一去，值得来"
+        ]
+    },
+    "sg019": {
+        "poi_name": "新加坡摩天观景轮",
+        "crowd_level": "中",
+        "avg_wait_minutes": 15,
+        "sentiment_score": 0.5,
+        "best_time": "傍晚至夜间",
+        "avoid_time": "白天",
+        "reviews": [
+        "新加坡摩天观景轮不错，值得来"
+        ]
+    },
+    "sg020": {
+        "poi_name": "榴莲",
+        "crowd_level": "中",
+        "avg_wait_minutes": 27,
+        "sentiment_score": 0.7,
+        "best_time": "工作日全天",
+        "avoid_time": "节假日",
+        "reviews": [
+        "榴莲的味道不错，口感很好",
+        "排队大概27分钟，有点久但能接受",
+        "在新加坡吃了很多家，榴莲算是很有特色"
+        ]
+    }
+}

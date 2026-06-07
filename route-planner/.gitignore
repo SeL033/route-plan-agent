@@ -8,6 +8,10 @@ venv/
 .venv/
 env/
 
+# 前端依赖与构建产物
+frontend/node_modules/
+frontend/dist/
+
 # 编辑器
 .vscode/
 .idea/
@@ -19,3 +23,6 @@ Thumbs.db
 # 敏感信息
 .env
 *.key
+
+# 本地用户反馈与自进化画像
+mock_data/user_state.json

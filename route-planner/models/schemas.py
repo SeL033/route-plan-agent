@@ -1,5 +1,5 @@
 # ================================================================
-# 数据结构定义
+# 数据结构定义（契约文件）
 #
 # 职责：
 # - 定义所有模块之间传递的数据结构
@@ -15,6 +15,16 @@ class PlanRequest(BaseModel):
     """前端 → 后端：用户请求"""
     user_input: str
     user_id: Optional[str] = None
+    start_location: Optional[str] = None   # 出发地，如"上海虹桥火车站"
+
+
+class FeedbackRequest(BaseModel):
+    """前端 → 后端：用户反馈，用于自进化画像"""
+    user_id: Optional[str] = None
+    route_style: str
+    liked: bool
+    stops: list[dict] = []
+    comment: Optional[str] = None
 
 
 class Location(BaseModel):
@@ -49,6 +59,7 @@ class UGCInfo(BaseModel):
 
 class Stop(BaseModel):
     """路线中的单个停留点"""
+    day: int = 1
     poi_id: str
     name: str
     arrive_time: str
@@ -56,6 +67,11 @@ class Stop(BaseModel):
     leave_time: str
     cost: int
     reason: str
+    location: Location             # 真实坐标，供地图使用
+    poi_type: str = "attraction"
+    evidence: list[str] = []
+    last_50m_guidance: Optional[str] = None
+    dining_advice: Optional[str] = None
 
 
 class Route(BaseModel):
@@ -87,5 +103,7 @@ class AgentContext(BaseModel):
     avoid: list[str] = []
     prefer: list[str] = []
     start_time: str = "09:00"
+    start_location: Optional[str] = None
     candidate_pois: list[POI] = []
     routes: list[Route] = []
+    

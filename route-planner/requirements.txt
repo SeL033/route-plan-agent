@@ -2,3 +2,7 @@ fastapi
 uvicorn
 pydantic
 openai
+python-dotenv
+mysql-connector-python
+redis
+certifi
