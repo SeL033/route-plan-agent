@@ -5,7 +5,7 @@ export default defineConfig({
     plugins: [react()],
     server: {
         proxy: {
-            '/api': 'https://route-planner-xxx.onrender.com'
+            '/api': 'https://route-plan-agent.onrender.com'
         }
     }
 })
