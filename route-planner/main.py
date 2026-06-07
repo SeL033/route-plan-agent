@@ -9,10 +9,12 @@
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from api.routes import router
 from dotenv import load_dotenv
+from pathlib import Path
 
-load_dotenv()
+load_dotenv(Path(__file__).resolve().with_name(".env"))
+
+from api.routes import router
 
 app = FastAPI(title="AI路线规划系统")
 

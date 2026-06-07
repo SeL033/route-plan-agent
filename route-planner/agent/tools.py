@@ -7,9 +7,14 @@
 # - TOOLS_MAP 供Agent执行实际调用
 # ================================================================
 
+import json
+import os
 from math import radians, sin, cos, sqrt, atan2
 from core.poi_service import load_pois, filter_by_category, filter_by_budget, filter_by_group, filter_by_exclude
 from core.ugc_service import get_reviews_by_poi
+from core.external_knowledge import fetch_amap_pois, get_rag_context
+
+_EXTERNAL_POI_BY_ID: dict[str, dict] = {}
 
 
 def search_poi(
@@ -20,7 +25,10 @@ def search_poi(
     exclude_ids: list = None
 ) -> list:
     """根据条件搜索POI，返回评分最高的结果，最多8条"""
-    pois = load_pois()
+    pois = _load_all_pois()
+    external_pois = fetch_amap_pois(city, keywords=category, category=category, limit=5)
+    _EXTERNAL_POI_BY_ID.update({poi["id"]: poi for poi in external_pois})
+    pois = _merge_pois(pois, external_pois)
     pois = [p for p in pois if p["city"] == city]
     if category:
         pois = filter_by_category(pois, category)
@@ -30,7 +38,10 @@ def search_poi(
         pois = filter_by_group(pois, suitable_for)
     if exclude_ids:
         pois = filter_by_exclude(pois, exclude_ids)
-    pois.sort(key=lambda x: x["score"], reverse=True)
+    if category == "美食":
+        pois.sort(key=lambda x: (x.get("poi_type") == "food", x["score"]), reverse=True)
+    else:
+        pois.sort(key=lambda x: x["score"], reverse=True)
     return pois[:8]
 
 
@@ -50,7 +61,7 @@ def get_ugc_info(poi_id: str) -> dict:
 
 def calculate_route_time(poi_ids: list, start_time: str = "09:00") -> dict:
     """根据POI顺序计算路线时间安排"""
-    all_pois = load_pois()
+    all_pois = _load_all_pois()
     poi_map = {p["id"]: p for p in all_pois}
 
     hour, minute = map(int, start_time.split(":"))
@@ -91,7 +102,7 @@ def calculate_route_time(poi_ids: list, start_time: str = "09:00") -> dict:
 
 def check_budget(poi_ids: list, total_budget: int) -> dict:
     """检查选定POI组合是否超出预算"""
-    all_pois = load_pois()
+    all_pois = _load_all_pois()
     poi_map = {p["id"]: p for p in all_pois}
 
     breakdown = []
@@ -110,6 +121,11 @@ def check_budget(poi_ids: list, total_budget: int) -> dict:
         "remaining": max(0, total_budget - total),
         "breakdown": breakdown
     }
+
+
+def retrieve_external_context(query: str, city: str = None, category: str = None) -> dict:
+    """检索外部POI样例和RAG常识，用于解释推荐与餐饮决策"""
+    return get_rag_context(query=query, city=city, category=category)
 
 
 def _estimate_transit(poi_ids: list, current_index: int, poi_map: dict) -> int:
@@ -139,6 +155,32 @@ def _haversine(lat1, lon1, lat2, lon2) -> float:
     dlon = radians(lon2 - lon1)
     a = sin(dlat/2)**2 + cos(radians(lat1)) * cos(radians(lat2)) * sin(dlon/2)**2
     return R * 2 * atan2(sqrt(a), sqrt(1 - a))
+
+
+def _load_all_pois() -> list:
+    pois = load_pois()
+    food_path = os.path.join(
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+        "mock_data",
+        "food_pois.json"
+    )
+    try:
+        with open(food_path, "r", encoding="utf-8") as f:
+            foods = json.load(f)
+    except Exception:
+        foods = []
+    return pois + foods + list(_EXTERNAL_POI_BY_ID.values())
+
+
+def _merge_pois(local_pois: list[dict], external_pois: list[dict]) -> list[dict]:
+    seen = {p.get("id") for p in local_pois}
+    merged = local_pois[:]
+    for poi in external_pois:
+        if poi.get("id") in seen:
+            continue
+        seen.add(poi.get("id"))
+        merged.append(poi)
+    return merged
 
 
 # LLM可调用的工具描述
@@ -204,6 +246,22 @@ TOOLS_SCHEMA = [
                 "required": ["poi_ids", "total_budget"]
             }
         }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "retrieve_external_context",
+            "description": "检索外部POI样例与RAG常识，尤其用于餐厅外卖口感衰减、预约/外卖决策、最后50米到店提示和引用式证据链",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "query": {"type": "string", "description": "用户问题或餐品/地点关键词，如'重庆火锅外卖是否影响口感'"},
+                    "city": {"type": "string", "description": "城市名称，如'重庆'"},
+                    "category": {"type": "string", "description": "类别，如'美食'、'景点'、'外卖'、'到店指引'"}
+                },
+                "required": ["query"]
+            }
+        }
     }
 ]
 
@@ -212,5 +270,6 @@ TOOLS_MAP = {
     "search_poi": search_poi,
     "get_ugc_info": get_ugc_info,
     "calculate_route_time": calculate_route_time,
-    "check_budget": check_budget
+    "check_budget": check_budget,
+    "retrieve_external_context": retrieve_external_context
 }

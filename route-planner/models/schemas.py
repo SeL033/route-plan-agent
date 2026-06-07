@@ -18,6 +18,15 @@ class PlanRequest(BaseModel):
     start_location: Optional[str] = None   # 出发地，如"上海虹桥火车站"
 
 
+class FeedbackRequest(BaseModel):
+    """前端 → 后端：用户反馈，用于自进化画像"""
+    user_id: Optional[str] = None
+    route_style: str
+    liked: bool
+    stops: list[dict] = []
+    comment: Optional[str] = None
+
+
 class Location(BaseModel):
     """地理坐标"""
     lat: float
@@ -50,6 +59,7 @@ class UGCInfo(BaseModel):
 
 class Stop(BaseModel):
     """路线中的单个停留点"""
+    day: int = 1
     poi_id: str
     name: str
     arrive_time: str
@@ -58,6 +68,10 @@ class Stop(BaseModel):
     cost: int
     reason: str
     location: Location             # 真实坐标，供地图使用
+    poi_type: str = "attraction"
+    evidence: list[str] = []
+    last_50m_guidance: Optional[str] = None
+    dining_advice: Optional[str] = None
 
 
 class Route(BaseModel):

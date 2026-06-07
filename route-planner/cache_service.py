@@ -7,17 +7,25 @@
 # - 默认缓存1天，每天刷新
 # ================================================================
 
-import redis
 import json
 import os
 import hashlib
 
+try:
+    import redis
+except ImportError:
+    redis = None
+
 # Redis连接
-r = redis.Redis(
-    host=os.getenv("REDIS_HOST", "localhost"),
-    port=int(os.getenv("REDIS_PORT", 6379)),
-    decode_responses=True
-)
+r = None
+if redis is not None and os.getenv("ENABLE_REDIS_CACHE", "").lower() == "true":
+    r = redis.Redis(
+        host=os.getenv("REDIS_HOST", "localhost"),
+        port=int(os.getenv("REDIS_PORT", 6379)),
+        decode_responses=True,
+        socket_connect_timeout=0.2,
+        socket_timeout=0.2,
+    )
 
 DEFAULT_TTL = 86400  # 1天
 
@@ -36,6 +44,8 @@ def get_cached_route(user_input: str) -> dict | None:
     查缓存。
     命中返回dict，未命中返回None。
     """
+    if r is None:
+        return None
     try:
         key = _make_key(user_input)
         cached = r.get(key)
@@ -52,6 +62,8 @@ def set_cached_route(user_input: str, result: dict, ttl: int = DEFAULT_TTL):
     写缓存。
     result是PlanResponse.model_dump()的结果。
     """
+    if r is None:
+        return
     try:
         key = _make_key(user_input)
         r.set(key, json.dumps(result, ensure_ascii=False), ex=ttl)
@@ -62,6 +74,8 @@ def set_cached_route(user_input: str, result: dict, ttl: int = DEFAULT_TTL):
 
 def delete_cached_route(user_input: str):
     """手动删除某个缓存，用于调试或强制刷新"""
+    if r is None:
+        return
     try:
         key = _make_key(user_input)
         r.delete(key)

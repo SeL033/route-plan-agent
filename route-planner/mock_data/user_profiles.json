@@ -1,0 +1,23 @@
+{
+  "demo_user": {
+    "home_region": "华东",
+    "taste_tags": ["清淡", "甜口", "咖啡"],
+    "prefer_tags": ["室内", "免费", "美食", "文化"],
+    "avoid_tags": ["排队长", "离市区远"],
+    "similar_user_choice_rate": 72
+  },
+  "user_spicy": {
+    "home_region": "西南",
+    "taste_tags": ["辣味", "重口", "火锅"],
+    "prefer_tags": ["美食", "夜景", "网红"],
+    "avoid_tags": ["正午暴晒"],
+    "similar_user_choice_rate": 76
+  },
+  "user_family": {
+    "home_region": "华南",
+    "taste_tags": ["清淡", "早茶", "甜品"],
+    "prefer_tags": ["亲子", "室内", "可预约"],
+    "avoid_tags": ["排队长", "台阶多"],
+    "similar_user_choice_rate": 69
+  }
+}

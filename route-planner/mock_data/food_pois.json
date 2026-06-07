@@ -1,0 +1,3486 @@
+[
+  {
+    "id": "food_sh001",
+    "name": "小杨生煎南京东路店",
+    "city": "上海",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 45,
+    "duration": 60,
+    "location": {
+      "lat": 31.2358,
+      "lng": 121.4806
+    },
+    "score": 4.5,
+    "tags": [
+      "生煎",
+      "本地小吃",
+      "排队"
+    ],
+    "taste_tags": [
+      "甜口",
+      "酥脆"
+    ],
+    "open_time": "10:00-21:30",
+    "suitable_for": [
+      "朋友",
+      "亲子",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "上海本地高频小吃品牌分店",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "生煎",
+    "takeout_quality": "low",
+    "last_50m": "门面较小，靠近南京东路步行街支路；看到外带窗口后从右侧排队入口进入。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sh002",
+    "name": "光明邨大酒家",
+    "city": "上海",
+    "category": [
+      "美食",
+      "老字号"
+    ],
+    "cost": 85,
+    "duration": 75,
+    "location": {
+      "lat": 31.224,
+      "lng": 121.4667
+    },
+    "score": 4.6,
+    "tags": [
+      "本帮菜",
+      "老字号",
+      "可预约"
+    ],
+    "taste_tags": [
+      "甜口",
+      "本帮菜"
+    ],
+    "open_time": "10:30-21:00",
+    "suitable_for": [
+      "老人",
+      "朋友",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "上海老字号本帮菜代表",
+    "can_reserve": true,
+    "supports_takeout": true,
+    "food_type": "本帮熟食",
+    "takeout_quality": "medium",
+    "last_50m": "沿淮海中路到店，正门招牌醒目；排队购买熟食与堂食入口不同，堂食从侧门上楼。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_bj001",
+    "name": "四季民福故宫店",
+    "city": "北京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 160,
+    "duration": 90,
+    "location": {
+      "lat": 39.9189,
+      "lng": 116.401
+    },
+    "score": 4.7,
+    "tags": [
+      "烤鸭",
+      "可预约",
+      "热门"
+    ],
+    "taste_tags": [
+      "烤鸭",
+      "咸香"
+    ],
+    "open_time": "10:30-22:00",
+    "suitable_for": [
+      "朋友",
+      "亲子",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "北京烤鸭热门品牌分店",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "烤鸭",
+    "takeout_quality": "low",
+    "last_50m": "店在景区周边商场内，按商场导视上楼；高峰时先取号再等位。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_bj002",
+    "name": "护国寺小吃总店",
+    "city": "北京",
+    "category": [
+      "美食",
+      "老字号"
+    ],
+    "cost": 35,
+    "duration": 50,
+    "location": {
+      "lat": 39.9337,
+      "lng": 116.3712
+    },
+    "score": 4.4,
+    "tags": [
+      "小吃",
+      "老字号",
+      "省钱"
+    ],
+    "taste_tags": [
+      "豆汁",
+      "面食"
+    ],
+    "open_time": "06:00-21:00",
+    "suitable_for": [
+      "老人",
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "北京传统小吃老字号",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "小吃拼盘",
+    "takeout_quality": "medium",
+    "last_50m": "沿护国寺街进入，门头不大但排队明显；堂食座位在店内靠里区域。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cd001",
+    "name": "马旺子川小馆太古里店",
+    "city": "成都",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 110,
+    "duration": 80,
+    "location": {
+      "lat": 30.6558,
+      "lng": 104.0811
+    },
+    "score": 4.7,
+    "tags": [
+      "川菜",
+      "可预约",
+      "热门"
+    ],
+    "taste_tags": [
+      "辣味",
+      "川菜"
+    ],
+    "open_time": "11:00-22:00",
+    "suitable_for": [
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "成都热门川菜品牌分店",
+    "can_reserve": true,
+    "supports_takeout": true,
+    "food_type": "川菜热菜",
+    "takeout_quality": "medium",
+    "last_50m": "位于太古里街区内，建议从地铁春熙路站出口进入后跟随商场导视。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cd002",
+    "name": "洞子口张老二凉粉",
+    "city": "成都",
+    "category": [
+      "美食",
+      "小吃"
+    ],
+    "cost": 25,
+    "duration": 40,
+    "location": {
+      "lat": 30.6696,
+      "lng": 104.066
+    },
+    "score": 4.5,
+    "tags": [
+      "凉粉",
+      "小吃",
+      "省钱"
+    ],
+    "taste_tags": [
+      "辣味",
+      "小吃"
+    ],
+    "open_time": "09:00-20:30",
+    "suitable_for": [
+      "朋友",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "成都本地高频小吃店",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "凉粉",
+    "takeout_quality": "medium",
+    "last_50m": "店铺在街边老门面，招牌不大；到达附近后看排队人群和红色招牌。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_per001",
+    "name": "Cicerello's Fremantle",
+    "city": "珀斯",
+    "category": [
+      "美食",
+      "海鲜"
+    ],
+    "cost": 120,
+    "duration": 75,
+    "location": {
+      "lat": -32.0575,
+      "lng": 115.7443
+    },
+    "score": 4.5,
+    "tags": [
+      "炸鱼薯条",
+      "海港",
+      "外带"
+    ],
+    "taste_tags": [
+      "海鲜",
+      "炸物"
+    ],
+    "open_time": "09:00-20:30",
+    "suitable_for": [
+      "朋友",
+      "亲子",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "Fremantle 港口经典海鲜店",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "炸鱼薯条",
+    "takeout_quality": "low",
+    "last_50m": "靠近渔港水边，门口常有排队；从码头停车区沿海边步道走到蓝白色招牌。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_per002",
+    "name": "La Veen Coffee King Street",
+    "city": "珀斯",
+    "category": [
+      "美食",
+      "咖啡"
+    ],
+    "cost": 55,
+    "duration": 45,
+    "location": {
+      "lat": -31.9519,
+      "lng": 115.8562
+    },
+    "score": 4.6,
+    "tags": [
+      "咖啡",
+      "早午餐",
+      "可外带"
+    ],
+    "taste_tags": [
+      "咖啡",
+      "清淡"
+    ],
+    "open_time": "07:00-15:00",
+    "suitable_for": [
+      "情侣",
+      "朋友",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "珀斯 CBD 高评分咖啡店",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "咖啡早午餐",
+    "takeout_quality": "high",
+    "last_50m": "店在 King Street 街边，黑色门头较低调；早高峰建议先点外带。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_mel001",
+    "name": "Higher Ground Melbourne",
+    "city": "墨尔本",
+    "category": [
+      "美食",
+      "咖啡"
+    ],
+    "cost": 95,
+    "duration": 75,
+    "location": {
+      "lat": -37.8157,
+      "lng": 144.9532
+    },
+    "score": 4.6,
+    "tags": [
+      "早午餐",
+      "咖啡",
+      "可预约"
+    ],
+    "taste_tags": [
+      "咖啡",
+      "早午餐"
+    ],
+    "open_time": "07:00-16:00",
+    "suitable_for": [
+      "情侣",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "墨尔本热门早午餐店",
+    "can_reserve": true,
+    "supports_takeout": true,
+    "food_type": "早午餐",
+    "takeout_quality": "medium",
+    "last_50m": "入口在转角仓库建筑内，门头像老厂房；从 Southern Cross 方向步行注意入口台阶。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_mel002",
+    "name": "Market Lane Coffee",
+    "city": "墨尔本",
+    "category": [
+      "美食",
+      "咖啡"
+    ],
+    "cost": 35,
+    "duration": 35,
+    "location": {
+      "lat": -37.8077,
+      "lng": 144.9569
+    },
+    "score": 4.5,
+    "tags": [
+      "咖啡",
+      "市场",
+      "外带"
+    ],
+    "taste_tags": [
+      "咖啡"
+    ],
+    "open_time": "07:00-15:00",
+    "suitable_for": [
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "墨尔本本地咖啡品牌",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "咖啡",
+    "takeout_quality": "high",
+    "last_50m": "在 Queen Victoria Market 附近，跟随咖啡香和小型门店招牌进入。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_syd001",
+    "name": "The Grounds of the City",
+    "city": "悉尼",
+    "category": [
+      "美食",
+      "咖啡"
+    ],
+    "cost": 95,
+    "duration": 75,
+    "location": {
+      "lat": -33.8706,
+      "lng": 151.2073
+    },
+    "score": 4.5,
+    "tags": [
+      "早午餐",
+      "咖啡",
+      "可预约"
+    ],
+    "taste_tags": [
+      "咖啡",
+      "早午餐"
+    ],
+    "open_time": "07:00-21:00",
+    "suitable_for": [
+      "情侣",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "悉尼热门复古咖啡餐厅",
+    "can_reserve": true,
+    "supports_takeout": true,
+    "food_type": "早午餐",
+    "takeout_quality": "medium",
+    "last_50m": "店在商场街区内部，入口复古装饰明显；从 George Street 进入更容易找到。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_syd002",
+    "name": "Doyles on the Wharf",
+    "city": "悉尼",
+    "category": [
+      "美食",
+      "海鲜"
+    ],
+    "cost": 110,
+    "duration": 60,
+    "location": {
+      "lat": -33.8415,
+      "lng": 151.2816
+    },
+    "score": 4.4,
+    "tags": [
+      "海鲜",
+      "外带",
+      "海边"
+    ],
+    "taste_tags": [
+      "海鲜",
+      "炸物"
+    ],
+    "open_time": "11:00-20:00",
+    "suitable_for": [
+      "朋友",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "Watsons Bay 海边海鲜店",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "炸海鲜",
+    "takeout_quality": "low",
+    "last_50m": "靠近码头外带窗口，排队队伍通常在海边步道旁；注意堂食与外带窗口不同。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_gz001",
+    "name": "点都德北京路店",
+    "city": "广州",
+    "category": [
+      "美食",
+      "早茶"
+    ],
+    "cost": 85,
+    "duration": 80,
+    "location": {
+      "lat": 23.1256,
+      "lng": 113.2698
+    },
+    "score": 4.6,
+    "tags": [
+      "早茶",
+      "可预约",
+      "排队"
+    ],
+    "taste_tags": [
+      "早茶",
+      "清淡"
+    ],
+    "open_time": "08:00-22:00",
+    "suitable_for": [
+      "亲子",
+      "老人",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "广州早茶热门品牌分店",
+    "can_reserve": true,
+    "supports_takeout": true,
+    "food_type": "茶点",
+    "takeout_quality": "medium",
+    "last_50m": "在商场楼上，先找商场主入口和电梯；堂食取号区通常在门口右侧。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_gz002",
+    "name": "陶陶居第十甫店",
+    "city": "广州",
+    "category": [
+      "美食",
+      "老字号"
+    ],
+    "cost": 95,
+    "duration": 90,
+    "location": {
+      "lat": 23.1132,
+      "lng": 113.2472
+    },
+    "score": 4.6,
+    "tags": [
+      "早茶",
+      "老字号",
+      "可预约"
+    ],
+    "taste_tags": [
+      "早茶",
+      "甜品"
+    ],
+    "open_time": "08:00-22:00",
+    "suitable_for": [
+      "老人",
+      "亲子",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "广州老字号茶楼",
+    "can_reserve": true,
+    "supports_takeout": true,
+    "food_type": "茶点",
+    "takeout_quality": "medium",
+    "last_50m": "位于老街骑楼建筑中，门面传统醒目；高峰先在门口取号。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sz001",
+    "name": "润园四季椰子鸡欢乐海岸店",
+    "city": "深圳",
+    "category": [
+      "美食",
+      "餐厅"
+    ],
+    "cost": 120,
+    "duration": 85,
+    "location": {
+      "lat": 22.5314,
+      "lng": 113.9978
+    },
+    "score": 4.5,
+    "tags": [
+      "椰子鸡",
+      "可预约",
+      "清淡"
+    ],
+    "taste_tags": [
+      "清淡",
+      "鸡汤"
+    ],
+    "open_time": "11:00-22:00",
+    "suitable_for": [
+      "亲子",
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "深圳本地椰子鸡热门品牌",
+    "can_reserve": true,
+    "supports_takeout": true,
+    "food_type": "椰子鸡",
+    "takeout_quality": "low",
+    "last_50m": "在欢乐海岸餐饮区内，建议从湖边主入口进入后看楼层导视。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sz002",
+    "name": "喜茶深圳湾店",
+    "city": "深圳",
+    "category": [
+      "美食",
+      "饮品"
+    ],
+    "cost": 35,
+    "duration": 25,
+    "location": {
+      "lat": 22.5225,
+      "lng": 113.999
+    },
+    "score": 4.4,
+    "tags": [
+      "茶饮",
+      "外带",
+      "省时"
+    ],
+    "taste_tags": [
+      "甜品",
+      "茶饮"
+    ],
+    "open_time": "10:00-22:00",
+    "suitable_for": [
+      "朋友",
+      "情侣",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "深圳本地新茶饮品牌代表",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "茶饮",
+    "takeout_quality": "high",
+    "last_50m": "在商场或街区店铺内，适合手机提前下单后顺路自取。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_hz001",
+    "name": "外婆家湖滨银泰店",
+    "city": "杭州",
+    "category": [
+      "美食",
+      "杭帮菜"
+    ],
+    "cost": 85,
+    "duration": 75,
+    "location": {
+      "lat": 30.2571,
+      "lng": 120.1646
+    },
+    "score": 4.4,
+    "tags": [
+      "杭帮菜",
+      "可预约",
+      "商场"
+    ],
+    "taste_tags": [
+      "清淡",
+      "杭帮菜"
+    ],
+    "open_time": "10:30-21:30",
+    "suitable_for": [
+      "亲子",
+      "老人",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "杭州高频杭帮菜品牌分店",
+    "can_reserve": true,
+    "supports_takeout": true,
+    "food_type": "杭帮热菜",
+    "takeout_quality": "medium",
+    "last_50m": "位于湖滨银泰商场内，先找商场电梯上楼；饭点需提前取号。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_hz002",
+    "name": "知味观仁和路总店",
+    "city": "杭州",
+    "category": [
+      "美食",
+      "老字号"
+    ],
+    "cost": 45,
+    "duration": 55,
+    "location": {
+      "lat": 30.254,
+      "lng": 120.1655
+    },
+    "score": 4.4,
+    "tags": [
+      "小吃",
+      "老字号",
+      "外带"
+    ],
+    "taste_tags": [
+      "甜口",
+      "小吃"
+    ],
+    "open_time": "07:00-21:00",
+    "suitable_for": [
+      "老人",
+      "亲子",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "杭州老字号小吃店",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "糕点小吃",
+    "takeout_quality": "high",
+    "last_50m": "门店在商业街街边，招牌较传统；外带窗口和堂食入口分开。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_nj001",
+    "name": "南京大牌档夫子庙店",
+    "city": "南京",
+    "category": [
+      "美食",
+      "南京菜"
+    ],
+    "cost": 90,
+    "duration": 80,
+    "location": {
+      "lat": 32.0202,
+      "lng": 118.788
+    },
+    "score": 4.5,
+    "tags": [
+      "南京菜",
+      "可预约",
+      "排队"
+    ],
+    "taste_tags": [
+      "盐水鸭",
+      "小吃"
+    ],
+    "open_time": "10:30-22:00",
+    "suitable_for": [
+      "亲子",
+      "朋友",
+      "老人"
+    ],
+    "poi_type": "food",
+    "rank_info": "南京本地菜热门品牌分店",
+    "can_reserve": true,
+    "supports_takeout": true,
+    "food_type": "南京菜",
+    "takeout_quality": "medium",
+    "last_50m": "在夫子庙商圈内，跟随商场餐饮导视；门口取号区明显。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_xa001",
+    "name": "子午路张记肉夹馍",
+    "city": "西安",
+    "category": [
+      "美食",
+      "小吃"
+    ],
+    "cost": 25,
+    "duration": 35,
+    "location": {
+      "lat": 34.229,
+      "lng": 108.945
+    },
+    "score": 4.5,
+    "tags": [
+      "肉夹馍",
+      "外带",
+      "省时"
+    ],
+    "taste_tags": [
+      "面食",
+      "咸香"
+    ],
+    "open_time": "08:00-21:00",
+    "suitable_for": [
+      "朋友",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "西安高频肉夹馍品牌",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "肉夹馍",
+    "takeout_quality": "medium",
+    "last_50m": "街边小店，门头不大；看到排队窗口后直接点单外带。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cq001",
+    "name": "瓜西西火锅",
+    "city": "重庆",
+    "category": [
+      "美食",
+      "火锅"
+    ],
+    "cost": 120,
+    "duration": 100,
+    "location": {
+      "lat": 29.5585,
+      "lng": 106.5721
+    },
+    "score": 4.6,
+    "tags": [
+      "火锅",
+      "辣味",
+      "可预约"
+    ],
+    "taste_tags": [
+      "辣味",
+      "火锅"
+    ],
+    "open_time": "11:00-23:30",
+    "suitable_for": [
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "重庆热门火锅店",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "火锅",
+    "takeout_quality": "low",
+    "last_50m": "店铺可能在坡道或楼上，注意门口红色招牌；导航到附近后看电梯/楼梯入口。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sg001",
+    "name": "Song Fa Bak Kut Teh Chinatown Point",
+    "city": "新加坡",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 85,
+    "duration": 65,
+    "location": {
+      "lat": 1.2844,
+      "lng": 103.8447
+    },
+    "score": 4.6,
+    "tags": [
+      "肉骨茶",
+      "可预约",
+      "清淡"
+    ],
+    "taste_tags": [
+      "清淡",
+      "汤品"
+    ],
+    "open_time": "10:30-21:30",
+    "suitable_for": [
+      "亲子",
+      "朋友",
+      "老人"
+    ],
+    "poi_type": "food",
+    "rank_info": "新加坡肉骨茶热门品牌分店",
+    "can_reserve": true,
+    "supports_takeout": true,
+    "food_type": "肉骨茶",
+    "takeout_quality": "medium",
+    "last_50m": "在 Chinatown Point 商场内，进入商场后按餐饮层导视寻找。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_tk001",
+    "name": "一兰拉面涩谷店",
+    "city": "东京",
+    "category": [
+      "美食",
+      "拉面"
+    ],
+    "cost": 70,
+    "duration": 55,
+    "location": {
+      "lat": 35.6601,
+      "lng": 139.7006
+    },
+    "score": 4.4,
+    "tags": [
+      "拉面",
+      "排队",
+      "独食"
+    ],
+    "taste_tags": [
+      "拉面",
+      "汤面"
+    ],
+    "open_time": "10:00-06:00",
+    "suitable_for": [
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "东京游客高频拉面品牌分店",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "汤面",
+    "takeout_quality": "low",
+    "last_50m": "入口常在地下或楼内，注意红色招牌和下楼楼梯；高峰先排队购券。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_se001",
+    "name": "明洞饺子本店",
+    "city": "首尔",
+    "category": [
+      "美食",
+      "老店"
+    ],
+    "cost": 70,
+    "duration": 55,
+    "location": {
+      "lat": 37.5627,
+      "lng": 126.985
+    },
+    "score": 4.5,
+    "tags": [
+      "刀削面",
+      "饺子",
+      "排队"
+    ],
+    "taste_tags": [
+      "面食",
+      "清淡"
+    ],
+    "open_time": "10:30-21:00",
+    "suitable_for": [
+      "朋友",
+      "亲子",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "首尔明洞经典老店",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "汤面饺子",
+    "takeout_quality": "low",
+    "last_50m": "位于明洞巷内，招牌不算大但排队明显；沿主街转入小巷后注意二层/门口队伍。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_nj002",
+    "name": "鸭得堡老鸭粉丝汤",
+    "city": "南京",
+    "category": [
+      "美食",
+      "小吃"
+    ],
+    "cost": 35,
+    "duration": 45,
+    "location": {
+      "lat": 32.045,
+      "lng": 118.7832
+    },
+    "score": 4.4,
+    "tags": [
+      "鸭血粉丝汤",
+      "外带",
+      "省钱"
+    ],
+    "taste_tags": [
+      "汤品",
+      "小吃"
+    ],
+    "open_time": "08:00-21:00",
+    "suitable_for": [
+      "朋友",
+      "独行",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "南京高频鸭血粉丝汤品牌",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "粉丝汤",
+    "takeout_quality": "low",
+    "last_50m": "店面通常在街边小门面，门口外带窗口明显；汤品建议到店热吃。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_xa002",
+    "name": "马洪小炒泡馍馆",
+    "city": "西安",
+    "category": [
+      "美食",
+      "老店"
+    ],
+    "cost": 55,
+    "duration": 65,
+    "location": {
+      "lat": 34.263,
+      "lng": 108.9428
+    },
+    "score": 4.4,
+    "tags": [
+      "泡馍",
+      "老店",
+      "排队"
+    ],
+    "taste_tags": [
+      "面食",
+      "咸香"
+    ],
+    "open_time": "10:00-22:00",
+    "suitable_for": [
+      "朋友",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "西安本地泡馍老店",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "泡馍",
+    "takeout_quality": "low",
+    "last_50m": "位于回民街附近小路内，跟随门口排队队伍；先点单再找座。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cq002",
+    "name": "花市豌杂面",
+    "city": "重庆",
+    "category": [
+      "美食",
+      "小吃"
+    ],
+    "cost": 25,
+    "duration": 35,
+    "location": {
+      "lat": 29.5617,
+      "lng": 106.5758
+    },
+    "score": 4.5,
+    "tags": [
+      "小面",
+      "外带",
+      "辣味"
+    ],
+    "taste_tags": [
+      "辣味",
+      "面食"
+    ],
+    "open_time": "07:00-20:30",
+    "suitable_for": [
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "重庆小面高频打卡店",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "小面",
+    "takeout_quality": "low",
+    "last_50m": "门店在街边巷口附近，招牌不大；高峰时看门口端碗排队的人群。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sg002",
+    "name": "328 Katong Laksa",
+    "city": "新加坡",
+    "category": [
+      "美食",
+      "小吃"
+    ],
+    "cost": 55,
+    "duration": 45,
+    "location": {
+      "lat": 1.3051,
+      "lng": 103.9043
+    },
+    "score": 4.5,
+    "tags": [
+      "叻沙",
+      "外带",
+      "本地小吃"
+    ],
+    "taste_tags": [
+      "汤品",
+      "微辣"
+    ],
+    "open_time": "09:30-21:30",
+    "suitable_for": [
+      "朋友",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "新加坡叻沙经典店",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "叻沙",
+    "takeout_quality": "low",
+    "last_50m": "店在 Katong 街边，门面朴素；到附近后找红色招牌和排队点单口。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_tk002",
+    "name": "寿司大丰洲市场店",
+    "city": "东京",
+    "category": [
+      "美食",
+      "寿司"
+    ],
+    "cost": 180,
+    "duration": 80,
+    "location": {
+      "lat": 35.6454,
+      "lng": 139.7834
+    },
+    "score": 4.6,
+    "tags": [
+      "寿司",
+      "排队",
+      "市场"
+    ],
+    "taste_tags": [
+      "海鲜",
+      "寿司"
+    ],
+    "open_time": "06:00-14:00",
+    "suitable_for": [
+      "朋友",
+      "情侣",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "东京市场寿司热门店",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "寿司",
+    "takeout_quality": "low",
+    "last_50m": "位于丰洲市场餐饮区内，需按市场楼层导视进入；早到排队更稳。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_se002",
+    "name": "土俗村参鸡汤",
+    "city": "首尔",
+    "category": [
+      "美食",
+      "老店"
+    ],
+    "cost": 95,
+    "duration": 70,
+    "location": {
+      "lat": 37.5777,
+      "lng": 126.9717
+    },
+    "score": 4.5,
+    "tags": [
+      "参鸡汤",
+      "老店",
+      "排队"
+    ],
+    "taste_tags": [
+      "清淡",
+      "汤品"
+    ],
+    "open_time": "10:00-22:00",
+    "suitable_for": [
+      "亲子",
+      "老人",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "首尔参鸡汤经典店",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "参鸡汤",
+    "takeout_quality": "medium",
+    "last_50m": "靠近景福宫西侧街巷，传统韩屋门面；高峰队伍会沿门口排开。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sh003",
+    "name": "南翔馒头店豫园总店",
+    "city": "上海",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 55,
+    "duration": 60,
+    "location": {
+      "lat": 31.2271,
+      "lng": 121.493
+    },
+    "score": 4.6,
+    "tags": [
+      "小笼包",
+      "老字号",
+      "排队"
+    ],
+    "taste_tags": [
+      "鲜",
+      "汤汁丰富"
+    ],
+    "open_time": "07:30-20:30",
+    "suitable_for": [
+      "亲子",
+      "老人",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "上海小笼包老字号代表，豫园核心区",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "小笼包",
+    "takeout_quality": "low",
+    "last_50m": "位于豫园九曲桥附近，看到九曲桥后左转，找门口排队长龙即可。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sh004",
+    "name": "光明邨大酒家",
+    "city": "上海",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 40,
+    "duration": 60,
+    "location": {
+      "lat": 31.222,
+      "lng": 121.462
+    },
+    "score": 4.5,
+    "tags": [
+      "本帮菜",
+      "熟食",
+      "老字号"
+    ],
+    "taste_tags": [
+      "咸鲜",
+      "下饭"
+    ],
+    "open_time": "06:30-21:00",
+    "suitable_for": [
+      "老人",
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "淮海路本帮菜老字号，熟食必购",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "本帮熟食",
+    "takeout_quality": "medium",
+    "last_50m": "淮海中路上，招牌金色，门口通常有长队等熟食窗口。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sh005",
+    "name": "老吉士酒家",
+    "city": "上海",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 120,
+    "duration": 60,
+    "location": {
+      "lat": 31.2216,
+      "lng": 121.4558
+    },
+    "score": 4.6,
+    "tags": [
+      "本帮菜",
+      "正宗",
+      "老字号"
+    ],
+    "taste_tags": [
+      "咸鲜",
+      "浓油赤酱"
+    ],
+    "open_time": "11:00-14:00,17:00-21:30",
+    "suitable_for": [
+      "朋友",
+      "情侣",
+      "老人"
+    ],
+    "poi_type": "food",
+    "rank_info": "上海最正宗的本帮菜之一，须提前预约",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "本帮菜",
+    "takeout_quality": "low",
+    "last_50m": "天平路上，门面低调，看到木质招牌向内走，建议提前预约否则可能等位。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sh006",
+    "name": "沧浪亭苏式面",
+    "city": "上海",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 35,
+    "duration": 60,
+    "location": {
+      "lat": 31.234,
+      "lng": 121.478
+    },
+    "score": 4.4,
+    "tags": [
+      "苏式面",
+      "老字号",
+      "早餐"
+    ],
+    "taste_tags": [
+      "鲜",
+      "清淡"
+    ],
+    "open_time": "06:30-14:00",
+    "suitable_for": [
+      "老人",
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "沪上苏式面老字号，枫泾大肉面必点",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "苏式面",
+    "takeout_quality": "low",
+    "last_50m": "多个门店，找门口挂面招牌的店，早市排队约15分钟。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_bj003",
+    "name": "便宜坊烤鸭",
+    "city": "北京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 150,
+    "duration": 60,
+    "location": {
+      "lat": 39.901,
+      "lng": 116.398
+    },
+    "score": 4.5,
+    "tags": [
+      "烤鸭",
+      "老字号",
+      "焖炉"
+    ],
+    "taste_tags": [
+      "咸鲜",
+      "皮脆"
+    ],
+    "open_time": "11:00-21:00",
+    "suitable_for": [
+      "朋友",
+      "老人",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "北京烤鸭最古老品牌，焖炉工艺",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "烤鸭",
+    "takeout_quality": "low",
+    "last_50m": "崇文门附近总店，进门后告知人数，高峰期建议提前订位。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_bj004",
+    "name": "爆肚冯",
+    "city": "北京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 60,
+    "duration": 60,
+    "location": {
+      "lat": 39.939,
+      "lng": 116.396
+    },
+    "score": 4.4,
+    "tags": [
+      "爆肚",
+      "老字号",
+      "清真"
+    ],
+    "taste_tags": [
+      "鲜",
+      "脆嫩"
+    ],
+    "open_time": "10:30-20:30",
+    "suitable_for": [
+      "老人",
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "百年爆肚老字号，什刹海附近",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "爆肚",
+    "takeout_quality": "low",
+    "last_50m": "什刹海荷花市场附近，找红底白字招牌，人多时在门口等号。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_bj005",
+    "name": "护国寺小吃",
+    "city": "北京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 25,
+    "duration": 60,
+    "location": {
+      "lat": 39.942,
+      "lng": 116.381
+    },
+    "score": 4.3,
+    "tags": [
+      "小吃",
+      "老字号",
+      "北京早点"
+    ],
+    "taste_tags": [
+      "甜",
+      "软糯"
+    ],
+    "open_time": "07:00-20:00",
+    "suitable_for": [
+      "老人",
+      "独行",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "老北京传统小吃集合，豆汁焦圈必点",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "北京小吃",
+    "takeout_quality": "medium",
+    "last_50m": "护国寺街上，黄底招牌，进门点单后自取。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_bj006",
+    "name": "烤肉宛",
+    "city": "北京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 180,
+    "duration": 60,
+    "location": {
+      "lat": 39.925,
+      "lng": 116.384
+    },
+    "score": 4.5,
+    "tags": [
+      "烤肉",
+      "老字号",
+      "清真"
+    ],
+    "taste_tags": [
+      "香",
+      "鲜嫩"
+    ],
+    "open_time": "11:00-21:00",
+    "suitable_for": [
+      "朋友",
+      "情侣",
+      "老人"
+    ],
+    "poi_type": "food",
+    "rank_info": "北京清真烤肉百年老店",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "烤肉",
+    "takeout_quality": "low",
+    "last_50m": "西四附近，门口停车不便，建议地铁出行，旺季须提前预订。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cd003",
+    "name": "赖汤圆",
+    "city": "成都",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 15,
+    "duration": 60,
+    "location": {
+      "lat": 30.6569,
+      "lng": 104.0784
+    },
+    "score": 4.5,
+    "tags": [
+      "汤圆",
+      "老字号",
+      "甜品"
+    ],
+    "taste_tags": [
+      "甜",
+      "软糯"
+    ],
+    "open_time": "08:00-21:00",
+    "suitable_for": [
+      "老人",
+      "亲子",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "成都汤圆老字号，春熙路附近",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "汤圆",
+    "takeout_quality": "low",
+    "last_50m": "春熙路商圈内，找红色竖招牌，门口偶有排队。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cd004",
+    "name": "成都甜水面",
+    "city": "成都",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 12,
+    "duration": 60,
+    "location": {
+      "lat": 30.656,
+      "lng": 104.077
+    },
+    "score": 4.3,
+    "tags": [
+      "甜水面",
+      "特色",
+      "街头"
+    ],
+    "taste_tags": [
+      "甜辣",
+      "有嚼劲"
+    ],
+    "open_time": "09:00-21:00",
+    "suitable_for": [
+      "独行",
+      "朋友",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "成都特色甜水面，宽面配特制酱料",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "甜水面",
+    "takeout_quality": "medium",
+    "last_50m": "奎星楼街附近小店，看到手写菜单的小摊即是。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cd005",
+    "name": "洞子口张老二凉粉",
+    "city": "成都",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 10,
+    "duration": 60,
+    "location": {
+      "lat": 30.68,
+      "lng": 104.07
+    },
+    "score": 4.4,
+    "tags": [
+      "凉粉",
+      "老字号",
+      "街头"
+    ],
+    "taste_tags": [
+      "麻辣",
+      "清爽"
+    ],
+    "open_time": "10:00-20:00",
+    "suitable_for": [
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "洞子口凉粉老字号，成都凉食代表",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "凉粉",
+    "takeout_quality": "high",
+    "last_50m": "洞子口街市内，找挂有手写招牌的摊位，人多时等10分钟。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cd006",
+    "name": "廖记棒棒鸡总店",
+    "city": "成都",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 30,
+    "duration": 60,
+    "location": {
+      "lat": 30.66,
+      "lng": 104.07
+    },
+    "score": 4.3,
+    "tags": [
+      "棒棒鸡",
+      "凉菜",
+      "老字号"
+    ],
+    "taste_tags": [
+      "麻辣",
+      "鲜香"
+    ],
+    "open_time": "10:00-21:00",
+    "suitable_for": [
+      "朋友",
+      "独行",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "成都棒棒鸡代表品牌",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "棒棒鸡",
+    "takeout_quality": "medium",
+    "last_50m": "多门店，找绿色招牌，可外带，建议冬季到店食用。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_hz003",
+    "name": "杭州知味观总店",
+    "city": "杭州",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 70,
+    "duration": 60,
+    "location": {
+      "lat": 30.2527,
+      "lng": 120.1602
+    },
+    "score": 4.6,
+    "tags": [
+      "杭帮菜",
+      "老字号",
+      "点心"
+    ],
+    "taste_tags": [
+      "鲜甜",
+      "精致"
+    ],
+    "open_time": "08:00-21:00",
+    "suitable_for": [
+      "老人",
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "西湖边杭帮菜老字号，蟹黄小笼必点",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "杭帮菜",
+    "takeout_quality": "low",
+    "last_50m": "延安路上，黄色招牌，一楼点心二楼正餐，建议预约。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_hz004",
+    "name": "杭州新丰小吃",
+    "city": "杭州",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 15,
+    "duration": 60,
+    "location": {
+      "lat": 30.253,
+      "lng": 120.1625
+    },
+    "score": 4.2,
+    "tags": [
+      "小笼",
+      "豆浆",
+      "早餐"
+    ],
+    "taste_tags": [
+      "鲜",
+      "软"
+    ],
+    "open_time": "06:00-14:00",
+    "suitable_for": [
+      "独行",
+      "老人",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "杭州人气早餐店，小笼加豆浆经典搭配",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "小笼包",
+    "takeout_quality": "low",
+    "last_50m": "延安路附近，早上六点开始排队，建议7点前到。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_hz005",
+    "name": "张生记",
+    "city": "杭州",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 200,
+    "duration": 60,
+    "location": {
+      "lat": 30.259,
+      "lng": 120.158
+    },
+    "score": 4.6,
+    "tags": [
+      "杭帮菜",
+      "老字号",
+      "砂锅鱼头"
+    ],
+    "taste_tags": [
+      "鲜",
+      "浓郁"
+    ],
+    "open_time": "11:00-21:30",
+    "suitable_for": [
+      "情侣",
+      "朋友",
+      "老人"
+    ],
+    "poi_type": "food",
+    "rank_info": "杭州砂锅鱼头代表，本地人请客首选",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "杭帮菜",
+    "takeout_quality": "low",
+    "last_50m": "延安路区域，须提前一天预订，旺季一位难求。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_hz006",
+    "name": "楼外楼西湖醋鱼",
+    "city": "杭州",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 160,
+    "duration": 60,
+    "location": {
+      "lat": 30.2571,
+      "lng": 120.1533
+    },
+    "score": 4.5,
+    "tags": [
+      "西湖醋鱼",
+      "老字号",
+      "必吃"
+    ],
+    "taste_tags": [
+      "酸甜",
+      "鲜嫩"
+    ],
+    "open_time": "11:00-21:00",
+    "suitable_for": [
+      "老人",
+      "情侣",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "西湖边百年老店，西湖醋鱼发源地",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "杭帮菜",
+    "takeout_quality": "low",
+    "last_50m": "西湖孤山路上，进门需报预约名字，无预约高峰期等位约1小时。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_gz003",
+    "name": "陶陶居",
+    "city": "广州",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 70,
+    "duration": 60,
+    "location": {
+      "lat": 31.1236,
+      "lng": 113.2519
+    },
+    "score": 4.5,
+    "tags": [
+      "早茶",
+      "老字号",
+      "点心"
+    ],
+    "taste_tags": [
+      "鲜",
+      "精致"
+    ],
+    "open_time": "07:00-22:00",
+    "suitable_for": [
+      "老人",
+      "朋友",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "广州百年茶楼，早茶文化代表",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "粤式点心",
+    "takeout_quality": "low",
+    "last_50m": "第十甫路上，推门进入找服务员领位，建议工作日早去。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_gz004",
+    "name": "西关肠粉",
+    "city": "广州",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 15,
+    "duration": 60,
+    "location": {
+      "lat": 23.123,
+      "lng": 113.249
+    },
+    "score": 4.4,
+    "tags": [
+      "肠粉",
+      "早餐",
+      "街头"
+    ],
+    "taste_tags": [
+      "鲜滑",
+      "软嫩"
+    ],
+    "open_time": "06:30-13:00",
+    "suitable_for": [
+      "老人",
+      "独行",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "西关传统拉肠粉，现做现吃",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "肠粉",
+    "takeout_quality": "low",
+    "last_50m": "荔湾区西关一带，找人多的小摊，现拉现蒸约等5分钟。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_gz005",
+    "name": "皇上皇腊味",
+    "city": "广州",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 60,
+    "duration": 60,
+    "location": {
+      "lat": 23.1265,
+      "lng": 113.2665
+    },
+    "score": 4.5,
+    "tags": [
+      "腊肠",
+      "老字号",
+      "伴手礼"
+    ],
+    "taste_tags": [
+      "咸香",
+      "甘甜"
+    ],
+    "open_time": "09:00-21:00",
+    "suitable_for": [
+      "老人",
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "广州腊味老字号，腊肠腊鸭必买",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "腊味",
+    "takeout_quality": "high",
+    "last_50m": "北京路步行街上，红色招牌，可直接买切好的现吃或整条带走。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_gz006",
+    "name": "艇仔粥",
+    "city": "广州",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 25,
+    "duration": 60,
+    "location": {
+      "lat": 23.1219,
+      "lng": 113.2444
+    },
+    "score": 4.3,
+    "tags": [
+      "粥",
+      "特色",
+      "荔湾"
+    ],
+    "taste_tags": [
+      "鲜",
+      "绵滑"
+    ],
+    "open_time": "07:00-14:00",
+    "suitable_for": [
+      "老人",
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "荔湾涌边传统艇仔粥，料丰味鲜",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "粥",
+    "takeout_quality": "low",
+    "last_50m": "荔枝湾涌边小摊，早上7-11点最新鲜，下午料可能不足。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cq003",
+    "name": "洞子老灶火锅",
+    "city": "重庆",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 85,
+    "duration": 60,
+    "location": {
+      "lat": 29.564,
+      "lng": 106.581
+    },
+    "score": 4.6,
+    "tags": [
+      "火锅",
+      "老灶",
+      "牛油"
+    ],
+    "taste_tags": [
+      "麻辣",
+      "香浓"
+    ],
+    "open_time": "11:00-02:00",
+    "suitable_for": [
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "重庆老灶火锅代表，九宫格必点",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "火锅",
+    "takeout_quality": "low",
+    "last_50m": "解放碑附近，排队建议扫码取号，高峰期等位约40分钟。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cq004",
+    "name": "重庆小面毛哥面馆",
+    "city": "重庆",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 12,
+    "duration": 60,
+    "location": {
+      "lat": 29.56,
+      "lng": 106.57
+    },
+    "score": 4.5,
+    "tags": [
+      "小面",
+      "早餐",
+      "街头"
+    ],
+    "taste_tags": [
+      "麻辣",
+      "鲜香"
+    ],
+    "open_time": "06:00-12:00",
+    "suitable_for": [
+      "独行",
+      "老人",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "重庆本地人早餐小面，红油必加",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "小面",
+    "takeout_quality": "low",
+    "last_50m": "解放碑周边街巷，找人多的面馆，上面快约5分钟。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cq005",
+    "name": "渝是乎火锅",
+    "city": "重庆",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 75,
+    "duration": 60,
+    "location": {
+      "lat": 29.562,
+      "lng": 106.58
+    },
+    "score": 4.4,
+    "tags": [
+      "火锅",
+      "连锁",
+      "正宗"
+    ],
+    "taste_tags": [
+      "麻辣",
+      "鲜"
+    ],
+    "open_time": "11:00-23:30",
+    "suitable_for": [
+      "朋友",
+      "情侣",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "重庆连锁火锅品牌，品质稳定",
+    "can_reserve": true,
+    "supports_takeout": true,
+    "food_type": "火锅",
+    "takeout_quality": "low",
+    "last_50m": "多门店，支持提前预约，推荐毛肚和鸭肠。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_cq006",
+    "name": "酸辣粉钟记",
+    "city": "重庆",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 15,
+    "duration": 60,
+    "location": {
+      "lat": 29.558,
+      "lng": 106.576
+    },
+    "score": 4.3,
+    "tags": [
+      "酸辣粉",
+      "街头",
+      "快餐"
+    ],
+    "taste_tags": [
+      "酸辣",
+      "弹牙"
+    ],
+    "open_time": "09:00-21:00",
+    "suitable_for": [
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "重庆正宗酸辣粉，红薯粉现煮",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "酸辣粉",
+    "takeout_quality": "medium",
+    "last_50m": "解放碑周边，找挂有红色招牌的小店。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_nj003",
+    "name": "金陵饭店淮扬菜",
+    "city": "南京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 120,
+    "duration": 60,
+    "location": {
+      "lat": 32.0497,
+      "lng": 118.7821
+    },
+    "score": 4.4,
+    "tags": [
+      "淮扬菜",
+      "老字号",
+      "精致"
+    ],
+    "taste_tags": [
+      "鲜甜",
+      "清淡"
+    ],
+    "open_time": "11:00-21:00",
+    "suitable_for": [
+      "情侣",
+      "老人",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "南京高端淮扬菜代表",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "淮扬菜",
+    "takeout_quality": "low",
+    "last_50m": "新街口区域，建议提前预约，招牌菜狮子头和文思豆腐。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_nj004",
+    "name": "回味鸭血粉丝",
+    "city": "南京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 25,
+    "duration": 60,
+    "location": {
+      "lat": 32.023,
+      "lng": 118.789
+    },
+    "score": 4.5,
+    "tags": [
+      "鸭血粉丝",
+      "连锁",
+      "快餐"
+    ],
+    "taste_tags": [
+      "鲜",
+      "汤底浓"
+    ],
+    "open_time": "07:00-21:00",
+    "suitable_for": [
+      "独行",
+      "朋友",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "南京鸭血粉丝汤知名连锁",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "鸭血粉丝汤",
+    "takeout_quality": "low",
+    "last_50m": "多门店，进门点单，等待约5分钟，汤头鲜美。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_nj005",
+    "name": "秦淮人家",
+    "city": "南京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 30,
+    "duration": 60,
+    "location": {
+      "lat": 32.022,
+      "lng": 118.789
+    },
+    "score": 4.3,
+    "tags": [
+      "秦淮小吃",
+      "合集",
+      "夫子庙"
+    ],
+    "taste_tags": [
+      "甜",
+      "咸鲜"
+    ],
+    "open_time": "09:00-21:00",
+    "suitable_for": [
+      "亲子",
+      "老人",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "夫子庙核心区秦淮小吃集合",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "秦淮小吃",
+    "takeout_quality": "medium",
+    "last_50m": "夫子庙景区内，一楼多个窗口各有特色，鸭油酥烧饼必尝。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_nj006",
+    "name": "老盛昌汤包",
+    "city": "南京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 35,
+    "duration": 60,
+    "location": {
+      "lat": 32.043,
+      "lng": 118.7888
+    },
+    "score": 4.4,
+    "tags": [
+      "汤包",
+      "老字号",
+      "早餐"
+    ],
+    "taste_tags": [
+      "鲜",
+      "汤多"
+    ],
+    "open_time": "07:00-20:00",
+    "suitable_for": [
+      "老人",
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "南京知名汤包馆，皮薄汤鲜",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "汤包",
+    "takeout_quality": "low",
+    "last_50m": "新街口附近，早市最新鲜，建议配一碗豆浆。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_xa003",
+    "name": "贾三灌汤包",
+    "city": "西安",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 25,
+    "duration": 60,
+    "location": {
+      "lat": 34.2683,
+      "lng": 108.9458
+    },
+    "score": 4.5,
+    "tags": [
+      "灌汤包",
+      "清真",
+      "老字号"
+    ],
+    "taste_tags": [
+      "鲜",
+      "汤汁足"
+    ],
+    "open_time": "08:00-21:00",
+    "suitable_for": [
+      "老人",
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "西安清真灌汤包老字号",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "灌汤包",
+    "takeout_quality": "low",
+    "last_50m": "回民街内，找排队最长的包子铺，建议小心热汤。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_xa004",
+    "name": "同盛祥泡馍",
+    "city": "西安",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 40,
+    "duration": 60,
+    "location": {
+      "lat": 34.2665,
+      "lng": 108.9455
+    },
+    "score": 4.5,
+    "tags": [
+      "羊肉泡馍",
+      "老字号",
+      "清真"
+    ],
+    "taste_tags": [
+      "鲜",
+      "暖胃"
+    ],
+    "open_time": "07:00-21:00",
+    "suitable_for": [
+      "老人",
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "西安百年泡馍老字号",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "羊肉泡馍",
+    "takeout_quality": "low",
+    "last_50m": "回民街附近，进门自己掰馍，服务员收走后炖煮约20分钟。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_xa005",
+    "name": "魏家凉皮",
+    "city": "西安",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 12,
+    "duration": 60,
+    "location": {
+      "lat": 34.268,
+      "lng": 108.9462
+    },
+    "score": 4.4,
+    "tags": [
+      "凉皮",
+      "街头",
+      "快餐"
+    ],
+    "taste_tags": [
+      "酸辣",
+      "筋道"
+    ],
+    "open_time": "全天",
+    "suitable_for": [
+      "独行",
+      "朋友",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "西安凉皮知名小摊，面皮劲道",
+    "can_reserve": false,
+    "supports_takeout": true,
+    "food_type": "凉皮",
+    "takeout_quality": "high",
+    "last_50m": "回民街一带，找人多的小摊，外带口感会下降建议现吃。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_xa006",
+    "name": "永兴坊摔碗酒",
+    "city": "西安",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 10,
+    "duration": 60,
+    "location": {
+      "lat": 34.2641,
+      "lng": 108.9546
+    },
+    "score": 4.2,
+    "tags": [
+      "摔碗酒",
+      "体验",
+      "特色"
+    ],
+    "taste_tags": [
+      "甜",
+      "度数低"
+    ],
+    "open_time": "10:00-22:00",
+    "suitable_for": [
+      "朋友",
+      "亲子",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "西安网红摔碗体验，酒碗可摔",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "体验美食",
+    "takeout_quality": "high",
+    "last_50m": "永兴坊内，买票排队，摔完拍照留念。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sz003",
+    "name": "莲香楼广式早茶",
+    "city": "深圳",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 50,
+    "duration": 60,
+    "location": {
+      "lat": 22.55,
+      "lng": 114.1
+    },
+    "score": 4.4,
+    "tags": [
+      "早茶",
+      "粤式",
+      "点心"
+    ],
+    "taste_tags": [
+      "鲜",
+      "精致"
+    ],
+    "open_time": "07:00-14:00",
+    "suitable_for": [
+      "老人",
+      "朋友",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "深圳正宗粤式早茶，虾饺肠粉必点",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "粤式点心",
+    "takeout_quality": "low",
+    "last_50m": "东门附近，进门取号等位，建议工作日前往。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sz004",
+    "name": "赤湾海鲜",
+    "city": "深圳",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 120,
+    "duration": 60,
+    "location": {
+      "lat": 22.4844,
+      "lng": 113.9028
+    },
+    "score": 4.5,
+    "tags": [
+      "海鲜",
+      "新鲜",
+      "蛇口"
+    ],
+    "taste_tags": [
+      "鲜甜",
+      "原味"
+    ],
+    "open_time": "11:00-22:00",
+    "suitable_for": [
+      "朋友",
+      "情侣",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "蛇口赤湾海鲜一条街",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "海鲜",
+    "takeout_quality": "low",
+    "last_50m": "蛇口港附近，选海鲜后现场加工，建议清蒸保留鲜味。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sz005",
+    "name": "沙井蚝",
+    "city": "深圳",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 60,
+    "duration": 60,
+    "location": {
+      "lat": 22.7285,
+      "lng": 113.8735
+    },
+    "score": 4.5,
+    "tags": [
+      "生蚝",
+      "特色",
+      "本地"
+    ],
+    "taste_tags": [
+      "鲜甜",
+      "肥美"
+    ],
+    "open_time": "11:00-21:00",
+    "suitable_for": [
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "深圳沙井特产生蚝，肥美出名",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "生蚝",
+    "takeout_quality": "low",
+    "last_50m": "沙井古墟附近，多家餐厅均有，建议白灼或蒜蓉蒸。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sz006",
+    "name": "华强北煲仔饭",
+    "city": "深圳",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 30,
+    "duration": 60,
+    "location": {
+      "lat": 22.5483,
+      "lng": 114.0847
+    },
+    "score": 4.3,
+    "tags": [
+      "煲仔饭",
+      "街头",
+      "快餐"
+    ],
+    "taste_tags": [
+      "香",
+      "锅巴脆"
+    ],
+    "open_time": "11:00-21:00",
+    "suitable_for": [
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "华强北周边知名煲仔饭，腊肠必点",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "煲仔饭",
+    "takeout_quality": "low",
+    "last_50m": "华强北附近小店，等待约15分钟，锅巴焦香。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_tk003",
+    "name": "一兰拉面",
+    "city": "东京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 1900,
+    "duration": 60,
+    "location": {
+      "lat": 35.659,
+      "lng": 139.7023
+    },
+    "score": 4.6,
+    "tags": [
+      "拉面",
+      "独食",
+      "博多"
+    ],
+    "taste_tags": [
+      "浓郁",
+      "鲜"
+    ],
+    "open_time": "24小时",
+    "suitable_for": [
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "东京必吃拉面，隔断式独食体验",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "拉面",
+    "takeout_quality": "low",
+    "last_50m": "涩谷等多处，单人隔断座位，填单选辣度浓度，等约10分钟。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_tk004",
+    "name": "筑地玉寿司",
+    "city": "东京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 3000,
+    "duration": 60,
+    "location": {
+      "lat": 35.6655,
+      "lng": 139.7706
+    },
+    "score": 4.7,
+    "tags": [
+      "寿司",
+      "新鲜",
+      "筑地"
+    ],
+    "taste_tags": [
+      "鲜甜",
+      "入口即化"
+    ],
+    "open_time": "05:30-14:00",
+    "suitable_for": [
+      "独行",
+      "情侣",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "筑地场内市场知名寿司店，须早去排队",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "寿司",
+    "takeout_quality": "low",
+    "last_50m": "筑地场内，早上5点开始排队，建议6点前到，售完即止。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_tk005",
+    "name": "天妇罗近藤",
+    "city": "东京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 12000,
+    "duration": 60,
+    "location": {
+      "lat": 35.6731,
+      "lng": 139.762
+    },
+    "score": 4.8,
+    "tags": [
+      "天妇罗",
+      "高级",
+      "米其林"
+    ],
+    "taste_tags": [
+      "酥脆",
+      "鲜甜"
+    ],
+    "open_time": "11:30-14:00,17:00-21:00",
+    "suitable_for": [
+      "情侣",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "东京米其林天妇罗，食材顶级",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "天妇罗",
+    "takeout_quality": "low",
+    "last_50m": "银座附近，须提前数周预约，着装整洁。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_tk006",
+    "name": "回転寿司美登利",
+    "city": "东京",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 2000,
+    "duration": 60,
+    "location": {
+      "lat": 35.658,
+      "lng": 139.7016
+    },
+    "score": 4.5,
+    "tags": [
+      "回转寿司",
+      "平价",
+      "新鲜"
+    ],
+    "taste_tags": [
+      "鲜",
+      "份量大"
+    ],
+    "open_time": "11:00-22:00",
+    "suitable_for": [
+      "朋友",
+      "亲子",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "东京平价高品质回转寿司",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "寿司",
+    "takeout_quality": "low",
+    "last_50m": "涩谷等多处，取号等位约30-60分钟，物超所值。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_se003",
+    "name": "广藏市场绿豆煎饼",
+    "city": "首尔",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 5000,
+    "duration": 60,
+    "location": {
+      "lat": 37.57,
+      "lng": 127.009
+    },
+    "score": 4.5,
+    "tags": [
+      "煎饼",
+      "传统",
+      "市场"
+    ],
+    "taste_tags": [
+      "香脆",
+      "鲜"
+    ],
+    "open_time": "09:00-23:00",
+    "suitable_for": [
+      "独行",
+      "朋友",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "首尔传统市场，绿豆煎饼现做现吃",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "绿豆煎饼",
+    "takeout_quality": "low",
+    "last_50m": "广藏市场内，找人最多的摊位，站着吃最地道。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_se004",
+    "name": "土俗村参鸡汤",
+    "city": "首尔",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 17000,
+    "duration": 60,
+    "location": {
+      "lat": 37.578,
+      "lng": 126.984
+    },
+    "score": 4.7,
+    "tags": [
+      "参鸡汤",
+      "老字号",
+      "滋补"
+    ],
+    "taste_tags": [
+      "鲜",
+      "浓郁"
+    ],
+    "open_time": "10:00-22:00",
+    "suitable_for": [
+      "老人",
+      "情侣",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "首尔参鸡汤名店，须排队等候",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "参鸡汤",
+    "takeout_quality": "low",
+    "last_50m": "景福宫附近，高峰期排队约1小时，滋补养生。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_se005",
+    "name": "新沙洞林荫道咖啡",
+    "city": "首尔",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 8000,
+    "duration": 60,
+    "location": {
+      "lat": 37.5243,
+      "lng": 127.0227
+    },
+    "score": 4.4,
+    "tags": [
+      "咖啡",
+      "网红",
+      "林荫"
+    ],
+    "taste_tags": [
+      "香浓",
+      "多样"
+    ],
+    "open_time": "09:00-22:00",
+    "suitable_for": [
+      "情侣",
+      "独行",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "首尔网红咖啡街，拍照打卡胜地",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "咖啡",
+    "takeout_quality": "low",
+    "last_50m": "新沙洞林荫道一带，随意选家颜值高的进入即可。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_se006",
+    "name": "弘大炸鸡啤酒",
+    "city": "首尔",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 25000,
+    "duration": 60,
+    "location": {
+      "lat": 37.5563,
+      "lng": 126.9236
+    },
+    "score": 4.5,
+    "tags": [
+      "炸鸡",
+      "啤酒",
+      "夜宵"
+    ],
+    "taste_tags": [
+      "酥脆",
+      "香辣"
+    ],
+    "open_time": "15:00-02:00",
+    "suitable_for": [
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "弘大夜间炸鸡啤酒文化体验",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "炸鸡",
+    "takeout_quality": "low",
+    "last_50m": "弘大主街附近，找人多热闹的店进入，杨念炸鸡系列必点。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_mel003",
+    "name": "Tipo 00意面",
+    "city": "墨尔本",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 35,
+    "duration": 60,
+    "location": {
+      "lat": 37.812,
+      "lng": 144.963
+    },
+    "score": 4.7,
+    "tags": [
+      "意面",
+      "网红",
+      "现做"
+    ],
+    "taste_tags": [
+      "鲜",
+      "筋道"
+    ],
+    "open_time": "12:00-22:00",
+    "suitable_for": [
+      "情侣",
+      "朋友",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "墨尔本最受欢迎意面餐厅之一",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "意面",
+    "takeout_quality": "low",
+    "last_50m": "城中心附近，须提前预约，招牌黑松露意面必点。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_mel004",
+    "name": "Auction Rooms咖啡",
+    "city": "墨尔本",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 8,
+    "duration": 60,
+    "location": {
+      "lat": 37.7996,
+      "lng": 144.956
+    },
+    "score": 4.6,
+    "tags": [
+      "咖啡",
+      "网红",
+      "澳式"
+    ],
+    "taste_tags": [
+      "香浓",
+      "丝滑"
+    ],
+    "open_time": "07:00-17:00",
+    "suitable_for": [
+      "独行",
+      "情侣",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "北墨尔本网红咖啡馆",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "咖啡",
+    "takeout_quality": "low",
+    "last_50m": "North Melbourne区，工业风装潢，白咖啡必点。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_mel005",
+    "name": "Queen Victoria Market早午餐",
+    "city": "墨尔本",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 25,
+    "duration": 60,
+    "location": {
+      "lat": 37.8082,
+      "lng": 144.9574
+    },
+    "score": 4.5,
+    "tags": [
+      "早午餐",
+      "市场",
+      "新鲜"
+    ],
+    "taste_tags": [
+      "鲜",
+      "多样"
+    ],
+    "open_time": "06:00-15:00",
+    "suitable_for": [
+      "朋友",
+      "独行",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "墨尔本最大露天市场，边逛边吃",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "早午餐",
+    "takeout_quality": "medium",
+    "last_50m": "Queen Victoria Market内，各摊位自选，周三至周日开放。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_mel006",
+    "name": "Chin Chin泰餐",
+    "city": "墨尔本",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 40,
+    "duration": 60,
+    "location": {
+      "lat": 37.8159,
+      "lng": 144.9695
+    },
+    "score": 4.6,
+    "tags": [
+      "泰国菜",
+      "网红",
+      "辣"
+    ],
+    "taste_tags": [
+      "香辣",
+      "鲜"
+    ],
+    "open_time": "11:30-23:00",
+    "suitable_for": [
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "墨尔本最火泰餐厅，不接受预约",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "泰国菜",
+    "takeout_quality": "low",
+    "last_50m": "Flinders Lane上，不接受预约，高峰期等位约1小时，值得等。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_syd003",
+    "name": "Quay高级餐厅",
+    "city": "悉尼",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 200,
+    "duration": 60,
+    "location": {
+      "lat": 33.8597,
+      "lng": 151.2017
+    },
+    "score": 4.8,
+    "tags": [
+      "高级餐厅",
+      "港景",
+      "米其林"
+    ],
+    "taste_tags": [
+      "精致",
+      "创意"
+    ],
+    "open_time": "12:00-14:30,18:00-22:00",
+    "suitable_for": [
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "悉尼顶级港景餐厅，需提前数月预约",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "现代澳大利亚菜",
+    "takeout_quality": "low",
+    "last_50m": "环形码头附近，必须提前预约，着装正式。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_syd004",
+    "name": "悉尼鱼市海鲜",
+    "city": "悉尼",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 30,
+    "duration": 60,
+    "location": {
+      "lat": 33.8711,
+      "lng": 151.1989
+    },
+    "score": 4.6,
+    "tags": [
+      "海鲜",
+      "新鲜",
+      "市场"
+    ],
+    "taste_tags": [
+      "鲜甜",
+      "原味"
+    ],
+    "open_time": "07:00-17:00",
+    "suitable_for": [
+      "朋友",
+      "独行",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "悉尼最大海鲜市场，现买现吃",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "海鲜",
+    "takeout_quality": "low",
+    "last_50m": "达令港旁，进市场后各摊自选，可加工或生吃，龙虾必尝。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_syd005",
+    "name": "bills早午餐",
+    "city": "悉尼",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 25,
+    "duration": 60,
+    "location": {
+      "lat": 33.8906,
+      "lng": 151.2046
+    },
+    "score": 4.5,
+    "tags": [
+      "早午餐",
+      "网红",
+      "澳式"
+    ],
+    "taste_tags": [
+      "香",
+      "丰盛"
+    ],
+    "open_time": "07:30-15:00",
+    "suitable_for": [
+      "情侣",
+      "朋友",
+      "独行"
+    ],
+    "poi_type": "food",
+    "rank_info": "悉尼网红早午餐代表，Ricotta pancakes出名",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "早午餐",
+    "takeout_quality": "low",
+    "last_50m": "Surry Hills区，周末排队约30分钟，建议工作日前往。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_syd006",
+    "name": "Chat Thai泰餐",
+    "city": "悉尼",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 20,
+    "duration": 60,
+    "location": {
+      "lat": 33.8783,
+      "lng": 151.2033
+    },
+    "score": 4.4,
+    "tags": [
+      "泰国菜",
+      "平价",
+      "中国城"
+    ],
+    "taste_tags": [
+      "酸辣",
+      "鲜"
+    ],
+    "open_time": "11:00-22:00",
+    "suitable_for": [
+      "朋友",
+      "独行",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "悉尼中国城平价泰餐，性价比高",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "泰国菜",
+    "takeout_quality": "low",
+    "last_50m": "中国城附近，进门取号，等位约20分钟，炒河粉必点。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_per003",
+    "name": "Little Creatures啤酒",
+    "city": "珀斯",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 20,
+    "duration": 60,
+    "location": {
+      "lat": 32.0545,
+      "lng": 115.75
+    },
+    "score": 4.6,
+    "tags": [
+      "精酿啤酒",
+      "海景",
+      "弗里曼特尔"
+    ],
+    "taste_tags": [
+      "香",
+      "多样"
+    ],
+    "open_time": "11:00-23:00",
+    "suitable_for": [
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "弗里曼特尔精酿啤酒工厂，可参观酿造",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "精酿啤酒",
+    "takeout_quality": "low",
+    "last_50m": "弗里曼特尔码头区，大型仓库改造，啤酒配披萨最佳。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_per004",
+    "name": "Bread in Common早午餐",
+    "city": "珀斯",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 25,
+    "duration": 60,
+    "location": {
+      "lat": 32.0548,
+      "lng": 115.7502
+    },
+    "score": 4.5,
+    "tags": [
+      "早午餐",
+      "文艺",
+      "弗里曼特尔"
+    ],
+    "taste_tags": [
+      "香",
+      "丰盛"
+    ],
+    "open_time": "07:00-16:00",
+    "suitable_for": [
+      "独行",
+      "情侣",
+      "朋友"
+    ],
+    "poi_type": "food",
+    "rank_info": "弗里曼特尔网红早午餐，现烤面包出名",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "早午餐",
+    "takeout_quality": "low",
+    "last_50m": "弗里曼特尔工业区，工业风仓库内，招牌酸面包必尝。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_per005",
+    "name": "科廷海鲜烧烤",
+    "city": "珀斯",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 45,
+    "duration": 60,
+    "location": {
+      "lat": 31.9956,
+      "lng": 115.752
+    },
+    "score": 4.4,
+    "tags": [
+      "海鲜",
+      "烧烤",
+      "海滩"
+    ],
+    "taste_tags": [
+      "鲜",
+      "炭香"
+    ],
+    "open_time": "11:00-21:00",
+    "suitable_for": [
+      "朋友",
+      "情侣",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "科特斯罗海滩旁海鲜烧烤",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "海鲜烧烤",
+    "takeout_quality": "low",
+    "last_50m": "海滩边餐厅，日落时分用餐体验最佳。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_per006",
+    "name": "珀斯薄荷早市咖啡",
+    "city": "珀斯",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 6,
+    "duration": 60,
+    "location": {
+      "lat": 32.04,
+      "lng": 115.85
+    },
+    "score": 4.4,
+    "tags": [
+      "咖啡",
+      "早市",
+      "澳式"
+    ],
+    "taste_tags": [
+      "香浓",
+      "顺滑"
+    ],
+    "open_time": "06:30-14:00",
+    "suitable_for": [
+      "独行",
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "珀斯本地人最爱的晨间咖啡",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "咖啡",
+    "takeout_quality": "low",
+    "last_50m": "Subiaco市集附近，周六早市最热闹，配可颂最佳。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sg003",
+    "name": "牛车水大厦熟食中心",
+    "city": "新加坡",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 8,
+    "duration": 60,
+    "location": {
+      "lat": 1.2824,
+      "lng": 103.8444
+    },
+    "score": 4.6,
+    "tags": [
+      "街头美食",
+      "多元",
+      "平价"
+    ],
+    "taste_tags": [
+      "鲜",
+      "多样"
+    ],
+    "open_time": "08:00-22:00",
+    "suitable_for": [
+      "独行",
+      "朋友",
+      "亲子"
+    ],
+    "poi_type": "food",
+    "rank_info": "新加坡最大熟食中心之一",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "熟食",
+    "takeout_quality": "low",
+    "last_50m": "牛车水内，进门后各档口自选，炒饭炒面和肉骨茶都有。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sg004",
+    "name": "328加东叻沙",
+    "city": "新加坡",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 10,
+    "duration": 60,
+    "location": {
+      "lat": 1.3059,
+      "lng": 103.9053
+    },
+    "score": 4.7,
+    "tags": [
+      "叻沙",
+      "加东",
+      "必吃"
+    ],
+    "taste_tags": [
+      "香浓",
+      "辣"
+    ],
+    "open_time": "09:00-21:30",
+    "suitable_for": [
+      "独行",
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "新加坡叻沙名店，加东叻沙发源地",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "叻沙",
+    "takeout_quality": "low",
+    "last_50m": "加东区，用筷子吃叻沙是招牌体验，人多时等约20分钟。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sg005",
+    "name": "珍宝海鲜辣椒螃蟹",
+    "city": "新加坡",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 80,
+    "duration": 60,
+    "location": {
+      "lat": 1.2897,
+      "lng": 103.8462
+    },
+    "score": 4.7,
+    "tags": [
+      "辣椒螃蟹",
+      "必吃",
+      "海鲜"
+    ],
+    "taste_tags": [
+      "鲜辣",
+      "香浓"
+    ],
+    "open_time": "11:00-22:00",
+    "suitable_for": [
+      "朋友",
+      "情侣"
+    ],
+    "poi_type": "food",
+    "rank_info": "新加坡辣椒螃蟹发源地，国菜代表",
+    "can_reserve": true,
+    "supports_takeout": false,
+    "food_type": "螃蟹",
+    "takeout_quality": "low",
+    "last_50m": "克拉码头附近，建议提前预约，配馒头蘸汁。",
+    "updated_at": "2026-06"
+  },
+  {
+    "id": "food_sg006",
+    "name": "Maxwell熟食中心天天鸡饭",
+    "city": "新加坡",
+    "category": [
+      "美食",
+      "必吃榜"
+    ],
+    "cost": 5,
+    "duration": 60,
+    "location": {
+      "lat": 1.2797,
+      "lng": 103.8446
+    },
+    "score": 4.7,
+    "tags": [
+      "鸡饭",
+      "必吃",
+      "老字号"
+    ],
+    "taste_tags": [
+      "鲜甜",
+      "米香"
+    ],
+    "open_time": "10:00-20:00",
+    "suitable_for": [
+      "独行",
+      "朋友",
+      "老人"
+    ],
+    "poi_type": "food",
+    "rank_info": "新加坡鸡饭第一名，奥巴马曾光顾",
+    "can_reserve": false,
+    "supports_takeout": false,
+    "food_type": "海南鸡饭",
+    "takeout_quality": "low",
+    "last_50m": "Maxwell中心内，找排队最长的摊位，早去避免售完。",
+    "updated_at": "2026-06"
+  }
+]
