@@ -1,11 +1,12 @@
 import { useState } from 'react'
-import { AnimatePresence, motion } from 'framer-motion'
+import { motion, AnimatePresence } from 'framer-motion'
 
 const SUGGESTIONS = [
-    '带娃上海一日游，预算500，不想排队',
-    '情侣北京两日游，喜欢历史文化',
-    '老人成都一日游，腿脚不便',
-    '朋友聚会成都一天，网红打卡',
+    '我想去北京玩一天，不想排队，预算100',
+    '情侣上海一日游，喜欢咖啡和海边',
+    '朋友悉尼一天，想打卡地标和美食',
+    '广州两日游，想吃早茶和逛老城区',
+    '成都一天，老人腿脚不便',
 ]
 
 const PROFILES = [
@@ -44,8 +45,8 @@ export default function SearchPanel({ onSearch, loading, hasResult, onReset }) {
                         animate={{ opacity: 1, y: 0 }}
                         exit={{ opacity: 0, y: -18 }}
                     >
-                        <div className="brand-mark">智行</div>
-                        <h1>Your journey, gently planned</h1>
+                        <div className="brand-mark">逛逛</div>
+                        <h1>一句话，规划你的城市之旅</h1>
                         <p>输入目的地、预算和偏好，生成顺路、不重复、能直接执行的城市路线。</p>
                     </motion.div>
                 )}
@@ -60,7 +61,7 @@ export default function SearchPanel({ onSearch, loading, hasResult, onReset }) {
                         onKeyDown={handleKey}
                         onFocus={() => setFocused(true)}
                         onBlur={() => setTimeout(() => setFocused(false), 150)}
-                        placeholder="想去哪里？比如：上海一天，不想排队，预算500"
+                        placeholder="想去哪里？比如：珀斯一天，不想排队，预算100"
                     />
                     {hasResult ? (
                         <button className="icon-button" onClick={handleReset} aria-label="重新规划">×</button>

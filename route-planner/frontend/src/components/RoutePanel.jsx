@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { CITY_FOODS, detectCity, travelImage } from '../cityContent'
+import { CITY_FOODS, detectCity } from '../cityContent'
 
 const STYLE_CONFIG = {
     '平衡推荐': { color: '#2aa89b', icon: '◎' },
@@ -105,7 +105,7 @@ export default function RoutePanel({ result, activeRoute, onSelectRoute, userId 
                                             animate={{ opacity: 1, y: 0 }}
                                             transition={{ delay: i * 0.05 }}
                                         >
-                                            <img src={travelImage(stop.name, city)} alt={stop.name} loading="lazy" onError={(event) => { event.currentTarget.src = fallbackImage(stop.name) }} />
+
                                             <div className="stop-content">
                                                 <div className="stop-head">
                                                     <span className="stop-index">{i + 1}</span>
