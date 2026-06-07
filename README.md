@@ -258,6 +258,32 @@ npm run dev
 
 ---
 
+## 示例请求
+
+```bash
+# 一日游（无 Key 本地规划）
+curl -X POST http://127.0.0.1:8011/api/plan \
+  -H "Content-Type: application/json" \
+  -d '{"user_input":"我想去北京玩一天，不想排队，预算100","user_id":"demo_user"}'
+
+# 两日游，亲子人群
+curl -X POST http://127.0.0.1:8011/api/plan \
+  -H "Content-Type: application/json" \
+  -d '{"user_input":"上海两日游，带孩子，想看展览和吃美食","user_id":"user_family"}'
+
+# 指定出发地
+curl -X POST http://127.0.0.1:8011/api/plan \
+  -H "Content-Type: application/json" \
+  -d '{"user_input":"成都一天，想吃火锅","start_location":"成都双流机场","user_id":"user_spicy"}'
+
+# 快速初步方案
+curl -X POST http://127.0.0.1:8011/api/plan/initial \
+  -H "Content-Type: application/json" \
+  -d '{"user_input":"广州两日游，喜欢早茶和老城区","user_id":"demo_user"}'
+```
+
+---
+
 ## 用户画像
 
 `user_id` 对应 `mock_data/user_profiles.json` 中的预设画像，也会被 `profile_evolution.py` 根据搜索和反馈动态更新。
@@ -342,7 +368,7 @@ def get_directions(origin: dict, destination: dict, mode: str = "walking") -> di
 // Google：google.maps.Polyline + google.maps.geometry.encoding.decodePath
 ```
 
-**需要的 Key**：`AMAP_KEY`（路径规划权限）或 Google Maps Platform 账号（Routes API 已启用）
+**需要的 Key**：`AMAP_KEY` 需升级至付费套餐（免费 Key 不含路径规划 API 权限），或接入 Google Maps Platform（Routes API 需单独启用计费）
 
 ---
 
@@ -354,16 +380,16 @@ def get_directions(origin: dict, destination: dict, mode: str = "walking") -> di
 
 | 方案 | 接口 | 费用 |
 |------|------|------|
-| 高德地图照片 | Place API `extensions=all` 返回的 `photos[].url` | 含在现有 `AMAP_KEY` 权限内，**已部分实现**，见 `external_knowledge.py` 中 `photo_url` 字段 |
+| 高德地图照片 | Place API `extensions=all` 返回的 `photos[].url` | 需付费套餐，免费 Key 不含此权限 |
 | Google Places Photos | `Place Details → photos[].photo_reference → Place Photo API` | 按请求计费 |
 | Unsplash | `GET /search/photos?query=外滩+上海` | 免费套餐 50 req/hour |
 | Pexels | `GET /v1/search?query=...` | 免费，200 req/hour |
 
 **实现思路**：
 
-高德路径已经在 `_normalize_amap_poi()` 里解析了 `photo_url`，目前只存在 POI 数据里，前端 `RoutePanel.jsx` 的 stop 卡片里尚未渲染。最小改动只需前端读取 `stop.photo_url`（需后端把该字段透传到 `Stop` schema）。
+`_normalize_amap_poi()` 里已经解析并存储了 `photo_url` 字段，但因免费 Key 权限不足，实际返回为空。付费开通后无需改后端逻辑，只需在 `Stop` schema 中透传该字段，再在前端渲染即可。
 
-海外景点可对接 Unsplash/Pexels，用景点名称做关键词搜索，成本可控。
+海外景点可对接 Unsplash/Pexels，成本可控：
 
 ```python
 # models/schemas.py 中 Stop 增加字段
@@ -425,7 +451,7 @@ def fetch_nearby_food(lat: float, lng: float, radius: int = 500, city: str = "")
 
 前端在 `RoutePanel.jsx` 的每个 stop 底部加"附近美食"按钮，点击后调用 `/api/nearby_food?lat=...&lng=...`，结果渲染为可添加的小卡片。
 
-**需要的 Key**：`AMAP_KEY`（周边搜索权限）或 Google Places API Key
+**需要的 Key**：`AMAP_KEY` 需升级至付费套餐（免费 Key 不含周边搜索 API 权限），或接入 Google Places API
 
 ---
 
